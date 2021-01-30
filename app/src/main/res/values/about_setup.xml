@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
+    <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
+        <item>https://raw.githubusercontent.com/whosthispuppy/childishiconpack/master/logo%20puppy.png</item>
+    </string-array>
+
+    <string-array name="credits_titles">
+        <item>PUPPY DESIGNS</item>
+    </string-array>
+
+    <string-array name="credits_descriptions">
+        <item>I am a dedicated graphic and animation designer, who mostly draws influence from childhood, retro media and rap music.
+            I created the icons presented in the icon pack.</item>
+    </string-array>
+
+    <string-array name="credits_buttons">
+        <item>Instagram|Youtube|Fiverr</item>
+    </string-array>
+
+    <string-array name="credits_links">
+        <item>https://www.instagram.com/puppygfx/|https://www.youtube.com/channel/UC01RuDFfb3x9aTkPxlo64aA|https://www.fiverr.com/puppy_media</item>
+    </string-array>
+</resources>
