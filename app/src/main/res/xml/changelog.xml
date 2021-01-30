@@ -4,6 +4,6 @@
     <item text="Updated to the newest version of the Blueprint Dashboard (v 2.1.6)" />
     <item text="Added 16 new Icons for Microsoft apps" />
     <item text="Added recolors for the Dialer icon" />
-    <item text="Fixed the Calendar iconxx" />
+    <item text="Fixed the Calendar icon" />
     <item text="Reworked the Sygic GPS and Netguard Icon" /> <!-- this one is empty and therefore ignored -->
 </resources>
