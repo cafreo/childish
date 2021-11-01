@@ -59,6 +59,7 @@
         <item>every__wiki</item>
         <item>facebook</item>
         <item>facebook_lite</item>
+        <item>files</item>
         <item>fiverr</item>
         <item>flipboard</item>
         <item>flixbus</item>
@@ -104,6 +105,7 @@
         <item>i__f__t__t__t</item>
         <item>imo</item>
         <item>instagram</item>
+        <item>keepass2</item>
         <item>klarna</item>
         <item>komoot</item>
         <item>l__i__n__e</item>
@@ -116,6 +118,7 @@
         <item>m__x_player</item>
         <item>marvel_comics</item>
         <item>marvel_unlimited</item>
+        <item>m__e__g__a</item>
         <item>messenger</item>
         <item>messenger_lite</item>
         <item>microsoft_authenticator</item>
@@ -135,6 +138,7 @@
         <item>n__b__a</item>
         <item>netflix</item>
         <item>netguard</item>
+        <item>new__pipe</item>
         <item>news_republic</item>
         <item>nine__g__a__g</item>
         <item>nord__v__p__n</item>
@@ -216,6 +220,10 @@
     </string-array>
 
     <string-array name="New">
+        <item>keepass2</item>
+        <item>files</item>
+        <item>new__pipe</item>
+        <item>m__e__g__a</item>
         <item>microsoft_authenticator</item>
         <item>microsoft_bing</item>
         <item>microsoft_edge</item>
@@ -232,8 +240,6 @@
         <item>microsoft_teams</item>
         <item>microsoft_word</item>
         <item>sygic__g__p__s_navigation</item>
-        <item>netguard</item>
-        <item>your_phone_companion</item>
     </string-array>
 
     <string-array name="All">
@@ -293,6 +299,7 @@
         <item>every__wiki</item>
         <item>facebook</item>
         <item>facebook_lite</item>
+        <item>files</item>
         <item>fiverr</item>
         <item>flipboard</item>
         <item>flixbus</item>
@@ -338,6 +345,7 @@
         <item>i__f__t__t__t</item>
         <item>imo</item>
         <item>instagram</item>
+        <item>keepass2</item>
         <item>klarna</item>
         <item>komoot</item>
         <item>l__i__n__e</item>
@@ -350,19 +358,15 @@
         <item>m__x_player</item>
         <item>marvel_comics</item>
         <item>marvel_unlimited</item>
+        <item>m__e__g__a</item>
         <item>messenger</item>
         <item>messenger_lite</item>
         <item>microsoft_authenticator</item>
-        <item>microsoft_bing</item>
-        <item>microsoft_edge</item>
         <item>microsoft_excel</item>
         <item>microsoft_launcher</item>
-        <item>microsoft_news</item>
-        <item>microsoft_office</item>
         <item>microsoft_one__drive</item>
         <item>microsoft_one__note</item>
         <item>microsoft_outlook</item>
-        <item>microsoft_planner</item>
         <item>microsoft_power__point</item>
         <item>microsoft_share__point</item>
         <item>microsoft_teams</item>
@@ -374,6 +378,7 @@
         <item>n__b__a</item>
         <item>netflix</item>
         <item>netguard</item>
+        <item>new__pipe</item>
         <item>news_republic</item>
         <item>nine__g__a__g</item>
         <item>nord__v__p__n</item>

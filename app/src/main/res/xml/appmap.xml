@@ -1,9 +1,785 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <appmap>
-
-    <!-- Contacts App -->
-    <item
-        class="com.android.contacts.DialtactsContactsEntryActivity"
-        name="people" />
-
+  <resource>
+    <!--9GAG-->
+    <item class="com.ninegag.android.app.ui.home.HomeActivity" name="nine__g__a__g" />
+    <!--Adobe Acrobat-->
+    <item class="com.adobe.reader.AdobeReader" name="adobe_acrobat" />
+    <!--Adobe Creative Cloud-->
+    <item class="com.adobe.cc.SplashScreen" name="adobe_creative_cloud" />
+    <!--Adobe Lightroom-->
+    <item class="com.adobe.lrmobile.StorageCheckActivity" name="adobe_lightroom" />
+    <!--Adobe Photoshop Express-->
+    <item class="com.adobe.psmobile.SplashScreen" name="adobe_photoshop_express" />
+    <!--Adobe Scan-->
+    <item class="com.adobe.scan.android.SplashActivity" name="adobe_scan" />
+    <!--Adobe Sign-->
+    <item class="com.adobe.echosign.ui.ASLauncherActivity" name="adobe_sign" />
+    <!--Adobe XD-->
+    <item class="com.adobe.sparklerandroid.activity.XDSplashScreenActivity" name="adobe_x__d" />
+    <!--Ali Express-->
+    <item class="com.alibaba.aliexpresshd.home.ui.MainActivity" name="ali__express" />
+    <!--All In One Toolbox-->
+    <item class="imoblife.toolbox.full.ASplash" name="all_in_one_toolbox" />
+    <!--Amazon-->
+    <item class="com.amazon.mShop.home.HomeActivity" name="amazon" />
+    <!--Amazon Music-->
+    <item class="com.amazon.mp3.client.activity.LauncherActivity" name="amazon_music" />
+    <!--Amazon Photos-->
+    <item class="com.amazon.clouddrive.photos.display.LauncherActivity" name="amazon_photos" />
+    <!--Amazon Prime Video-->
+    <item class="com.amazon.avod.thirdpartyclient.LauncherActivity" name="amazon_prime_video" />
+    <!--Android Auto-->
+    <item class="com.google.android.gearhead.vanagon.VnLaunchPadActivity" name="android_auto" />
+    <!--Any.do-->
+    <item class="com.anydo.activity.SplashActivity" name="any_do" />
+    <!--Arts & Culture-->
+    <item class="com.google.android.apps.cultural.web.WebViewActivity" name="google_arts_and_culture" />
+    <!--Audible-->
+    <item class="com.audible.application.SplashScreen" name="audible" />
+    <!--Avast Cleanup-->
+    <item class="com.avast.android.cleaner.activity.StartActivity" name="avast_cleanup" />
+    <!--Avast Mobile Security-->
+    <item class="com.avast.android.mobilesecurity.app.main.MainActivity" name="avast_mobile_security" />
+    <!--Avira Antivirus-->
+    <item class="com.avira.android.dashboard.SplashActivity" name="avira_antivirus" />
+    <!--Babbel-->
+    <item class="com.babbel.mobile.android.core.presentation.mainactivity.screens.MainActivity" name="babbel" />
+    <!--Bandcamp-->
+    <item class="com.bandcamp.android.view.SplashActivity" name="bandcamp" />
+    <!--Behance-->
+    <item class="com.behance.network.ui.activities.MainActivity" name="behance" />
+    <!--Bitmoji-->
+    <item class="com.bitstrips.imoji.ui.LandingActivity" name="bitmoji" />
+    <!--Blogger-->
+    <item class="com.google.android.apps.blogger.SignInActivity" name="blogger" />
+    <!--Blogger-->
+    <item class="com.google.android.apps.blogger.ApplicationActivity" name="blogger" />
+    <!--Boomerang from Instagram-->
+    <item class="com.instagram.boomerang.BoomerangActivity" name="boomerang_from_instagram" />
+    <!--Brave-->
+    <item class="com.google.android.apps.chrome.Main" name="brave" />
+    <!--BuzzFeed-->
+    <item class="com.buzzfeed.android.activity.SplashActivity" name="buzz__feed" />
+    <!--BuzzFeed-->
+    <item class="com.buzzfeed.android.launcher.LauncherActivity" name="buzz__feed" />
+    <!--Calculator-->
+    <item class="com.android.calculator2.AsxCalculator" name="calculator" />
+    <!--Calculator-->
+    <item class="com.android.calculator2.Calculator" name="calculator" />
+    <!--Calculator-->
+    <item class="com.android.calculator2.CalculatorActivity" name="calculator" />
+    <!--Calculator-->
+    <item class="com.android.calculator2.Calculator-Dark" name="calculator" />
+    <!--Calculator-->
+    <item class="com.android.calculator2.Calculator-Light" name="calculator" />
+    <!--Calculator-->
+    <item class="com.sec.android.app.popupcalculator.Calculator" name="calculator" />
+    <!--Calculator-->
+    <item class="com.android.calculator2.Calculator" name="calculator" />
+    <!--Camera-->
+    <item class="com.android.camera.CameraLauncher" name="camera" />
+    <!--Camera-->
+    <item class="com.asus.camera.CameraApp" name="camera" />
+    <!--Camera-->
+    <item class="com.android.camera.LauncherActivity" name="camera" />
+    <!--Camera-->
+    <item class="com.htc.camera2.CameraEntry" name="camera" />
+    <!--Camera-->
+    <item class="com.htc.camera.CameraEntry" name="camera" />
+    <!--Camera-->
+    <item class="com.lenovo.scg.camera.CameraLauncher" name="camera" />
+    <!--Camera-->
+    <item class="com.lge.camera.CameraAppLauncher" name="camera" />
+    <!--Camera-->
+    <item class="com.geak.camera.MainActivity" name="camera" />
+    <!--Camera-->
+    <item class="com.meizu.media.camera.CameraLauncher" name="camera" />
+    <!--Camera-->
+    <item class="com.motorola.camera.Camera" name="camera" />
+    <!--Camera-->
+    <item class="com.motorola.camera.Camera" name="camera" />
+    <!--Camera-->
+    <item class="com.motorola.camera.Camera" name="camera" />
+    <!--Camera-->
+    <item class="com.oneplus.camera.OPCameraActivity" name="camera" />
+    <!--Camera-->
+    <item class="com.oppo.camera.Camera" name="camera" />
+    <!--Camera-->
+    <item class="com.sec.android.app.camera.Camera" name="camera" />
+    <!--Camera-->
+    <item class="com.sonyericsson.android.camera.CameraActivity" name="camera" />
+    <!--Camera-->
+    <item class="com.android.camera.Camera" name="camera" />
+    <!--Camera-->
+    <item class="com.zte.camera.CameraActivity" name="camera" />
+    <!--Camera Android-->
+    <item class="com.android.camera.CameraLauncher" name="camera_android" />
+    <!--Camera Google-->
+    <item class="com.android.camera.CameraLauncher" name="camera_google" />
+    <!--Camera Huawei-->
+    <item class="com.huawei.camera" name="camera_google" />
+    <!--Camera Motorola-->
+    <item class="com.motorola.camera.Camera" name="camera" />
+    <!--Chrome-->
+    <item class="com.google.android.apps.chrome.Main" name="google_chrome" />
+    <!--Chrome Remote Desktop-->
+    <item class="org.chromium.chromoting.Chromoting" name="chrome_remote_desktop" />
+    <!--Cisco Webex Meetings-->
+    <item class="com.cisco.webex.meetings.ui.premeeting.welcome.WebExMeeting" name="cisco_webex_meetings" />
+    <!--Clock-->
+    <item class="com.android.deskclock.AlarmsMainActivity" name="clock" />
+    <!--Clock Google-->
+    <item class="com.android.deskclock.DeskClock" name="clock_google" />
+    <!--Contacts-->
+    <item class="com.android.contacts.activities.PeopleActivity" name="contacts" />
+    <!--Contacts Google-->
+    <item class="com.android.contacts.activities.PeopleActivity" name="contacts_google" />
+    <!--DatPiff-->
+    <item class="com.datpiff.mobile.AppEntry" name="dat__piff" />
+    <!--DatPiff-->
+    <item class="com.datpiff.mobile.view.ui.activity.MainActivity" name="dat__piff" />
+    <!--DB Navigator-->
+    <item class="de.bahn.dbtickets.ui.DBNavLauncherActivity" name="d__b_navigator" />
+    <!--Deutsche Bank-->
+    <item class="com.db.pwcc.dbmobile.activities.SplashScreenActivity" name="deutsche_bank" />
+    <!--DeviantArt-->
+    <item class="com.deviantart.android.damobile.activity.HomeActivity" name="deviant__art" />
+    <!--Dialer-->
+    <item class="com.google.android.dialer.extensions.GoogleDialtactsActivity" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.dialer.DialtactsActivity" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.contacts.BbDialtactsMainFrameActivity" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.contacts.CallLog" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.contacts.activities.DialtactsActivity" name="dialer" />
+    <!--Dialer-->
+    <item class="com_android_dialer_dialtactsactivity" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.contacts.activities.DialtactsActivity" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.dialer.DialtactsActivity" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.dialer.PhoneContactsActivity" name="dialer" />
+    <!--Dialer-->
+    <item class="com_android_dialer_dialtactsactivity" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.dialer.app.DialtactsActivity" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.CallFeaturesSetting" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.callsettings.AccessorySettings" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.callsettings.AnsweringCall" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.callsettings.AutoRejectList" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.callsettings.AutoRejectVideoCallList" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.callsettings.CallAlert" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.callsettings.CallBarring" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.callsettings.CallSettingsTabFragment" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.callsettings.CallTypeSelectForBarring" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.callsettings.CallTypeSelectForForwarding" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.callsettings.CaptureImageViewer" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.callsettings.EditAutoRejectScreen" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.callsettings.EditAutoRejectVideoCallScreen" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.callsettings.EditRejectCallWithMsgScreen" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.callsettings.GsmUmtsVideoCallForwardOptions" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.callsettings.IpCall" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.callsettings.IpCallCmda" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.callsettings.OverturnTutorialIncallScreen" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.callsettings.PresetImage" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.callsettings.RejectCallWithMsg" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.callsettings.SoundEQDialog" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.CallSoundPrefernce" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.CellBroadcastSms" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.CmdaAdditionalCallOptions" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.CmdaCallOptions" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.CmdaOptions" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.CurrentNetwork" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.CurrentNetworkGsm" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.DialerSClass" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.DialtactsCallLogActivity" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.DialtactsContactsEntryActivity" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.EmergencyCallbackModeExitDialog" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.EmergencyCallList" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.EmergencyDialer" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.EmergencyOutgoingCallBroadcaster" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.Enhanced4GLTE" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.external.HelpScreen" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.FdnList" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.firewall.PhoneFireWall" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.GsmUmtsAdditionalCallOptions" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.GsmUmtsCallForwardOptions" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.GsmUmtsCallOptions" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.GsmUmtsOptions" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.help.callsettings.CallSettingsActivity" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.IMSConferenceCallActivity" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.InCallScreenShowActivation" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.IncomingCallTutorialIncallScreen" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.InternationalRoamingSetting" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.KTAddedServiceActivity" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.KTCallForwardingAll" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.KTCallForwardingConditional" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.KTCallWaiting" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.KTInboxActivity" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.LaunchCallInterface" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.LaunchRecentCallsActivity" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.LGTCountryList" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.LGTSetAutoDialing" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.LGTUwaVideoCall" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.ManualSystemAviodance" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.MobileNetworkSettings" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.MobileNetworkSettingsTab" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.NetworkSelection" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.NetworkSettings" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.OutgoingCallBroadcaster" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.PhoneNumberLocator" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.PhotoRingScreen" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.PrivilegedOutgoingCallBroadcaster" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.RecentCallsListActivity" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.RejectCallWithMsg" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.RejectwithMessageTutorialIncallScreen" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.ResponsViaSmsManager$Settings" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.Roaming" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.RoamingAutoDialMainActivity" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.RoamingAutoDialOption" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.RoamingAutoDialSettings" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.RoamingAutoDialSubActivity" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.RoamingGuard" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.RoamingSettings" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.Settings" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.SimContacts" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.sip.SipSettings" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.TwDialer" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.phone.VoicemailNumberFragment" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.server.telecom.PackageInstallerActivity" name="dialer" />
+    <!--Dialer-->
+    <item class="com.sec.android.app.dialertab.DialerTabActivity" name="dialer" />
+    <!--Dialer-->
+    <item class="com.android.dialer.main.impl.MainActivity" name="dialer" />
+    <!--Discord-->
+    <item class="com.discord.app.AppActivity$Main" name="discord" />
+    <!--Disney+-->
+    <item class="com.bamtechmedia.dominguez.main.MainActivity" name="disney_plus" />
+    <!--Dolphin Browser-->
+    <item class="mobi.mgeek.TunnyBrowser.SplashActivity" name="dolphin_browser" />
+    <!--Dropbox-->
+    <item class="com.dropbox.android.activity.DropboxBrowser" name="dropbox" />
+    <!--Duolingo-->
+    <item class="com.duolingo.app.LoginActivity" name="duolingo" />
+    <!--Ebay-->
+    <item class="com.ebay.mobile.activities.MainActivity" name="ebay" />
+    <!--EMail-->
+    <item class="com.android.email.activity.Welcome" name="e_mail" />
+    <!--EMail-->
+    <item class="com.android.email.activity.Welcome" name="e_mail" />
+    <!--ES File Explorer-->
+    <item class="com.estrongs.android.pop.app.openscreenad.NewSplashActivity" name="e__s_file_explorer" />
+    <!--ES File Explorer-->
+    <item class="com.estrongs.android.pop.view.FileExplorerActivity" name="e__s_file_explorer" />
+    <!--ES File Explorer-->
+    <item class="com.estrongs.android.pop.resmanager.view.FileExplorerActivity" name="e__s_file_explorer" />
+    <!--Evernote-->
+    <item class="com.evernote.ui.HomeActivity" name="evernote" />
+    <!--EveryWiki-->
+    <item class="net.nebulium.wiki.activities.BrowserActivity" name="every__wiki" />
+    <!--Facebook-->
+    <item class="com.facebook.katana.LoginActivity" name="facebook" />
+    <!--Facebook Lite-->
+    <item class="com.facebook.lite.MainActivity" name="facebook_lite" />
+    <!--Files-->
+    <item class="com.huawei.hidisk.filemanager.FileManager" name="files" />
+    <!--Fiverr-->
+    <item class="com.fiverr.fiverr.activityandfragments.entrypoints.FVREntryPoint" name="fiverr" />
+    <!--Flipboard-->
+    <item class="flipboard.activities.LaunchActivityAlias" name="flipboard" />
+    <!--Flixbus-->
+    <item class="de.meinfernbus.Main" name="flixbus" />
+    <!--Fotos-->
+    <item class="com.google.android.apps.photos.home.HomeActivity" name="google_photos" />
+    <!--Gallery-->
+    <item class="com.huawei.gallery.app.GalleryMain" name="gallery" />
+    <!--Gallery-->
+    <item class="com.android.gallery3d.app.GalleryActivity" name="gallery" />
+    <!--Gallery-->
+    <item class="com.asus.gallery.app.EPhotoActivity" name="gallery" />
+    <!--Gallery-->
+    <item class="com.htc.album.AlbumMain.ActivityMainTabHost" name="gallery" />
+    <!--Gallery-->
+    <item class="com.htc.photoenhancer.LandingPage" name="gallery" />
+    <!--Gallery-->
+    <item class="com.lenovo.gallery.app.GalleryActivity" name="gallery" />
+    <!--Gallery-->
+    <item class="com.android.gallery3d.app.Gallery" name="gallery" />
+    <!--Gallery-->
+    <item class="com.meizu.media.gallery.GalleryActivity" name="gallery" />
+    <!--Gallery-->
+    <item class="com.tct.gallery3d.app.PermissionActivity" name="gallery" />
+    <!--Gallery-->
+    <item class="com.android.camera.LauncherActivity" name="gallery" />
+    <!--Gboard-->
+    <item class="com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity" name="gboard" />
+    <!--Genius-->
+    <item class="com.genius.android.MainActivity" name="genius" />
+    <!--Gmail-->
+    <item class="com.google.android.gm.ConversationListActivityGmail" name="gmail" />
+    <!--Google-->
+    <item class="com.google.android.googlequicksearchbox.SearchActivity" name="google_search" />
+    <!--Google-->
+    <item class="com.google.android.googlequicksearchbox.VoiceSearchActivity" name="google_search" />
+    <!--Google Ads-->
+    <item class="com.google.android.apps.adwords.InitialLoadingActivity" name="google_ads" />
+    <!--Google Assistant-->
+    <item class="com.google.android.apps.googleassistant.AssistantActivity" name="google_assistant" />
+    <!--Google Calendar-->
+    <item class="com.android.calendar.AllInOneActivity" name="google_calendar_" />
+    <!--Google Calendar-->
+    <item class="com.android.calendar.AgendaActivity" name="google_calendar_" />
+    <!--Google Calendar-->
+    <item class="com.android.calendar.AllInOneActivity" name="google_calendar_" />
+    <!--Google Calendar-->
+    <item class="com.android.calendar.CalendarTabActivity" name="google_calendar_" />
+    <!--Google Calendar-->
+    <item class="com.android.calendar.ChooserActivity" name="google_calendar_" />
+    <!--Google Calendar-->
+    <item class="com.android.calendar.EditEventActivity" name="google_calendar_" />
+    <!--Google Calendar-->
+    <item class="com.android.calendar.EventInfoActivity" name="google_calendar_" />
+    <!--Google Calendar-->
+    <item class="com.android.calendar.JumpActivity" name="google_calendar_" />
+    <!--Google Calendar-->
+    <item class="com.android.calendar.LaunchActivity" name="google_calendar_" />
+    <!--Google Calendar-->
+    <item class="com.android.calendar.MonthActivity" name="google_calendar_" />
+    <!--Google Calendar-->
+    <item class="com.android.calendar.timeline.EventListWithStartTime" name="google_calendar_" />
+    <!--Google Calendar-->
+    <item class="CalendarContentProviderTests" name="google_calendar_" />
+    <!--Google Calendar-->
+    <item class="com.android.calendar.LaunchActivity" name="google_calendar_" />
+    <!--Google Cardboard-->
+    <item class="com.google.vr.cardboard.paperscope.carton.Home2Dv2" name="google_cardboard" />
+    <!--Google Docs-->
+    <item class="com.google.android.apps.docs.app.NewMainProxyActivity" name="google_docs" />
+    <!--Google Drive-->
+    <item class="com.google.android.apps.docs.app.NewMainProxyActivity" name="google_drive" />
+    <!--Google Duo-->
+    <item class="com.google.android.apps.tachyon.MainActivity" name="google_duo" />
+    <!--Google Earth-->
+    <item class="com.google.android.apps.earth.EarthActivity" name="google_earth" />
+    <!--Google Files-->
+    <item class="com.google.android.apps.nbu.files.home.HomeActivity" name="google_files" />
+    <!--Google Fit-->
+    <item class="com.google.android.apps.fitness.welcome.WelcomeActivity" name="google_fit" />
+    <!--Google Home-->
+    <item class="com.google.android.apps.chromecast.app.DiscoveryActivity" name="google_home" />
+    <!--Google Lens-->
+    <item class="com.google.vr.apps.ornament.app.lens.LensLauncherActivity" name="google_lens" />
+    <!--Google Messages-->
+    <item class="com.google.android.apps.messaging.ui.ConversationListActivity" name="google_messages" />
+    <!--Google News-->
+    <item class="com.google.android.apps.genie.geniewidget.activities.NewsActivity" name="google_news" />
+    <!--Google News-->
+    <item class="com.google.android.apps.genie.geniewidget.activities.NewWidgetConfigurationActivity" name="google_news" />
+    <!--Google News-->
+    <item class="com.motorola.blur.news.NewsFeedListActivity" name="google_news" />
+    <!--Google News-->
+    <item class="com.google.apps.dots.android.app.activity.CurrentsStartActivity" name="google_news" />
+    <!--Google Notes-->
+    <item class="com.google.android.keep.activities.BrowseActivity" name="google_keep" />
+    <!--Google One-->
+    <item class="com.google.android.apps.subscriptions.red.LauncherActivity" name="google_one" />
+    <!--Google Pay-->
+    <item class="com.google.commerce.tapandpay.android.cardlist.CardListActivity" name="google_pay" />
+    <!--Google Pixel Buds-->
+    <item class="com.google.android.apps.wearables.maestro.companion.ui.ShortCutActivity" name="google_pixel_buds" />
+    <!--Google Play Bücher-->
+    <item class="com.google.android.apps.books.app.BooksActivity" name="play_books" />
+    <!--Google Play Console-->
+    <item class="com.google.android.apps.playconsole.activity.MainAndroidActivity" name="play_console" />
+    <!--Google Play Filme & Serien-->
+    <item class="com.google.android.videos.activity.LauncherActivity" name="play_movies" />
+    <!--Google Play Filme & Serien-->
+    <item class="com.google.android.youtube.videos.honeycomb.VideosActivity" name="play_movies" />
+    <!--Google Play Filme & Serien-->
+    <item class="com.google.android.youtube.videos.EntryPoint" name="play_movies" />
+    <!--Google Play Games-->
+    <item class="com.google.android.gms.games.ui.destination.main.MainActivity" name="play_games" />
+    <!--Google Play Musik-->
+    <item class="com.android.music.activitymanagement.TopLevelActivity" name="play_music" />
+    <!--Google Play Store-->
+    <item class="com.android.vending.AssetBrowserActivity" name="google_play_store" />
+    <!--Google Podcasts-->
+    <item class="com.google.android.apps.podcasts.PodcastsActivity" name="google_podcasts" />
+    <!--Google Sheets-->
+    <item class="com.google.android.apps.docs.app.NewMainProxyActivity" name="google_sheets" />
+    <!--Google Slides-->
+    <item class="com.google.android.apps.docs.app.NewMainProxyActivity" name="google_slides" />
+    <!--Google Street View-->
+    <item class="com.google.android.apps.dragonfly.activities.main.MainActivity" name="google_street_view" />
+    <!--Google Tasks-->
+    <item class="com.google.android.apps.tasks.ui.TaskListsActivity" name="google_tasks" />
+    <!--Google Translate-->
+    <item class="com.google.android.apps.translate.TranslateActivity" name="google_translate" />
+    <!--Google Umfrage-App-->
+    <item class="com.google.android.apps.paidtasks.LaunchActivity" name="google_opinion_rewards" />
+    <!--Google Umfrage-App-->
+    <item class="com.google.android.apps.paidtasks.activity.LaunchActivity" name="google_opinion_rewards" />
+    <!--Google Wallpapers-->
+    <item class="com.google.android.apps.wallpaper.picker.CategoryPickerActivity" name="google_wallpapers" />
+    <!--Google Wear OS-->
+    <item class="com.google.android.clockwork.companion.launcher.LauncherActivity" name="google_wear_o__s" />
+    <!--Google+-->
+    <item class="com.google.android.apps.plus.phone.HomeActivity" name="google_plus" />
+    <!--Hangouts-->
+    <item class="com.google.android.talk.SigningInActivity" name="hangouts" />
+    <!--IFTTT-->
+    <item class="com.ifttt.ifttt.home.HomeActivity" name="i__f__t__t__t" />
+    <!--imo-->
+    <item class="com.imo.android.imoim.activities.Home" name="imo" />
+    <!--Instagram-->
+    <item class="com.instagram.android.activity.MainTabActivity" name="instagram" />
+    <!--Keepass2-->
+    <item class="crc64ae7e22645ed9821f.KeePass" name="keepass2" />
+    <!--KeePassDX-->
+    <item class="com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" name="kee__pass__d__x" />
+    <!--Klarna-->
+    <item class="com.klarna.SplashActivity" name="klarna" />
+    <!--Komoot-->
+    <item class="de.komoot.android.ui.inspiration.InspirationActivity" name="komoot" />
+    <!--LastPass-->
+    <item class="com.lastpass.lpandroid.activity.WebBrowserActivity" name="last__pass" />
+    <!--Layout from Instagram-->
+    <item class="com.instagram.layout.LayoutActivity" name="layout_from_instagram" />
+    <!--Lieferando-->
+    <item class="com.takeaway.android.activity.Splash" name="lieferando" />
+    <!--LINE-->
+    <item class="jp.naver.line.android.activity.SplashActivity" name="l__i__n__e" />
+    <!--LINE Lite-->
+    <item class="com.linecorp.linelite.ui.android.main.IntroActivity" name="l__i__n__e_lite" />
+    <!--LinkedIn-->
+    <item class="com.linkedin.android.authenticator.LaunchActivity" name="linked__in" />
+    <!--LOVOO-->
+    <item class="com.lovoo.ui.activities.LovooStartActivity" name="lovoo" />
+    <!--Maps-->
+    <item class="com.google.android.maps.MapsActivity" name="google_maps" />
+    <!--Marvel Comics-->
+    <item class="com.iconology.ui.navigation.RouterActivity" name="marvel_comics" />
+    <!--Marvel Unlimited-->
+    <item class="com.marvel.unlimited.activities.SplashActivity" name="marvel_unlimited" />
+    <!--MEGA-->
+    <item class="mega.privacy.android.app.lollipop.ManagerActivityLollipop" name="m__e__g__a" />
+    <!--Messenger-->
+    <item class="com.facebook.orca.auth.StartScreenActivity" name="messenger" />
+    <!--Messenger Lite-->
+    <item class="com.facebook.mlite.coreui.view.MainActivity" name="messenger_lite" />
+    <!--Microsoft Authenticator-->
+    <item class="com.azure.authenticator.ui.LaunchActivity" name="microsoft_authenticator" />
+    <!--Microsoft Bing-->
+    <item class="com.microsoft.clients.bing.main.SplashActivity" name="microsoft_bing" />
+    <!--Microsoft Edge-->
+    <item class="com.microsoft.ruby.Main" name="microsoft_edge" />
+    <!--Microsoft Excel-->
+    <item class="com.microsoft.office.apphost.LaunchActivity" name="microsoft_excel" />
+    <!--Microsoft Launcher-->
+    <item class="com.microsoft.launcher.Launcher" name="microsoft_launcher" />
+    <!--Microsoft News-->
+    <item class="microsoft.msn.news.android.activities.LaunchActivity" name="microsoft_news" />
+    <!--Microsoft Office-->
+    <item class="com.microsoft.office.officesuite.OfficeSuiteActivity" name="microsoft_office" />
+    <!--Microsoft OneDrive-->
+    <item class="com.microsoft.skydrive.MainActivity" name="microsoft_one__drive" />
+    <!--Microsoft OneNote-->
+    <item class="com.microsoft.office.onenote.ui.ONMSplashActivity" name="microsoft_one__note" />
+    <!--Microsoft Outlook-->
+    <item class="com.microsoft.office.outlook.MainActivity" name="microsoft_outlook" />
+    <!--Microsoft Planner-->
+    <item class="com.microsoft.planner.login.ConnectActivity" name="microsoft_planner" />
+    <!--Microsoft PowerPoint-->
+    <item class="com.microsoft.office.apphost.LaunchActivity" name="microsoft_power__point" />
+    <!--Microsoft SharePoint-->
+    <item class="com.microsoft.sharepoint.MainActivity" name="microsoft_share__point" />
+    <!--Microsoft Teams-->
+    <item class="com.microsoft.skype.teams.Launcher" name="microsoft_teams" />
+    <!--Microsoft To-Do-->
+    <item class="com.microsoft.todos.ui.LaunchActivity" name="microsoft_to__do" />
+    <!--Microsoft Word-->
+    <item class="com.microsoft.office.apphost.LaunchActivity" name="microsoft_word" />
+    <!--Music-->
+    <item class="com.android.mediacenter.PageActivity" name="music" />
+    <!--Musixmatch-->
+    <item class="com.musixmatch.android.ui.phone.DashBoardActivity" name="musixmatch" />
+    <!--Musixmatch-->
+    <item class="com.musixmatch.android.presentation.activities.SplashActivity" name="musixmatch" />
+    <!--MX Player-->
+    <item class="com.mxtech.videoplayer.ad.ActivityWelcomeMX" name="m__x_player" />
+    <!--My Mixtapez-->
+    <item class="my.googlemusic.play.ui.authentication.LoginActivity" name="my_mixtapez" />
+    <!--My Mixtapez-->
+    <item class="my.googlemusic.play.ui.activity_route.MainActivityRoute" name="my_mixtapez" />
+    <!--NBA-->
+    <item class="com.neulion.nba.ui.activity.SplashActivity" name="n__b__a" />
+    <!--NBA-->
+    <item class="com.neulion.nba.ui.activity.LaunchDispatcherActivity" name="n__b__a" />
+    <!--NBA-->
+    <item class="com.neulion.nba.base.LaunchDispatcherActivity" name="n__b__a" />
+    <!--Netflix-->
+    <item class="com.netflix.mediaclient.ui.launch.UIWebViewActivity" name="netflix" />
+    <!--Netguard-->
+    <item class="eu.faircode.netguard.ActivityMain" name="netguard" />
+    <!--NewPipe-->
+    <item class="org.schabi.newpipe.MainActivity" name="new__pipe" />
+    <!--News Republic-->
+    <item class="com.mobilesrepublic.appy.InitActviity" name="news_republic" />
+    <!--News Republic-->
+    <item class="com.ss.android.application.app.mainpage.BottomTabMainActivity" name="news_republic" />
+    <!--NordVPN-->
+    <item class="com.nordvpn.android.MainActivity" name="nord__v__p__n" />
+    <!--Nova Launcher-->
+    <item class="com.teslacoilsw.launcher.NovaShortcutHandler" name="nova_launcher_settings" />
+    <!--Nova Launcher-->
+    <item class="com.android.launcher2.Launcher" name="nova_launcher_settings" />
+    <!--Nova Launcher-->
+    <item class="com.teslacoilsw.launcher.preferences.SettingsActivity" name="nova_launcher_settings" />
+    <!--Nova Launcher Prime-->
+    <item class="com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity" name="nova_launcher_prime" />
+    <!--Onix Music-->
+    <item class="com.optimus.music.player.onix.SplashScreen.SplashScreenActivity" name="onix_music" />
+    <!--Opera-->
+    <item class="com.opera.Opera" name="opera" />
+    <!--Opera-->
+    <item class="com.opera.touch.MainActivity" name="opera_touch" />
+    <!--Opera News-->
+    <item class="com.opera.android.startup.NewsStartActivity" name="opera_news" />
+    <!--PayPal-->
+    <item class="com.paypal.android.p2pmobile.startup.activities.StartupActivity" name="pay__pal" />
+    <!--Pinterest-->
+    <item class="com.pinterest.activity.PinterestActivity" name="pinterest" />
+    <!--Pinterest Lite-->
+    <item class="com.pinterest.twa.LauncherActivity" name="pinterest_lite" />
+    <!--Plex-->
+    <item class="com.plexapp.plex.activities.SplashActivity" name="plex" />
+    <!--Reddit-->
+    <item class="com.reddit.frontpage.StartActivity" name="reddit" />
+    <!--Reddit-->
+    <item class="launcher.default" name="reddit" />
+    <!--Rero Music-->
+    <item class="code.name.monkey.retromusic.ui.activities.main.MainActivity" name="retro_music" />
+    <!--Rero Music-->
+    <item class="code.name.monkey.retromusic.ui.activities.MainActivity" name="retro_music" />
+    <!--Rero Music-->
+    <item class="code.name.monkey.retromusic.activities.MainActivity" name="retro_music" />
+    <!--Settings-->
+    <item class="com.android.settings.HWSettings" name="settings" />
+    <!--Settings-->
+    <item class="com.android.settings.MainEntry" name="settings" />
+    <!--Settings-->
+    <item class="com.android.settings.Settings" name="settings" />
+    <!--Settings-->
+    <item class="com.android.settings.TetherSettings" name="settings" />
+    <!--Settings-->
+    <item class="com.android.settings.TetherSettingsActivity" name="settings" />
+    <!--Settings-->
+    <item class="com.android.settings.TetherSettingsWifi" name="settings" />
+    <!--Settings-->
+    <item class="com.cyanogenmod.settings.device.DeviceSettings" name="settings" />
+    <!--Settings-->
+    <item class="com.cyanogenmod.settings.device.hwa.HwaSettingsActivity" name="settings" />
+    <!--Settings-->
+    <item class="com.gn.android.common.controller.AppInitActivity" name="settings" />
+    <!--SHAREit-->
+    <item class="com.lenovo.anyshare.ApMainActivity" name="s__h__a__r__e_it" />
+    <!--Shazam-->
+    <item class="com.shazam.android.activities.SplashActivity" name="shazam" />
+    <!--Skype-->
+    <item class="com.skype.raider.Main" name="skype" />
+    <!--Skype-->
+    <item class="com.skype4life.MainActivity" name="skype" />
+    <!--Skype Business-->
+    <item class="com.microsoft.office.sfb.common.ui.splash.EntryPoint" name="skype_business" />
+    <!--Skype Lite-->
+    <item class="com.skype.m2.views.HubActivity" name="skype_lite" />
+    <!--SMS / MMS-->
+    <item class="com.android.mms.ui.BootActivity" name="s__m__s_m__m__s" />
+    <!--SMS / MMS-->
+    <item class="com.android.mms.ui.CmasListActivityShortCut" name="s__m__s_m__m__s" />
+    <!--SMS / MMS-->
+    <item class="com.android.mms.ui.ConversationComposer" name="s__m__s_m__m__s" />
+    <!--SMS / MMS-->
+    <item class="com.android.mms.ui.ConversationList" name="s__m__s_m__m__s" />
+    <!--SMS / MMS-->
+    <item class="com.android.mms.ui.EntryActivity" name="s__m__s_m__m__s" />
+    <!--SMS / MMS-->
+    <item class="com.android.mms.ui.MessageTabActivity" name="s__m__s_m__m__s" />
+    <!--SMS / MMS-->
+    <item class="com.android.mms.ui.MmsTabActivity" name="s__m__s_m__m__s" />
+    <!--SMS / MMS-->
+    <item class="com.android.mms.ui.ModeChooser" name="s__m__s_m__m__s" />
+    <!--SMS / MMS-->
+    <item class="com.android.mms.ui.UiController" name="s__m__s_m__m__s" />
+    <!--SMS / MMS-->
+    <item class="com.android.mms.ui.VoiceMailTabActivity" name="s__m__s_m__m__s" />
+    <!--SMS / MMS-->
+    <item class="com.yulong.android.mms.ui.MmsMainListFormActivity" name="s__m__s_m__m__s" />
+    <!--Snapchat-->
+    <item class="com.snapchat.android.LandingPageActivity" name="snapchat" />
+    <!--Snapseed-->
+    <item class="com.google.android.apps.snapseed.WelcomeScreenActivity" name="snapseed" />
+    <!--Soundcloud-->
+    <item class="com.soundcloud.android.main.LauncherActivity" name="soundcloud" />
+    <!--SoundHound-->
+    <item class="com.soundhound.android.appcommon.activity.SplashScreenActivity" name="sound__hound" />
+    <!--Spotify-->
+    <item class="com.spotify.music.MainActivity" name="spotify" />
+    <!--Steam-->
+    <item class="com.valvesoftware.android.steam.community.activity.MainActivity" name="steam" />
+    <!--Sygic-->
+    <item class="com.sygic.aura.activity.NaviNativeActivity" name="sygic__g__p__s_navigation" />
+    <!--Takeaway-->
+    <item class="com.takeaway.android.activity.Splash" name="takeaway" />
+    <!--Team Viewer-->
+    <item class="com.teamviewer.remotecontrollib.activity.MainActivity" name="team__viewer" />
+    <!--Telegram-->
+    <item class="org.telegram.ui.LaunchActivity" name="telegram" />
+    <!--Telegram X-->
+    <item class="org.thunderdog.challegram.MainActivity" name="telegram_x" />
+    <!--Tidal-->
+    <item class="com.aspiro.wamp.LoginFragmentActivity" name="tidal" />
+    <!--TikTok-->
+    <item class="com.ss.android.ugc.aweme.splash.SplashActivity" name="tik__tok" />
+    <!--Tinder-->
+    <item class="com.tinder.activities.LoginActivity" name="tinder" />
+    <!--Trading 212-->
+    <item class="com.avuscapital.trading212lib.modules.prelogin.WelcomeActivity" name="trading_212" />
+    <!--Tumblr-->
+    <item class="com.tumblr.ui.activity.JumpoffActivity" name="tumblr" />
+    <!--Twitch-->
+    <item class="tv.twitch.android.app.core.LandingActivity" name="twitch" />
+    <!--Twitter-->
+    <item class="com.twitter.android.StartActivity" name="twitter" />
+    <!--Twitter Lite-->
+    <item class="com.twitter.android.lite.TwitterLiteActivity" name="twitter_lite" />
+    <!--UC Browser-->
+    <item class="com.UCMobile.main.UCMobile" name="u__c_browser" />
+    <!--Untis Mobile-->
+    <item class="com.untis.mobile.ui.activities.launcher.LauncherActivity" name="untis_mobile" />
+    <!--Viber-->
+    <item class="com.viber.voip.WelcomeActivity" name="viber" />
+    <!--Vimeo-->
+    <item class="com.vimeo.android.videoapp.launch.LaunchActivity" name="vimeo" />
+    <!--Vine-->
+    <item class="co.vine.android.MainActivity" name="vine" />
+    <!--VLC-->
+    <item class="org.videolan.vlc.StartActivity" name="vlc" />
+    <!--WhatsApp-->
+    <item class="com.whatsapp.Main" name="whats__app" />
+    <!--Wikipedia-->
+    <item class="org.wikipedia.main.MainActivity" name="wikipedia" />
+    <!--Wikipedia Beta-->
+    <item class="org.wikipedia.main.MainActivity" name="wikipedia_beta" />
+    <!--Wish-->
+    <item class="com.contextlogic.wish.activity.browse.BrowseActivity" name="wish" />
+    <!--Your Phone Companion-->
+    <item class="com.microsoft.appmanager.StartUpCoreActivity" name="your_phone_companion" />
+    <!--YouTube-->
+    <item class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" name="you__tube" />
+    <!--YouTube-->
+    <item class="com.google.android.youtube.HomeActivity" name="you__tube" />
+    <!--YouTube-->
+    <item class="com.google.android.youtube.HomePage" name="you__tube" />
+    <!--YouTube-->
+    <item class="com.google.android.youtube.app.froyo.phone.HomeActivity" name="you__tube" />
+    <!--YouTube-->
+    <item class="com.google.android.youtube.app.tablet.HomeActivity" name="you__tube" />
+    <!--YT Music-->
+    <item class="com.google.android.apps.youtube.music.activities.MusicActivity" name="you__tube_music" />
+    <!--YT Studio-->
+    <item class="com.google.android.apps.youtube.creator.main.MainActivity" name="you__tube_studio" />
+    <!--Zalando-->
+    <item class="de.zalando.mobile.ui.start.SplashActivity" name="zalando" />
+    <!--Zoom-->
+    <item class="com.zipow.videobox.LauncherActivity" name="zoom" />
+  </resource>
 </appmap>
