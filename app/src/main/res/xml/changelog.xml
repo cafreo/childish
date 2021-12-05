@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="v 2.0.0" />
-    <item text="Updated to the newest version of the Blueprint Dashboard (v 2.1.6)" />
-    <item text="Added 16 new Icons for Microsoft apps" />
-    <item text="Added recolors for the Dialer icon" />
-    <item text="Fixed the Calendar icon" />
-    <item text="Reworked the Sygic GPS and Netguard Icon" /> <!-- this one is empty and therefore ignored -->
+    <version title="v 2.1.0" />
+    <item text="Added 15 new Icons, 7 of them for FOSS apps" />
+    <item text="Updated 4 icons" />
+    <item text="Added 4 new wallpapers" />
+    <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>
