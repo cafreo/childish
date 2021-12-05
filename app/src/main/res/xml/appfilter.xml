@@ -22,6 +22,8 @@
   <item component="ComponentInfo{imoblife.toolbox.full/imoblife.toolbox.full.ASplash}" drawable="all_in_one_toolbox" />
   <!--Amazon-->
   <item component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon" />
+  <!--Amazon Alexa-->
+  <item component="ComponentInfo{com.amazon.dee.app/com.amazon.dee.app.Launcher}" drawable="amazon_alexa" />
   <!--Amazon Music-->
   <item component="ComponentInfo{com.amazon.mp3/com.amazon.mp3.client.activity.LauncherActivity}" drawable="amazon_music" />
   <!--Amazon Photos-->
@@ -142,6 +144,8 @@
   <item component="ComponentInfo{de.hafas.android.db/de.bahn.dbtickets.ui.DBNavLauncherActivity}" drawable="d__b_navigator" />
   <!--Deutsche Bank-->
   <item component="ComponentInfo{com.db.pwcc.dbmobile/com.db.pwcc.dbmobile.activities.SplashScreenActivity}" drawable="deutsche_bank" />
+  <!--Deutsche Bank PhotoTAN-->
+  <item component="ComponentInfo{com.db.pbc.phototan.db/com.db.pbc.phototan.db.activities.splash.SplashActivity}" drawable="deutsche_bank___photo__t__a__n" />
   <!--DeviantArt-->
   <item component="ComponentInfo{com.deviantart.android.damobile/com.deviantart.android.damobile.activity.HomeActivity}" drawable="deviant__art" />
   <!--Dialer-->
@@ -370,6 +374,8 @@
   <item component="ComponentInfo{com.facebook.lite/com.facebook.lite.MainActivity}" drawable="facebook_lite" />
   <!--Files-->
   <item component="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager}" drawable="files" />
+  <!--Firefox-->
+  <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox" />
   <!--Fiverr-->
   <item component="ComponentInfo{com.fiverr.fiverr/com.fiverr.fiverr.activityandfragments.entrypoints.FVREntryPoint}" drawable="fiverr" />
   <!--Flipboard-->
@@ -516,6 +522,8 @@
   <item component="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}" drawable="hangouts" />
   <!--IFTTT-->
   <item component="ComponentInfo{com.ifttt.ifttt/com.ifttt.ifttt.home.HomeActivity}" drawable="i__f__t__t__t" />
+  <!--IKEA-->
+  <item component="ComponentInfo{com.ingka.ikea.app/com.ingka.ikea.app.splash.SplashActivity}" drawable="i__k__e__a" />
   <!--imo-->
   <item component="ComponentInfo{com.imo.android.imoim/com.imo.android.imoim.activities.Home}" drawable="imo" />
   <!--Instagram-->
@@ -526,8 +534,12 @@
   <item component="ComponentInfo{com.kunzisoft.keepass.free/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}" drawable="kee__pass__d__x" />
   <!--Klarna-->
   <item component="ComponentInfo{com.myklarnamobile/com.klarna.SplashActivity}" drawable="klarna" />
+  <!--Kodi-->
+  <item component="ComponentInfo{org.xbmc.kodi/org.xbmc.kodi.Splash}" drawable="kodi" />
   <!--Komoot-->
   <item component="ComponentInfo{de.komoot.android/de.komoot.android.ui.inspiration.InspirationActivity}" drawable="komoot" />
+  <!--Kore-->
+  <item component="ComponentInfo{org.xbmc.kore/org.xbmc.kore.ui.sections.remote.RemoteActivity}" drawable="kore" />
   <!--LastPass-->
   <item component="ComponentInfo{com.lastpass.lpandroid/com.lastpass.lpandroid.activity.WebBrowserActivity}" drawable="last__pass" />
   <!--Layout from Instagram-->
@@ -672,6 +684,8 @@
   <item component="ComponentInfo{com.lenovo.anyshare.gps/com.lenovo.anyshare.ApMainActivity}" drawable="s__h__a__r__e_it" />
   <!--Shazam-->
   <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="shazam" />
+  <!--Signal-->
+  <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity}" drawable="signal" />
   <!--Skype-->
   <item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="skype" />
   <!--Skype-->
@@ -734,6 +748,8 @@
   <item component="ComponentInfo{com.avuscapital.trading212/com.avuscapital.trading212lib.modules.prelogin.WelcomeActivity}" drawable="trading_212" />
   <!--Tumblr-->
   <item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="tumblr" />
+  <!--Tutanota-->
+  <item component="ComponentInfo{de.tutao.tutanota/de.tutao.tutanota.MainActivity}" drawable="tutanota" />
   <!--Twitch-->
   <item component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity}" drawable="twitch" />
   <!--Twitter-->

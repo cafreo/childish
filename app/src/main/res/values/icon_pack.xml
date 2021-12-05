@@ -14,6 +14,7 @@
         <item>ali__express</item>
         <item>all_in_one_toolbox</item>
         <item>amazon</item>
+        <item>amazon_alexa</item>
         <item>amazon_music</item>
         <item>amazon_photos</item>
         <item>amazon_prime_video</item>
@@ -29,6 +30,7 @@
         <item>bitmoji</item>
         <item>blogger</item>
         <item>boomerang_from_instagram</item>
+        <item>brave</item>
         <item>buzz__feed</item>
         <item>calculator</item>
         <item>camera_android</item>
@@ -45,6 +47,7 @@
         <item>d__b_navigator</item>
         <item>dat__piff</item>
         <item>deutsche_bank</item>
+        <item>deutsche_bank___photo__t__a__n</item>
         <item>deviant__art</item>
         <item>dialer</item>
         <item>discord</item>
@@ -60,6 +63,7 @@
         <item>facebook</item>
         <item>facebook_lite</item>
         <item>files</item>
+        <item>firefox</item>
         <item>fiverr</item>
         <item>flipboard</item>
         <item>flixbus</item>
@@ -103,11 +107,15 @@
         <item>google_wear_o__s</item>
         <item>hangouts</item>
         <item>i__f__t__t__t</item>
+        <item>i__k__e__a</item>
         <item>imo</item>
         <item>instagram</item>
         <item>keepass2</item>
+        <item>kee__pass__d__x</item>
         <item>klarna</item>
+        <item>kodi</item>
         <item>komoot</item>
+        <item>kore</item>
         <item>l__i__n__e</item>
         <item>l__i__n__e_lite</item>
         <item>last__pass</item>
@@ -147,6 +155,7 @@
         <item>nova_launcher_settings</item>
         <item>onix_music</item>
         <item>opera</item>
+        <item>opera_news</item>
         <item>opera_touch</item>
         <item>pay__pal</item>
         <item>pinterest</item>
@@ -163,6 +172,7 @@
         <item>s__m__s_m__m__s</item>
         <item>settings</item>
         <item>shazam</item>
+        <item>signal</item>
         <item>skype</item>
         <item>skype_business</item>
         <item>skype_lite</item>
@@ -182,6 +192,7 @@
         <item>tinder</item>
         <item>trading_212</item>
         <item>tumblr</item>
+        <item>tutanota</item>
         <item>twitch</item>
         <item>twitter</item>
         <item>twitter_lite</item>
@@ -220,6 +231,15 @@
     </string-array>
 
     <string-array name="New">
+        <item>kore</item>
+        <item>kodi</item>
+        <item>tutanota</item>
+        <item>i__k__e__a</item>
+        <item>deutsche_bank___photo__t__a__n</item>
+        <item>signal</item>
+        <item>firefox</item>
+        <item>brave</item>
+        <item>kee__pass__d__x</item>
         <item>keepass2</item>
         <item>files</item>
         <item>new__pipe</item>
@@ -254,6 +274,7 @@
         <item>ali__express</item>
         <item>all_in_one_toolbox</item>
         <item>amazon</item>
+        <item>amazon_alexa</item>
         <item>amazon_music</item>
         <item>amazon_photos</item>
         <item>amazon_prime_video</item>
@@ -269,6 +290,7 @@
         <item>bitmoji</item>
         <item>blogger</item>
         <item>boomerang_from_instagram</item>
+        <item>brave</item>
         <item>buzz__feed</item>
         <item>calculator</item>
         <item>camera_android</item>
@@ -285,6 +307,7 @@
         <item>d__b_navigator</item>
         <item>dat__piff</item>
         <item>deutsche_bank</item>
+        <item>deutsche_bank___photo__t__a__n</item>
         <item>deviant__art</item>
         <item>dialer</item>
         <item>discord</item>
@@ -300,6 +323,7 @@
         <item>facebook</item>
         <item>facebook_lite</item>
         <item>files</item>
+        <item>firefox</item>
         <item>fiverr</item>
         <item>flipboard</item>
         <item>flixbus</item>
@@ -343,11 +367,15 @@
         <item>google_wear_o__s</item>
         <item>hangouts</item>
         <item>i__f__t__t__t</item>
+        <item>i__k__e__a</item>
         <item>imo</item>
         <item>instagram</item>
         <item>keepass2</item>
+        <item>kee__pass__d__x</item>
         <item>klarna</item>
+        <item>kodi</item>
         <item>komoot</item>
+        <item>kore</item>
         <item>l__i__n__e</item>
         <item>l__i__n__e_lite</item>
         <item>last__pass</item>
@@ -387,6 +415,7 @@
         <item>nova_launcher_settings</item>
         <item>onix_music</item>
         <item>opera</item>
+        <item>opera_news</item>
         <item>opera_touch</item>
         <item>pay__pal</item>
         <item>pinterest</item>
@@ -403,6 +432,7 @@
         <item>s__m__s_m__m__s</item>
         <item>settings</item>
         <item>shazam</item>
+        <item>signal</item>
         <item>skype</item>
         <item>skype_business</item>
         <item>skype_lite</item>
@@ -422,6 +452,7 @@
         <item>tinder</item>
         <item>trading_212</item>
         <item>tumblr</item>
+        <item>tutanota</item>
         <item>twitch</item>
         <item>twitter</item>
         <item>twitter_lite</item>

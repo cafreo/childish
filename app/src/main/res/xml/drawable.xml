@@ -2,29 +2,22 @@
 <resources>
   <version>1</version>
   <category title="New" />
-  <item drawable="adobe_acrobat" />
-  <item drawable="adobe_creative_cloud" />
-  <item drawable="adobe_premiere_rush" />
-  <item drawable="adobe_scan" />
-  <item drawable="adobe_sign" />
-  <item drawable="ali__express" />
-  <item drawable="babbel" />
-  <item drawable="boomerang_from_instagram" />
+  <item drawable="amazon_alexa" />
   <item drawable="brave" />
-  <item drawable="chromium" />
   <item drawable="deutsche_bank" />
-  <item drawable="dolphin_browser" />
+  <item drawable="deutsche_bank___photo__t__a__n" />
   <item drawable="files" />
-  <item drawable="flixbus" />
-  <item drawable="i__f__t__t__t" />
+  <item drawable="firefox" />
+  <item drawable="i__k__e__a" />
   <item drawable="kee__pass__d__x" />
   <item drawable="keepass2" />
-  <item drawable="klarna" />
-  <item drawable="komoot" />
-  <item drawable="layout_from_instagram" />
+  <item drawable="kodi" />
+  <item drawable="kore" />
   <item drawable="m__e__g__a" />
   <item drawable="new__pipe" />
   <item drawable="opera_news" />
+  <item drawable="signal" />
+  <item drawable="tutanota" />
   <category title="All" />
   <item drawable="adobe_acrobat" />
   <item drawable="adobe_creative_cloud" />
@@ -37,6 +30,7 @@
   <item drawable="ali__express" />
   <item drawable="all_in_one_toolbox" />
   <item drawable="amazon" />
+  <item drawable="amazon_alexa" />
   <item drawable="amazon_music" />
   <item drawable="amazon_photos" />
   <item drawable="amazon_prime_video" />
@@ -69,6 +63,7 @@
   <item drawable="d__b_navigator" />
   <item drawable="dat__piff" />
   <item drawable="deutsche_bank" />
+  <item drawable="deutsche_bank___photo__t__a__n" />
   <item drawable="deviant__art" />
   <item drawable="dialer" />
   <item drawable="discord" />
@@ -84,6 +79,7 @@
   <item drawable="facebook" />
   <item drawable="facebook_lite" />
   <item drawable="files" />
+  <item drawable="firefox" />
   <item drawable="fiverr" />
   <item drawable="flipboard" />
   <item drawable="flixbus" />
@@ -127,12 +123,15 @@
   <item drawable="google_wear_o__s" />
   <item drawable="hangouts" />
   <item drawable="i__f__t__t__t" />
+  <item drawable="i__k__e__a" />
   <item drawable="imo" />
   <item drawable="instagram" />
   <item drawable="kee__pass__d__x" />
   <item drawable="keepass2" />
   <item drawable="klarna" />
+  <item drawable="kodi" />
   <item drawable="komoot" />
+  <item drawable="kore" />
   <item drawable="l__i__n__e" />
   <item drawable="l__i__n__e_lite" />
   <item drawable="last__pass" />
@@ -193,6 +192,7 @@
   <item drawable="s__m__s_m__m__s" />
   <item drawable="settings" />
   <item drawable="shazam" />
+  <item drawable="signal" />
   <item drawable="skype" />
   <item drawable="skype_business" />
   <item drawable="skype_lite" />
@@ -212,6 +212,7 @@
   <item drawable="tinder" />
   <item drawable="trading_212" />
   <item drawable="tumblr" />
+  <item drawable="tutanota" />
   <item drawable="twitch" />
   <item drawable="twitter" />
   <item drawable="twitter_lite" />
@@ -341,8 +342,10 @@
   <item drawable="gallery_alt_2" />
   <item drawable="gallery_alt_3" />
   <item drawable="gallery_alt_4" />
+  <item drawable="gmail_alt_1" />
   <item drawable="google_assistant_alt_1" />
   <item drawable="google_chrome_alt_1" />
+  <item drawable="google_drive_alt_1" />
   <item drawable="google_earth_alt_1" />
   <item drawable="google_fit_alt_1" />
   <item drawable="google_home_alt_1" />
@@ -352,6 +355,7 @@
   <item drawable="google_messages_alt_1" />
   <item drawable="google_opinion_rewards_alt_1" />
   <item drawable="google_podcasts_alt_1" />
+  <item drawable="i__k__e__a_alt_1" />
   <item drawable="instagram_alt_1" />
   <item drawable="instagram_alt_2" />
   <item drawable="instagram_alt_3" />
@@ -384,6 +388,8 @@
   <item drawable="twitter_lite_alt_1" />
   <item drawable="wish_alt_1" />
   <category title="Outdated" />
+  <item drawable="gmail_alt_1" />
+  <item drawable="google_drive_alt_1" />
   <item drawable="google_earth_alt_1" />
   <item drawable="google_maps_alt_1" />
   <item drawable="google_maps_alt_2" />

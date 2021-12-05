@@ -29,6 +29,8 @@
   <AppIcon name="imoblife.toolbox.full.ASplash" image="all_in_one_toolbox" />
   <!--Amazon-->
   <AppIcon name="com.amazon.mShop.home.HomeActivity" image="amazon" />
+  <!--Amazon Alexa-->
+  <AppIcon name="com.amazon.dee.app.Launcher" image="amazon_alexa" />
   <!--Amazon Music-->
   <AppIcon name="com.amazon.mp3.client.activity.LauncherActivity" image="amazon_music" />
   <!--Amazon Photos-->
@@ -149,6 +151,8 @@
   <AppIcon name="de.bahn.dbtickets.ui.DBNavLauncherActivity" image="d__b_navigator" />
   <!--Deutsche Bank-->
   <AppIcon name="com.db.pwcc.dbmobile.activities.SplashScreenActivity" image="deutsche_bank" />
+  <!--Deutsche Bank PhotoTAN-->
+  <AppIcon name="com.db.pbc.phototan.db.activities.splash.SplashActivity" image="deutsche_bank___photo__t__a__n" />
   <!--DeviantArt-->
   <AppIcon name="com.deviantart.android.damobile.activity.HomeActivity" image="deviant__art" />
   <!--Dialer-->
@@ -377,6 +381,8 @@
   <AppIcon name="com.facebook.lite.MainActivity" image="facebook_lite" />
   <!--Files-->
   <AppIcon name="com.huawei.hidisk.filemanager.FileManager" image="files" />
+  <!--Firefox-->
+  <AppIcon name="org.mozilla.firefox.App" image="firefox" />
   <!--Fiverr-->
   <AppIcon name="com.fiverr.fiverr.activityandfragments.entrypoints.FVREntryPoint" image="fiverr" />
   <!--Flipboard-->
@@ -523,6 +529,8 @@
   <AppIcon name="com.google.android.talk.SigningInActivity" image="hangouts" />
   <!--IFTTT-->
   <AppIcon name="com.ifttt.ifttt.home.HomeActivity" image="i__f__t__t__t" />
+  <!--IKEA-->
+  <AppIcon name="com.ingka.ikea.app.splash.SplashActivity" image="i__k__e__a" />
   <!--imo-->
   <AppIcon name="com.imo.android.imoim.activities.Home" image="imo" />
   <!--Instagram-->
@@ -533,8 +541,12 @@
   <AppIcon name="com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" image="kee__pass__d__x" />
   <!--Klarna-->
   <AppIcon name="com.klarna.SplashActivity" image="klarna" />
+  <!--Kodi-->
+  <AppIcon name="org.xbmc.kodi.Splash" image="kodi" />
   <!--Komoot-->
   <AppIcon name="de.komoot.android.ui.inspiration.InspirationActivity" image="komoot" />
+  <!--Kore-->
+  <AppIcon name="org.xbmc.kore.ui.sections.remote.RemoteActivity" image="kore" />
   <!--LastPass-->
   <AppIcon name="com.lastpass.lpandroid.activity.WebBrowserActivity" image="last__pass" />
   <!--Layout from Instagram-->
@@ -679,6 +691,8 @@
   <AppIcon name="com.lenovo.anyshare.ApMainActivity" image="s__h__a__r__e_it" />
   <!--Shazam-->
   <AppIcon name="com.shazam.android.activities.SplashActivity" image="shazam" />
+  <!--Signal-->
+  <AppIcon name="org.thoughtcrime.securesms.RoutingActivity" image="signal" />
   <!--Skype-->
   <AppIcon name="com.skype.raider.Main" image="skype" />
   <!--Skype-->
@@ -741,6 +755,8 @@
   <AppIcon name="com.avuscapital.trading212lib.modules.prelogin.WelcomeActivity" image="trading_212" />
   <!--Tumblr-->
   <AppIcon name="com.tumblr.ui.activity.JumpoffActivity" image="tumblr" />
+  <!--Tutanota-->
+  <AppIcon name="de.tutao.tutanota.MainActivity" image="tutanota" />
   <!--Twitch-->
   <AppIcon name="tv.twitch.android.app.core.LandingActivity" image="twitch" />
   <!--Twitter-->

@@ -23,6 +23,8 @@
     <item class="imoblife.toolbox.full.ASplash" name="all_in_one_toolbox" />
     <!--Amazon-->
     <item class="com.amazon.mShop.home.HomeActivity" name="amazon" />
+    <!--Amazon Alexa-->
+    <item class="com.amazon.dee.app.Launcher" name="amazon_alexa" />
     <!--Amazon Music-->
     <item class="com.amazon.mp3.client.activity.LauncherActivity" name="amazon_music" />
     <!--Amazon Photos-->
@@ -143,6 +145,8 @@
     <item class="de.bahn.dbtickets.ui.DBNavLauncherActivity" name="d__b_navigator" />
     <!--Deutsche Bank-->
     <item class="com.db.pwcc.dbmobile.activities.SplashScreenActivity" name="deutsche_bank" />
+    <!--Deutsche Bank PhotoTAN-->
+    <item class="com.db.pbc.phototan.db.activities.splash.SplashActivity" name="deutsche_bank___photo__t__a__n" />
     <!--DeviantArt-->
     <item class="com.deviantart.android.damobile.activity.HomeActivity" name="deviant__art" />
     <!--Dialer-->
@@ -371,6 +375,8 @@
     <item class="com.facebook.lite.MainActivity" name="facebook_lite" />
     <!--Files-->
     <item class="com.huawei.hidisk.filemanager.FileManager" name="files" />
+    <!--Firefox-->
+    <item class="org.mozilla.firefox.App" name="firefox" />
     <!--Fiverr-->
     <item class="com.fiverr.fiverr.activityandfragments.entrypoints.FVREntryPoint" name="fiverr" />
     <!--Flipboard-->
@@ -517,6 +523,8 @@
     <item class="com.google.android.talk.SigningInActivity" name="hangouts" />
     <!--IFTTT-->
     <item class="com.ifttt.ifttt.home.HomeActivity" name="i__f__t__t__t" />
+    <!--IKEA-->
+    <item class="com.ingka.ikea.app.splash.SplashActivity" name="i__k__e__a" />
     <!--imo-->
     <item class="com.imo.android.imoim.activities.Home" name="imo" />
     <!--Instagram-->
@@ -527,8 +535,12 @@
     <item class="com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" name="kee__pass__d__x" />
     <!--Klarna-->
     <item class="com.klarna.SplashActivity" name="klarna" />
+    <!--Kodi-->
+    <item class="org.xbmc.kodi.Splash" name="kodi" />
     <!--Komoot-->
     <item class="de.komoot.android.ui.inspiration.InspirationActivity" name="komoot" />
+    <!--Kore-->
+    <item class="org.xbmc.kore.ui.sections.remote.RemoteActivity" name="kore" />
     <!--LastPass-->
     <item class="com.lastpass.lpandroid.activity.WebBrowserActivity" name="last__pass" />
     <!--Layout from Instagram-->
@@ -673,6 +685,8 @@
     <item class="com.lenovo.anyshare.ApMainActivity" name="s__h__a__r__e_it" />
     <!--Shazam-->
     <item class="com.shazam.android.activities.SplashActivity" name="shazam" />
+    <!--Signal-->
+    <item class="org.thoughtcrime.securesms.RoutingActivity" name="signal" />
     <!--Skype-->
     <item class="com.skype.raider.Main" name="skype" />
     <!--Skype-->
@@ -735,6 +749,8 @@
     <item class="com.avuscapital.trading212lib.modules.prelogin.WelcomeActivity" name="trading_212" />
     <!--Tumblr-->
     <item class="com.tumblr.ui.activity.JumpoffActivity" name="tumblr" />
+    <!--Tutanota-->
+    <item class="de.tutao.tutanota.MainActivity" name="tutanota" />
     <!--Twitch-->
     <item class="tv.twitch.android.app.core.LandingActivity" name="twitch" />
     <!--Twitter-->
