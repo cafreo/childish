@@ -244,22 +244,6 @@
         <item>files</item>
         <item>new__pipe</item>
         <item>m__e__g__a</item>
-        <item>microsoft_authenticator</item>
-        <item>microsoft_bing</item>
-        <item>microsoft_edge</item>
-        <item>microsoft_excel</item>
-        <item>microsoft_launcher</item>
-        <item>microsoft_news</item>
-        <item>microsoft_office</item>
-        <item>microsoft_one__drive</item>
-        <item>microsoft_one__note</item>
-        <item>microsoft_outlook</item>
-        <item>microsoft_planner</item>
-        <item>microsoft_power__point</item>
-        <item>microsoft_share__point</item>
-        <item>microsoft_teams</item>
-        <item>microsoft_word</item>
-        <item>sygic__g__p__s_navigation</item>
     </string-array>
 
     <string-array name="All">
