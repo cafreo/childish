@@ -62,7 +62,7 @@
         <item>ebay</item>
         <item>evernote</item>
         <item>every__wiki</item>
-        <item>f-__droid</item>
+        <item>f__droid</item>
         <item>f__o__s__s_browser</item>
         <item>facebook</item>
         <item>facebook_lite</item>
@@ -224,7 +224,7 @@
         <item>your_phone_companion</item>
         <item>zalando</item>
         <item>zoom</item>
-        <item>µ__torrent</item>
+        <item>u__torrent</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -246,8 +246,8 @@
     <string-array name="New">
         <item>l__b__r__y</item>
         <item>google_analytics</item>
-        <item>f-__droid</item>
-        <item>µ__torrent</item>
+        <item>f__droid</item>
+        <item>u__torrent</item>
         <item>bit__torrent</item>
         <item>f__o__s__s_browser</item>
         <item>too_good_to_go</item>
@@ -326,7 +326,7 @@
         <item>ebay</item>
         <item>evernote</item>
         <item>every__wiki</item>
-        <item>f-__droid</item>
+        <item>f__droid</item>
         <item>f__o__s__s_browser</item>
         <item>facebook</item>
         <item>facebook_lite</item>
@@ -488,7 +488,7 @@
         <item>your_phone_companion</item>
         <item>zalando</item>
         <item>zoom</item>
-        <item>µ__torrent</item>
+        <item>u__torrent</item>
     </string-array>
 
     <string-array name="Google">
@@ -583,7 +583,7 @@
 
     <string-array name="FOSS">
         <item>aurora_store</item>
-        <item>f-__droid</item>
+        <item>f__droid</item>
         <item>f__o__s__s_browser</item>
         <item>kodi</item>
         <item>kore</item>

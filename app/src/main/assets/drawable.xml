@@ -2,14 +2,14 @@
 <resources>
   <version>1</version>
   <category title="New" />
-  <item drawable="µ__torrent" />
+  <item drawable="u__torrent" />
   <item drawable="amazon_alexa" />
   <item drawable="aurora_store" />
   <item drawable="bit__torrent" />
   <item drawable="brave" />
   <item drawable="deutsche_bank" />
   <item drawable="deutsche_bank___photo__t__a__n" />
-  <item drawable="f-__droid" />
+  <item drawable="f__droid" />
   <item drawable="f__o__s__s_browser" />
   <item drawable="firefox" />
   <item drawable="google_analytics" />
@@ -23,7 +23,7 @@
   <item drawable="too_good_to_go" />
   <item drawable="tutanota" />
   <category title="All" />
-  <item drawable="µ__torrent" />
+  <item drawable="u__torrent" />
   <item drawable="adobe_acrobat" />
   <item drawable="adobe_creative_cloud" />
   <item drawable="adobe_lightroom" />
@@ -83,7 +83,7 @@
   <item drawable="ebay" />
   <item drawable="evernote" />
   <item drawable="every__wiki" />
-  <item drawable="f-__droid" />
+  <item drawable="f__droid" />
   <item drawable="f__o__s__s_browser" />
   <item drawable="facebook" />
   <item drawable="facebook_lite" />
@@ -330,7 +330,7 @@
   <item drawable="adobe_x__d" />
   <category title="FOSS (F-Droid repository)" />
   <item drawable="aurora_store" />
-  <item drawable="f-__droid" />
+  <item drawable="f__droid" />
   <item drawable="f__o__s__s_browser" />
   <item drawable="kodi" />
   <item drawable="kore" />

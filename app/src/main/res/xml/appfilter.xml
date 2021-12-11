@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <!--µTorrent-->
-  <item component="ComponentInfo{com.utorrent.client/com.bittorrent.app.Main}" drawable="µ__torrent" />
+  <item component="ComponentInfo{com.utorrent.client/com.bittorrent.app.Main}" drawable="u__torrent" />
   <!--9GAG-->
   <item component="ComponentInfo{com.ninegag.android.app/com.ninegag.android.app.ui.home.HomeActivity}" drawable="nine__g__a__g" />
   <!--Adobe Acrobat-->
@@ -379,7 +379,7 @@
   <!--Facebook Lite-->
   <item component="ComponentInfo{com.facebook.lite/com.facebook.lite.MainActivity}" drawable="facebook_lite" />
   <!--F-Droid-->
-  <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="f-__droid" />
+  <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="f__droid" />
   <!--Files-->
   <item component="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager}" drawable="files" />
   <!--Firefox-->

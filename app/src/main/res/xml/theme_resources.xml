@@ -8,7 +8,7 @@
   <ThemePreviewMenu image="preview1" />
   <DockMenuAppIcon selector="drawer" />
   <!--µTorrent-->
-  <AppIcon name="com.bittorrent.app.Main" image="µ__torrent" />
+  <AppIcon name="com.bittorrent.app.Main" image="u__torrent" />
   <!--9GAG-->
   <AppIcon name="com.ninegag.android.app.ui.home.HomeActivity" image="nine__g__a__g" />
   <!--Adobe Acrobat-->
@@ -386,7 +386,7 @@
   <!--Facebook Lite-->
   <AppIcon name="com.facebook.lite.MainActivity" image="facebook_lite" />
   <!--F-Droid-->
-  <AppIcon name="org.fdroid.fdroid.views.main.MainActivity" image="f-__droid" />
+  <AppIcon name="org.fdroid.fdroid.views.main.MainActivity" image="f__droid" />
   <!--Files-->
   <AppIcon name="com.huawei.hidisk.filemanager.FileManager" image="files" />
   <!--Firefox-->
