@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="v 2.1.0" />
-    <item text="Added 15 new Icons, 7 of them for FOSS apps" />
-    <item text="Updated 4 icons" />
-    <item text="Added 4 new wallpapers" />
+    <version title="v 2.1.1" />
+    <item text="Added 9 new Icons, 4 of them for FOSS apps" />
+    <item text="Updated 6 icons" />
+    <item text="Added a new category: FOSS (F-Droid repository)" />
+    <item text="Fixed minor issue where some icons wouldn't show up in the dashboard." />
     <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>

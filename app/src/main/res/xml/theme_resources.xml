@@ -7,6 +7,8 @@
   <ThemePreviewWork image="preview1" />
   <ThemePreviewMenu image="preview1" />
   <DockMenuAppIcon selector="drawer" />
+  <!--µTorrent-->
+  <AppIcon name="com.bittorrent.app.Main" image="µ__torrent" />
   <!--9GAG-->
   <AppIcon name="com.ninegag.android.app.ui.home.HomeActivity" image="nine__g__a__g" />
   <!--Adobe Acrobat-->
@@ -45,6 +47,8 @@
   <AppIcon name="com.google.android.apps.cultural.web.WebViewActivity" image="google_arts_and_culture" />
   <!--Audible-->
   <AppIcon name="com.audible.application.SplashScreen" image="audible" />
+  <!--Aurora Store-->
+  <AppIcon name="com.aurora.store.view.ui.onboarding.OnboardingActivity" image="aurora_store" />
   <!--Avast Cleanup-->
   <AppIcon name="com.avast.android.cleaner.activity.StartActivity" image="avast_cleanup" />
   <!--Avast Mobile Security-->
@@ -59,6 +63,8 @@
   <AppIcon name="com.behance.network.ui.activities.MainActivity" image="behance" />
   <!--Bitmoji-->
   <AppIcon name="com.bitstrips.imoji.ui.LandingActivity" image="bitmoji" />
+  <!--BitTorrent-->
+  <AppIcon name="com.bittorrent.app.Main" image="bit__torrent" />
   <!--Blogger-->
   <AppIcon name="com.google.android.apps.blogger.SignInActivity" image="blogger" />
   <!--Blogger-->
@@ -379,6 +385,8 @@
   <AppIcon name="com.facebook.katana.LoginActivity" image="facebook" />
   <!--Facebook Lite-->
   <AppIcon name="com.facebook.lite.MainActivity" image="facebook_lite" />
+  <!--F-Droid-->
+  <AppIcon name="org.fdroid.fdroid.views.main.MainActivity" image="f-__droid" />
   <!--Files-->
   <AppIcon name="com.huawei.hidisk.filemanager.FileManager" image="files" />
   <!--Firefox-->
@@ -389,6 +397,8 @@
   <AppIcon name="flipboard.activities.LaunchActivityAlias" image="flipboard" />
   <!--Flixbus-->
   <AppIcon name="de.meinfernbus.Main" image="flixbus" />
+  <!--FOSS Browser-->
+  <AppIcon name="de.baumann.browser.activity.BrowserActivity" image="f__o__s__s_browser" />
   <!--Fotos-->
   <AppIcon name="com.google.android.apps.photos.home.HomeActivity" image="google_photos" />
   <!--Gallery-->
@@ -423,6 +433,8 @@
   <AppIcon name="com.google.android.googlequicksearchbox.VoiceSearchActivity" image="google_search" />
   <!--Google Ads-->
   <AppIcon name="com.google.android.apps.adwords.InitialLoadingActivity" image="google_ads" />
+  <!--Google Analytics-->
+  <AppIcon name="com.google.android.apps.giant.flutter.HostActivity" image="google_analytics" />
   <!--Google Assistant-->
   <AppIcon name="com.google.android.apps.googleassistant.AssistantActivity" image="google_assistant" />
   <!--Google Calendar-->
@@ -465,6 +477,8 @@
   <AppIcon name="com.google.android.apps.nbu.files.home.HomeActivity" image="google_files" />
   <!--Google Fit-->
   <AppIcon name="com.google.android.apps.fitness.welcome.WelcomeActivity" image="google_fit" />
+  <!--Google Go-->
+  <AppIcon name="com.google.android.apps.searchlite.ui.SearchActivity" image="google_go" />
   <!--Google Home-->
   <AppIcon name="com.google.android.apps.chromecast.app.DiscoveryActivity" image="google_home" />
   <!--Google Lens-->
@@ -551,6 +565,8 @@
   <AppIcon name="com.lastpass.lpandroid.activity.WebBrowserActivity" image="last__pass" />
   <!--Layout from Instagram-->
   <AppIcon name="com.instagram.layout.LayoutActivity" image="layout_from_instagram" />
+  <!--LBRY-->
+  <AppIcon name="io.lbry.browser.MainActivity" image="l__b__r__y" />
   <!--Lieferando-->
   <AppIcon name="com.takeaway.android.activity.Splash" image="lieferando" />
   <!--LINE-->
@@ -751,6 +767,8 @@
   <AppIcon name="com.ss.android.ugc.aweme.splash.SplashActivity" image="tik__tok" />
   <!--Tinder-->
   <AppIcon name="com.tinder.activities.LoginActivity" image="tinder" />
+  <!--Too Good To Go-->
+  <AppIcon name="com.app.tgtg.activities.SplashActivity" image="too_good_to_go" />
   <!--Trading 212-->
   <AppIcon name="com.avuscapital.trading212lib.modules.prelogin.WelcomeActivity" image="trading_212" />
   <!--Tumblr-->

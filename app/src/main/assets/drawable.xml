@@ -2,23 +2,28 @@
 <resources>
   <version>1</version>
   <category title="New" />
+  <item drawable="µ__torrent" />
   <item drawable="amazon_alexa" />
+  <item drawable="aurora_store" />
+  <item drawable="bit__torrent" />
   <item drawable="brave" />
   <item drawable="deutsche_bank" />
   <item drawable="deutsche_bank___photo__t__a__n" />
-  <item drawable="files" />
+  <item drawable="f-__droid" />
+  <item drawable="f__o__s__s_browser" />
   <item drawable="firefox" />
+  <item drawable="google_analytics" />
+  <item drawable="google_go" />
   <item drawable="i__k__e__a" />
-  <item drawable="kee__pass__d__x" />
-  <item drawable="keepass2" />
   <item drawable="kodi" />
   <item drawable="kore" />
-  <item drawable="m__e__g__a" />
-  <item drawable="new__pipe" />
+  <item drawable="l__b__r__y" />
   <item drawable="opera_news" />
   <item drawable="signal" />
+  <item drawable="too_good_to_go" />
   <item drawable="tutanota" />
   <category title="All" />
+  <item drawable="µ__torrent" />
   <item drawable="adobe_acrobat" />
   <item drawable="adobe_creative_cloud" />
   <item drawable="adobe_lightroom" />
@@ -37,12 +42,14 @@
   <item drawable="android_auto" />
   <item drawable="any_do" />
   <item drawable="audible" />
+  <item drawable="aurora_store" />
   <item drawable="avast_cleanup" />
   <item drawable="avast_mobile_security" />
   <item drawable="avira_antivirus" />
   <item drawable="babbel" />
   <item drawable="bandcamp" />
   <item drawable="behance" />
+  <item drawable="bit__torrent" />
   <item drawable="bitmoji" />
   <item drawable="blogger" />
   <item drawable="boomerang_from_instagram" />
@@ -76,6 +83,8 @@
   <item drawable="ebay" />
   <item drawable="evernote" />
   <item drawable="every__wiki" />
+  <item drawable="f-__droid" />
+  <item drawable="f__o__s__s_browser" />
   <item drawable="facebook" />
   <item drawable="facebook_lite" />
   <item drawable="files" />
@@ -88,6 +97,7 @@
   <item drawable="genius" />
   <item drawable="gmail" />
   <item drawable="google_ads" />
+  <item drawable="google_analytics" />
   <item drawable="google_arts_and_culture" />
   <item drawable="google_assistant" />
   <item drawable="google_calendar" />
@@ -99,6 +109,7 @@
   <item drawable="google_earth" />
   <item drawable="google_files" />
   <item drawable="google_fit" />
+  <item drawable="google_go" />
   <item drawable="google_home" />
   <item drawable="google_keep" />
   <item drawable="google_lens" />
@@ -132,6 +143,7 @@
   <item drawable="kodi" />
   <item drawable="komoot" />
   <item drawable="kore" />
+  <item drawable="l__b__r__y" />
   <item drawable="l__i__n__e" />
   <item drawable="l__i__n__e_lite" />
   <item drawable="last__pass" />
@@ -210,6 +222,7 @@
   <item drawable="tidal" />
   <item drawable="tik__tok" />
   <item drawable="tinder" />
+  <item drawable="too_good_to_go" />
   <item drawable="trading_212" />
   <item drawable="tumblr" />
   <item drawable="tutanota" />
@@ -241,6 +254,7 @@
   <item drawable="gboard" />
   <item drawable="gmail" />
   <item drawable="google_ads" />
+  <item drawable="google_analytics" />
   <item drawable="google_arts_and_culture" />
   <item drawable="google_assistant" />
   <item drawable="google_calendar" />
@@ -252,6 +266,7 @@
   <item drawable="google_earth" />
   <item drawable="google_files" />
   <item drawable="google_fit" />
+  <item drawable="google_go" />
   <item drawable="google_home" />
   <item drawable="google_keep" />
   <item drawable="google_lens" />
@@ -313,12 +328,24 @@
   <item drawable="adobe_scan" />
   <item drawable="adobe_sign" />
   <item drawable="adobe_x__d" />
+  <category title="FOSS (F-Droid repository)" />
+  <item drawable="aurora_store" />
+  <item drawable="f-__droid" />
+  <item drawable="f__o__s__s_browser" />
+  <item drawable="kodi" />
+  <item drawable="kore" />
+  <item drawable="l__b__r__y" />
+  <item drawable="netguard" />
+  <item drawable="new__pipe" />
+  <item drawable="signal" />
+  <item drawable="tutanota" />
   <category title="Customs" />
   <item drawable="custom_1" />
   <item drawable="custom_2" />
   <item drawable="custom_3" />
   <category title="Alternative" />
   <item drawable="amazon_alt_1" />
+  <item drawable="amazon_alt_2" />
   <item drawable="avira_antivirus_alt_1" />
   <item drawable="behance_alt_1" />
   <item drawable="bitmoji_alt_1" />
@@ -336,6 +363,7 @@
   <item drawable="disney_plus_alt_1" />
   <item drawable="disney_plus_alt_2" />
   <item drawable="ebay_alt_1" />
+  <item drawable="f__o__s__s_browser_alt_1" />
   <item drawable="facebook_alt_1" />
   <item drawable="facebook_lite_alt_1" />
   <item drawable="gallery_alt_1" />
@@ -344,6 +372,7 @@
   <item drawable="gallery_alt_4" />
   <item drawable="gmail_alt_1" />
   <item drawable="google_assistant_alt_1" />
+  <item drawable="google_calendar_alt_1" />
   <item drawable="google_chrome_alt_1" />
   <item drawable="google_drive_alt_1" />
   <item drawable="google_earth_alt_1" />
@@ -389,6 +418,7 @@
   <item drawable="wish_alt_1" />
   <category title="Outdated" />
   <item drawable="gmail_alt_1" />
+  <item drawable="google_calendar_alt_1" />
   <item drawable="google_drive_alt_1" />
   <item drawable="google_earth_alt_1" />
   <item drawable="google_maps_alt_1" />

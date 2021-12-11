@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <appmap>
   <resource>
+    <!--µTorrent-->
+    <item class="com.bittorrent.app.Main" name="µ__torrent" />
     <!--9GAG-->
     <item class="com.ninegag.android.app.ui.home.HomeActivity" name="nine__g__a__g" />
     <!--Adobe Acrobat-->
@@ -39,6 +41,8 @@
     <item class="com.google.android.apps.cultural.web.WebViewActivity" name="google_arts_and_culture" />
     <!--Audible-->
     <item class="com.audible.application.SplashScreen" name="audible" />
+    <!--Aurora Store-->
+    <item class="com.aurora.store.view.ui.onboarding.OnboardingActivity" name="aurora_store" />
     <!--Avast Cleanup-->
     <item class="com.avast.android.cleaner.activity.StartActivity" name="avast_cleanup" />
     <!--Avast Mobile Security-->
@@ -53,6 +57,8 @@
     <item class="com.behance.network.ui.activities.MainActivity" name="behance" />
     <!--Bitmoji-->
     <item class="com.bitstrips.imoji.ui.LandingActivity" name="bitmoji" />
+    <!--BitTorrent-->
+    <item class="com.bittorrent.app.Main" name="bit__torrent" />
     <!--Blogger-->
     <item class="com.google.android.apps.blogger.SignInActivity" name="blogger" />
     <!--Blogger-->
@@ -373,6 +379,8 @@
     <item class="com.facebook.katana.LoginActivity" name="facebook" />
     <!--Facebook Lite-->
     <item class="com.facebook.lite.MainActivity" name="facebook_lite" />
+    <!--F-Droid-->
+    <item class="org.fdroid.fdroid.views.main.MainActivity" name="f-__droid" />
     <!--Files-->
     <item class="com.huawei.hidisk.filemanager.FileManager" name="files" />
     <!--Firefox-->
@@ -383,6 +391,8 @@
     <item class="flipboard.activities.LaunchActivityAlias" name="flipboard" />
     <!--Flixbus-->
     <item class="de.meinfernbus.Main" name="flixbus" />
+    <!--FOSS Browser-->
+    <item class="de.baumann.browser.activity.BrowserActivity" name="f__o__s__s_browser" />
     <!--Fotos-->
     <item class="com.google.android.apps.photos.home.HomeActivity" name="google_photos" />
     <!--Gallery-->
@@ -417,6 +427,8 @@
     <item class="com.google.android.googlequicksearchbox.VoiceSearchActivity" name="google_search" />
     <!--Google Ads-->
     <item class="com.google.android.apps.adwords.InitialLoadingActivity" name="google_ads" />
+    <!--Google Analytics-->
+    <item class="com.google.android.apps.giant.flutter.HostActivity" name="google_analytics" />
     <!--Google Assistant-->
     <item class="com.google.android.apps.googleassistant.AssistantActivity" name="google_assistant" />
     <!--Google Calendar-->
@@ -459,6 +471,8 @@
     <item class="com.google.android.apps.nbu.files.home.HomeActivity" name="google_files" />
     <!--Google Fit-->
     <item class="com.google.android.apps.fitness.welcome.WelcomeActivity" name="google_fit" />
+    <!--Google Go-->
+    <item class="com.google.android.apps.searchlite.ui.SearchActivity" name="google_go" />
     <!--Google Home-->
     <item class="com.google.android.apps.chromecast.app.DiscoveryActivity" name="google_home" />
     <!--Google Lens-->
@@ -545,6 +559,8 @@
     <item class="com.lastpass.lpandroid.activity.WebBrowserActivity" name="last__pass" />
     <!--Layout from Instagram-->
     <item class="com.instagram.layout.LayoutActivity" name="layout_from_instagram" />
+    <!--LBRY-->
+    <item class="io.lbry.browser.MainActivity" name="l__b__r__y" />
     <!--Lieferando-->
     <item class="com.takeaway.android.activity.Splash" name="lieferando" />
     <!--LINE-->
@@ -745,6 +761,8 @@
     <item class="com.ss.android.ugc.aweme.splash.SplashActivity" name="tik__tok" />
     <!--Tinder-->
     <item class="com.tinder.activities.LoginActivity" name="tinder" />
+    <!--Too Good To Go-->
+    <item class="com.app.tgtg.activities.SplashActivity" name="too_good_to_go" />
     <!--Trading 212-->
     <item class="com.avuscapital.trading212lib.modules.prelogin.WelcomeActivity" name="trading_212" />
     <!--Tumblr-->

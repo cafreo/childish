@@ -21,21 +21,23 @@
         <item>android_auto</item>
         <item>any_do</item>
         <item>audible</item>
+        <item>aurora_store</item>
         <item>avast_cleanup</item>
         <item>avast_mobile_security</item>
         <item>avira_antivirus</item>
         <item>babbel</item>
         <item>bandcamp</item>
         <item>behance</item>
+        <item>bit__torrent</item>
         <item>bitmoji</item>
         <item>blogger</item>
         <item>boomerang_from_instagram</item>
         <item>brave</item>
         <item>buzz__feed</item>
         <item>calculator</item>
+        <item>camera</item>
         <item>camera_android</item>
         <item>camera_google</item>
-        <item>camera</item>
         <item>chrome_remote_desktop</item>
         <item>chromium</item>
         <item>cisco_webex_meetings</item>
@@ -60,6 +62,8 @@
         <item>ebay</item>
         <item>evernote</item>
         <item>every__wiki</item>
+        <item>f-__droid</item>
+        <item>f__o__s__s_browser</item>
         <item>facebook</item>
         <item>facebook_lite</item>
         <item>files</item>
@@ -72,6 +76,7 @@
         <item>genius</item>
         <item>gmail</item>
         <item>google_ads</item>
+        <item>google_analytics</item>
         <item>google_arts_and_culture</item>
         <item>google_assistant</item>
         <item>google_calendar</item>
@@ -83,6 +88,7 @@
         <item>google_earth</item>
         <item>google_files</item>
         <item>google_fit</item>
+        <item>google_go</item>
         <item>google_home</item>
         <item>google_keep</item>
         <item>google_lens</item>
@@ -110,12 +116,13 @@
         <item>i__k__e__a</item>
         <item>imo</item>
         <item>instagram</item>
-        <item>keepass2</item>
         <item>kee__pass__d__x</item>
+        <item>keepass2</item>
         <item>klarna</item>
         <item>kodi</item>
         <item>komoot</item>
         <item>kore</item>
+        <item>l__b__r__y</item>
         <item>l__i__n__e</item>
         <item>l__i__n__e_lite</item>
         <item>last__pass</item>
@@ -123,15 +130,19 @@
         <item>lieferando</item>
         <item>linked__in</item>
         <item>lovoo</item>
+        <item>m__e__g__a</item>
         <item>m__x_player</item>
         <item>marvel_comics</item>
         <item>marvel_unlimited</item>
-        <item>m__e__g__a</item>
         <item>messenger</item>
         <item>messenger_lite</item>
         <item>microsoft_authenticator</item>
+        <item>microsoft_bing</item>
+        <item>microsoft_edge</item>
         <item>microsoft_excel</item>
         <item>microsoft_launcher</item>
+        <item>microsoft_news</item>
+        <item>microsoft_office</item>
         <item>microsoft_one__drive</item>
         <item>microsoft_one__note</item>
         <item>microsoft_outlook</item>
@@ -190,6 +201,7 @@
         <item>tidal</item>
         <item>tik__tok</item>
         <item>tinder</item>
+        <item>too_good_to_go</item>
         <item>trading_212</item>
         <item>tumblr</item>
         <item>tutanota</item>
@@ -212,6 +224,7 @@
         <item>your_phone_companion</item>
         <item>zalando</item>
         <item>zoom</item>
+        <item>µ__torrent</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -231,6 +244,15 @@
     </string-array>
 
     <string-array name="New">
+        <item>l__b__r__y</item>
+        <item>google_analytics</item>
+        <item>f-__droid</item>
+        <item>µ__torrent</item>
+        <item>bit__torrent</item>
+        <item>f__o__s__s_browser</item>
+        <item>too_good_to_go</item>
+        <item>google_go</item>
+        <item>aurora_store</item>
         <item>kore</item>
         <item>kodi</item>
         <item>tutanota</item>
@@ -242,8 +264,6 @@
         <item>kee__pass__d__x</item>
         <item>keepass2</item>
         <item>files</item>
-        <item>new__pipe</item>
-        <item>m__e__g__a</item>
     </string-array>
 
     <string-array name="All">
@@ -265,21 +285,23 @@
         <item>android_auto</item>
         <item>any_do</item>
         <item>audible</item>
+        <item>aurora_store</item>
         <item>avast_cleanup</item>
         <item>avast_mobile_security</item>
         <item>avira_antivirus</item>
         <item>babbel</item>
         <item>bandcamp</item>
         <item>behance</item>
+        <item>bit__torrent</item>
         <item>bitmoji</item>
         <item>blogger</item>
         <item>boomerang_from_instagram</item>
         <item>brave</item>
         <item>buzz__feed</item>
         <item>calculator</item>
+        <item>camera</item>
         <item>camera_android</item>
         <item>camera_google</item>
-        <item>camera</item>
         <item>chrome_remote_desktop</item>
         <item>chromium</item>
         <item>cisco_webex_meetings</item>
@@ -304,6 +326,8 @@
         <item>ebay</item>
         <item>evernote</item>
         <item>every__wiki</item>
+        <item>f-__droid</item>
+        <item>f__o__s__s_browser</item>
         <item>facebook</item>
         <item>facebook_lite</item>
         <item>files</item>
@@ -316,6 +340,7 @@
         <item>genius</item>
         <item>gmail</item>
         <item>google_ads</item>
+        <item>google_analytics</item>
         <item>google_arts_and_culture</item>
         <item>google_assistant</item>
         <item>google_calendar</item>
@@ -327,6 +352,7 @@
         <item>google_earth</item>
         <item>google_files</item>
         <item>google_fit</item>
+        <item>google_go</item>
         <item>google_home</item>
         <item>google_keep</item>
         <item>google_lens</item>
@@ -354,12 +380,13 @@
         <item>i__k__e__a</item>
         <item>imo</item>
         <item>instagram</item>
-        <item>keepass2</item>
         <item>kee__pass__d__x</item>
+        <item>keepass2</item>
         <item>klarna</item>
         <item>kodi</item>
         <item>komoot</item>
         <item>kore</item>
+        <item>l__b__r__y</item>
         <item>l__i__n__e</item>
         <item>l__i__n__e_lite</item>
         <item>last__pass</item>
@@ -367,15 +394,19 @@
         <item>lieferando</item>
         <item>linked__in</item>
         <item>lovoo</item>
+        <item>m__e__g__a</item>
         <item>m__x_player</item>
         <item>marvel_comics</item>
         <item>marvel_unlimited</item>
-        <item>m__e__g__a</item>
         <item>messenger</item>
         <item>messenger_lite</item>
         <item>microsoft_authenticator</item>
+        <item>microsoft_bing</item>
+        <item>microsoft_edge</item>
         <item>microsoft_excel</item>
         <item>microsoft_launcher</item>
+        <item>microsoft_news</item>
+        <item>microsoft_office</item>
         <item>microsoft_one__drive</item>
         <item>microsoft_one__note</item>
         <item>microsoft_outlook</item>
@@ -434,6 +465,7 @@
         <item>tidal</item>
         <item>tik__tok</item>
         <item>tinder</item>
+        <item>too_good_to_go</item>
         <item>trading_212</item>
         <item>tumblr</item>
         <item>tutanota</item>
@@ -456,6 +488,7 @@
         <item>your_phone_companion</item>
         <item>zalando</item>
         <item>zoom</item>
+        <item>µ__torrent</item>
     </string-array>
 
     <string-array name="Google">
@@ -467,6 +500,7 @@
         <item>gboard</item>
         <item>gmail</item>
         <item>google_ads</item>
+        <item>google_analytics</item>
         <item>google_arts_and_culture</item>
         <item>google_assistant</item>
         <item>google_calendar</item>
@@ -478,6 +512,7 @@
         <item>google_earth</item>
         <item>google_files</item>
         <item>google_fit</item>
+        <item>google_go</item>
         <item>google_home</item>
         <item>google_keep</item>
         <item>google_lens</item>
@@ -544,6 +579,19 @@
         <item>adobe_scan</item>
         <item>adobe_sign</item>
         <item>adobe_x__d</item>
+    </string-array>
+
+    <string-array name="FOSS">
+        <item>aurora_store</item>
+        <item>f-__droid</item>
+        <item>f__o__s__s_browser</item>
+        <item>kodi</item>
+        <item>kore</item>
+        <item>l__b__r__y</item>
+        <item>netguard</item>
+        <item>new__pipe</item>
+        <item>signal</item>
+        <item>tutanota</item>
     </string-array>
 
     <string-array name="Customs">
