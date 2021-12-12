@@ -238,6 +238,7 @@
         <item>Google</item>
         <item>Microsoft</item>
         <item>Adobe</item>
+        <item>FOSS</item>
         <item>Customs</item>
         <item>Alternative</item>
         <item>Outdated</item>
@@ -625,8 +626,11 @@
         <item>gallery_alt_2</item>
         <item>gallery_alt_3</item>
         <item>gallery_alt_4</item>
+        <item>gmail_alt_1</item>
         <item>google_assistant_alt_1</item>
+        <item>google_calendar_alt_1</item>
         <item>google_chrome_alt_1</item>
+        <item>google_drive_alt_1</item>
         <item>google_earth_alt_1</item>
         <item>google_fit_alt_1</item>
         <item>google_home_alt_1</item>
@@ -669,6 +673,9 @@
     </string-array>
 
     <string-array name="Outdated">
+        <item>gmail_alt_1</item>
+        <item>google_calendar_alt_1</item>
+        <item>google_drive_alt_1</item>
         <item>google_earth_alt_1</item>
         <item>google_maps_alt_1</item>
         <item>google_maps_alt_2</item>
