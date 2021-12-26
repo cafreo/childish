@@ -397,6 +397,48 @@
   <AppIcon name="com.huawei.hidisk.filemanager.FileManager" image="files" />
   <!--Files-->
   <AppIcon name="com.android.documentsui.LauncherActivity" image="files" />
+  <!--Files-->
+  <AppIcon name="zte.com.cn.filer.FileMgrActivity" image="files" />
+  <!--Files-->
+  <AppIcon name="com.android.fileexplorer.FileExplorerTabActivity" image="files" />
+  <!--Files-->
+  <AppIcon name="com.sec.android.app.myfiles.MainActivity" image="files" />
+  <!--Files-->
+  <AppIcon name="com.sec.android.app.myfiles.common.MainActivity" image="files" />
+  <!--Files-->
+  <AppIcon name="com.oppo.filemanager.Main" image="files" />
+  <!--Files-->
+  <AppIcon name="com.oneplus.filemanager.HomePageActivity" image="files" />
+  <!--Files-->
+  <AppIcon name="com.lenovo.FileBrowser.activities.FileBrowserMain" image="files" />
+  <!--Files-->
+  <AppIcon name="com.meizu.flyme.filemanager.activity.HomeActivity" image="files" />
+  <!--Files-->
+  <AppIcon name="com.ape.filemanager.FileManagerMainActivity" image="files" />
+  <!--Files-->
+  <AppIcon name="com.lge.filemanager.view.LaunchActivity" image="files" />
+  <!--Files-->
+  <AppIcon name="com.letv.android.filemanager.activities.FileManagerActivity" image="files" />
+  <!--Files-->
+  <AppIcon name="com.huawei.hidisk.filemanager.FileManager" image="files" />
+  <!--Files-->
+  <AppIcon name="com.htc.filemanager.FileManagerActivity" image="files" />
+  <!--Files-->
+  <AppIcon name="by.androld.app.filemanager.MainActivity" image="files" />
+  <!--Files-->
+  <AppIcon name="com.mobisystems.files.FileBrowser" image="files" />
+  <!--Files-->
+  <AppIcon name="com.cyanogenmod.filemanager.activities.NavigationActivity" image="files" />
+  <!--Files-->
+  <AppIcon name="com.coloros.filemanager.Main" image="files" />
+  <!--Files-->
+  <AppIcon name="cn.nubia.myfile.CategoryActivity" image="files" />
+  <!--Files-->
+  <AppIcon name="com.asus.filemanager.activity.FileManagerActivity" image="files" />
+  <!--Files-->
+  <AppIcon name="com.amaze.filemanager.activities.MainActivity" image="files" />
+  <!--Files-->
+  <AppIcon name="com.jrdcom.filemanager.activity.FileBrowserActivity" image="files" />
   <!--Firefox-->
   <AppIcon name="org.mozilla.firefox.App" image="firefox" />
   <!--Fiverr-->

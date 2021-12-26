@@ -391,6 +391,48 @@
     <item class="com.huawei.hidisk.filemanager.FileManager" name="files" />
     <!--Files-->
     <item class="com.android.documentsui.LauncherActivity" name="files" />
+    <!--Files-->
+    <item class="zte.com.cn.filer.FileMgrActivity" name="files" />
+    <!--Files-->
+    <item class="com.android.fileexplorer.FileExplorerTabActivity" name="files" />
+    <!--Files-->
+    <item class="com.sec.android.app.myfiles.MainActivity" name="files" />
+    <!--Files-->
+    <item class="com.sec.android.app.myfiles.common.MainActivity" name="files" />
+    <!--Files-->
+    <item class="com.oppo.filemanager.Main" name="files" />
+    <!--Files-->
+    <item class="com.oneplus.filemanager.HomePageActivity" name="files" />
+    <!--Files-->
+    <item class="com.lenovo.FileBrowser.activities.FileBrowserMain" name="files" />
+    <!--Files-->
+    <item class="com.meizu.flyme.filemanager.activity.HomeActivity" name="files" />
+    <!--Files-->
+    <item class="com.ape.filemanager.FileManagerMainActivity" name="files" />
+    <!--Files-->
+    <item class="com.lge.filemanager.view.LaunchActivity" name="files" />
+    <!--Files-->
+    <item class="com.letv.android.filemanager.activities.FileManagerActivity" name="files" />
+    <!--Files-->
+    <item class="com.huawei.hidisk.filemanager.FileManager" name="files" />
+    <!--Files-->
+    <item class="com.htc.filemanager.FileManagerActivity" name="files" />
+    <!--Files-->
+    <item class="by.androld.app.filemanager.MainActivity" name="files" />
+    <!--Files-->
+    <item class="com.mobisystems.files.FileBrowser" name="files" />
+    <!--Files-->
+    <item class="com.cyanogenmod.filemanager.activities.NavigationActivity" name="files" />
+    <!--Files-->
+    <item class="com.coloros.filemanager.Main" name="files" />
+    <!--Files-->
+    <item class="cn.nubia.myfile.CategoryActivity" name="files" />
+    <!--Files-->
+    <item class="com.asus.filemanager.activity.FileManagerActivity" name="files" />
+    <!--Files-->
+    <item class="com.amaze.filemanager.activities.MainActivity" name="files" />
+    <!--Files-->
+    <item class="com.jrdcom.filemanager.activity.FileBrowserActivity" name="files" />
     <!--Firefox-->
     <item class="org.mozilla.firefox.App" name="firefox" />
     <!--Fiverr-->
