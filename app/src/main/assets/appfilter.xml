@@ -42,6 +42,8 @@
   <item component="ComponentInfo{com.audible.application/com.audible.application.SplashScreen}" drawable="audible" />
   <!--Aurora Store-->
   <item component="ComponentInfo{com.aurora.store/com.aurora.store.view.ui.onboarding.OnboardingActivity}" drawable="aurora_store" />
+  <!--AuthPass-->
+  <item component="ComponentInfo{design.codeux.authpass/design.codeux.authpass.MainActivity}" drawable="auth__pass" />
   <!--Avast Cleanup-->
   <item component="ComponentInfo{com.avast.android.cleaner/com.avast.android.cleaner.activity.StartActivity}" drawable="avast_cleanup" />
   <!--Avast Mobile Security-->
@@ -132,10 +134,14 @@
   <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="google_chrome" />
   <!--Chrome Remote Desktop-->
   <item component="ComponentInfo{com.google.chromeremotedesktop/org.chromium.chromoting.Chromoting}" drawable="chrome_remote_desktop" />
+  <!--Chromium-->
+  <item component="ComponentInfo{org.chromium.chrome/com.google.android.apps.chrome.Main}" drawable="chromium" />
   <!--Cisco Webex Meetings-->
   <item component="ComponentInfo{com.cisco.webex.meetings/com.cisco.webex.meetings.ui.premeeting.welcome.WebExMeeting}" drawable="cisco_webex_meetings" />
   <!--Clock-->
   <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmsMainActivity}" drawable="clock" />
+  <!--Clock-->
+  <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock_desk" />
   <!--Clock Google-->
   <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock_google" />
   <!--Contacts-->
@@ -382,6 +388,8 @@
   <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="f__droid" />
   <!--Files-->
   <item component="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager}" drawable="files" />
+  <!--Files-->
+  <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="files" />
   <!--Firefox-->
   <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox" />
   <!--Fiverr-->
@@ -414,6 +422,8 @@
   <item component="ComponentInfo{com.tct.gallery3d/com.tct.gallery3d.app.PermissionActivity}" drawable="gallery" />
   <!--Gallery-->
   <item component="ComponentInfo{com.android.gallery3d/com.android.camera.LauncherActivity}" drawable="gallery" />
+  <!--Gallery-->
+  <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="gallery" />
   <!--Gboard-->
   <item component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="gboard" />
   <!--Genius-->
@@ -506,6 +516,8 @@
   <item component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}" drawable="play_movies" />
   <!--Google Play Games-->
   <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="play_games" />
+  <!--Google Play Music-->
+  <item component="ComponentInfo{com.google.android.music/com.google.android.music.tombstone.LauncherActivity}" drawable="play_music" />
   <!--Google Play Musik-->
   <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="play_music" />
   <!--Google Play Store-->
@@ -522,6 +534,8 @@
   <item component="ComponentInfo{com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity}" drawable="google_tasks" />
   <!--Google Translate-->
   <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="google_translate" />
+  <!--Google TV-->
+  <item component="ComponentInfo{com.google.android.videos/com.google.android.videos.GoogleTvEntryPoint}" drawable="google_t__v" />
   <!--Google Umfrage-App-->
   <item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.LaunchActivity}" drawable="google_opinion_rewards" />
   <!--Google Umfrage-App-->
@@ -582,6 +596,8 @@
   <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="messenger" />
   <!--Messenger Lite-->
   <item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity}" drawable="messenger_lite" />
+  <!--Metro-->
+  <item component="ComponentInfo{io.github.muntashirakon.Music/io.github.muntashirakon.music.activities.MainActivity}" drawable="retro_music" />
   <!--Microsoft Authenticator-->
   <item component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity}" drawable="microsoft_authenticator" />
   <!--Microsoft Bing-->
@@ -592,6 +608,8 @@
   <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" drawable="microsoft_excel" />
   <!--Microsoft Launcher-->
   <item component="ComponentInfo{com.microsoft.launcher/com.microsoft.launcher.Launcher}" drawable="microsoft_launcher" />
+  <!--Microsoft Maths Solver-->
+  <item component="ComponentInfo{com.microsoft.math/com.microsoft.bing.reactnative.lib.MainActivity}" drawable="microsoft_maths_solver" />
   <!--Microsoft News-->
   <item component="ComponentInfo{com.microsoft.amp.apps.bingnews/microsoft.msn.news.android.activities.LaunchActivity}" drawable="microsoft_news" />
   <!--Microsoft Office-->
@@ -616,6 +634,8 @@
   <item component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}" drawable="microsoft_word" />
   <!--Music-->
   <item component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}" drawable="music" />
+  <!--Music-->
+  <item component="ComponentInfo{org.calyxos.eleven/org.lineageos.eleven.ui.activities.HomeActivity}" drawable="music" />
   <!--Musixmatch-->
   <item component="ComponentInfo{com.musixmatch.android.lyrify/com.musixmatch.android.ui.phone.DashBoardActivity}" drawable="musixmatch" />
   <!--Musixmatch-->
@@ -650,6 +670,8 @@
   <item component="ComponentInfo{com.teslacoilsw.launcher/com.android.launcher2.Launcher}" drawable="nova_launcher_settings" />
   <!--Nova Launcher-->
   <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity}" drawable="nova_launcher_settings" />
+  <!--Nova Launcher-->
+  <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="nova_launcher" />
   <!--Nova Launcher Prime-->
   <item component="ComponentInfo{com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity}" drawable="nova_launcher_prime" />
   <!--Onix Music-->
@@ -678,6 +700,8 @@
   <item component="ComponentInfo{code.name.monkey.retromusic/code.name.monkey.retromusic.ui.activities.MainActivity}" drawable="retro_music" />
   <!--Rero Music-->
   <item component="ComponentInfo{code.name.monkey.retromusic/code.name.monkey.retromusic.activities.MainActivity}" drawable="retro_music" />
+  <!--Session-->
+  <item component="ComponentInfo{network.loki.messenger/network.loki.messenger.RoutingActivity}" drawable="session" />
   <!--Settings-->
   <item component="ComponentInfo{com.android.settings/com.android.settings.HWSettings}" drawable="settings" />
   <!--Settings-->
@@ -746,6 +770,8 @@
   <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="steam" />
   <!--Sygic-->
   <item component="ComponentInfo{com.sygic.aura/com.sygic.aura.activity.NaviNativeActivity}" drawable="sygic__g__p__s_navigation" />
+  <!--Syncthing-Fork-->
+  <item component="ComponentInfo{com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity}" drawable="syncthing_fork" />
   <!--Takeaway-->
   <item component="ComponentInfo{uk.takeaway.android/com.takeaway.android.activity.Splash}" drawable="takeaway" />
   <!--Team Viewer-->
@@ -786,6 +812,32 @@
   <item component="ComponentInfo{co.vine.android/co.vine.android.MainActivity}" drawable="vine" />
   <!--VLC-->
   <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.StartActivity}" drawable="vlc" />
+  <!--Weather-->
+  <item component="ComponentInfo{org.secuso.privacyfriendlyweather/org.secuso.privacyfriendlyweather.activities.SplashActivity}" drawable="weather" />
+  <!--Weather-->
+  <item component="ComponentInfo{com.huawei.android.totemweather/com.huawei.android.totemweather.WeatherHome}" drawable="weather" />
+  <!--Weather-->
+  <item component="ComponentInfo{com.asus.weathertime/com.asus.weathertime.WeatherTimeSettings}" drawable="weather" />
+  <!--Weather-->
+  <item component="ComponentInfo{com.coloros.weather/com.coloros.weather.OppoMainActivity}" drawable="weather" />
+  <!--Weather-->
+  <item component="ComponentInfo{com.htc.Weather/com.htc.Weather.WeatherEntry}" drawable="weather" />
+  <!--Weather-->
+  <item component="ComponentInfo{com.htc.Weather/com.htc.Weather.WeatherEntryAlias}" drawable="weather" />
+  <!--Weather-->
+  <item component="ComponentInfo{com.lge.sizechangable.weather/com.lge.sizechangable.weather.activities.WeatherActivity_Default}" drawable="weather" />
+  <!--Weather-->
+  <item component="ComponentInfo{com.ape.weather/com.ape.weather.DetailActivity}" drawable="weather" />
+  <!--Weather-->
+  <item component="ComponentInfo{com.meizu.flyme.weather/com.meizu.flyme.weather.WeatherMainActivity}" drawable="weather" />
+  <!--Weather-->
+  <item component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}" drawable="weather" />
+  <!--Weather-->
+  <item component="ComponentInfo{com.samsung.android.weather/com.samsung.android.weather.app.WeatherLauncher}" drawable="weather" />
+  <!--Weather-->
+  <item component="ComponentInfo{com.sonymobile.xperiaweather/com.sonymobile.xperiaweather.MainActivity}" drawable="weather" />
+  <!--Weather-->
+  <item component="ComponentInfo{com.miui.weather2/com.miui.weather2.ActivityWeatherMain}" drawable="weather" />
   <!--WhatsApp-->
   <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="whats__app" />
   <!--Wikipedia-->

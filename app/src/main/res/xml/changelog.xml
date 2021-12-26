@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="v 2.1.1" />
-    <item text="Added 9 new Icons, 4 of them for FOSS apps" />
-    <item text="Updated 6 icons" />
-    <item text="Added a new category: FOSS (F-Droid repository)" />
-    <item text="Fixed minor issue where some icons wouldn't show up in the dashboard." />
+    <version title="v. 2.1.2" />
+    <item text="Added 7 new Icons, 4 of them for FOSS apps" />
+    <item text="Updated 2 Icons" />
+    <item text="Deactivated the License Checker" />
+    <item text="Updated to Blueprint v. 2.2.3" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>

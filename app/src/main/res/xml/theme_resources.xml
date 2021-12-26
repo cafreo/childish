@@ -49,6 +49,8 @@
   <AppIcon name="com.audible.application.SplashScreen" image="audible" />
   <!--Aurora Store-->
   <AppIcon name="com.aurora.store.view.ui.onboarding.OnboardingActivity" image="aurora_store" />
+  <!--AuthPass-->
+  <AppIcon name="design.codeux.authpass.MainActivity" image="auth__pass" />
   <!--Avast Cleanup-->
   <AppIcon name="com.avast.android.cleaner.activity.StartActivity" image="avast_cleanup" />
   <!--Avast Mobile Security-->
@@ -139,10 +141,14 @@
   <AppIcon name="com.google.android.apps.chrome.Main" image="google_chrome" />
   <!--Chrome Remote Desktop-->
   <AppIcon name="org.chromium.chromoting.Chromoting" image="chrome_remote_desktop" />
+  <!--Chromium-->
+  <AppIcon name="com.google.android.apps.chrome.Main" image="chromium" />
   <!--Cisco Webex Meetings-->
   <AppIcon name="com.cisco.webex.meetings.ui.premeeting.welcome.WebExMeeting" image="cisco_webex_meetings" />
   <!--Clock-->
   <AppIcon name="com.android.deskclock.AlarmsMainActivity" image="clock" />
+  <!--Clock-->
+  <AppIcon name="com.android.deskclock.DeskClock" image="clock_desk" />
   <!--Clock Google-->
   <AppIcon name="com.android.deskclock.DeskClock" image="clock_google" />
   <!--Contacts-->
@@ -389,6 +395,8 @@
   <AppIcon name="org.fdroid.fdroid.views.main.MainActivity" image="f__droid" />
   <!--Files-->
   <AppIcon name="com.huawei.hidisk.filemanager.FileManager" image="files" />
+  <!--Files-->
+  <AppIcon name="com.android.documentsui.LauncherActivity" image="files" />
   <!--Firefox-->
   <AppIcon name="org.mozilla.firefox.App" image="firefox" />
   <!--Fiverr-->
@@ -421,6 +429,8 @@
   <AppIcon name="com.tct.gallery3d.app.PermissionActivity" image="gallery" />
   <!--Gallery-->
   <AppIcon name="com.android.camera.LauncherActivity" image="gallery" />
+  <!--Gallery-->
+  <AppIcon name="com.android.gallery3d.app.GalleryActivity" image="gallery" />
   <!--Gboard-->
   <AppIcon name="com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity" image="gboard" />
   <!--Genius-->
@@ -513,6 +523,8 @@
   <AppIcon name="com.google.android.youtube.videos.EntryPoint" image="play_movies" />
   <!--Google Play Games-->
   <AppIcon name="com.google.android.gms.games.ui.destination.main.MainActivity" image="play_games" />
+  <!--Google Play Music-->
+  <AppIcon name="com.google.android.music.tombstone.LauncherActivity" image="play_music" />
   <!--Google Play Musik-->
   <AppIcon name="com.android.music.activitymanagement.TopLevelActivity" image="play_music" />
   <!--Google Play Store-->
@@ -529,6 +541,8 @@
   <AppIcon name="com.google.android.apps.tasks.ui.TaskListsActivity" image="google_tasks" />
   <!--Google Translate-->
   <AppIcon name="com.google.android.apps.translate.TranslateActivity" image="google_translate" />
+  <!--Google TV-->
+  <AppIcon name="com.google.android.videos.GoogleTvEntryPoint" image="google_t__v" />
   <!--Google Umfrage-App-->
   <AppIcon name="com.google.android.apps.paidtasks.LaunchActivity" image="google_opinion_rewards" />
   <!--Google Umfrage-App-->
@@ -589,6 +603,8 @@
   <AppIcon name="com.facebook.orca.auth.StartScreenActivity" image="messenger" />
   <!--Messenger Lite-->
   <AppIcon name="com.facebook.mlite.coreui.view.MainActivity" image="messenger_lite" />
+  <!--Metro-->
+  <AppIcon name="io.github.muntashirakon.music.activities.MainActivity" image="retro_music" />
   <!--Microsoft Authenticator-->
   <AppIcon name="com.azure.authenticator.ui.LaunchActivity" image="microsoft_authenticator" />
   <!--Microsoft Bing-->
@@ -599,6 +615,8 @@
   <AppIcon name="com.microsoft.office.apphost.LaunchActivity" image="microsoft_excel" />
   <!--Microsoft Launcher-->
   <AppIcon name="com.microsoft.launcher.Launcher" image="microsoft_launcher" />
+  <!--Microsoft Maths Solver-->
+  <AppIcon name="com.microsoft.bing.reactnative.lib.MainActivity" image="microsoft_maths_solver" />
   <!--Microsoft News-->
   <AppIcon name="microsoft.msn.news.android.activities.LaunchActivity" image="microsoft_news" />
   <!--Microsoft Office-->
@@ -623,6 +641,8 @@
   <AppIcon name="com.microsoft.office.apphost.LaunchActivity" image="microsoft_word" />
   <!--Music-->
   <AppIcon name="com.android.mediacenter.PageActivity" image="music" />
+  <!--Music-->
+  <AppIcon name="org.lineageos.eleven.ui.activities.HomeActivity" image="music" />
   <!--Musixmatch-->
   <AppIcon name="com.musixmatch.android.ui.phone.DashBoardActivity" image="musixmatch" />
   <!--Musixmatch-->
@@ -657,6 +677,8 @@
   <AppIcon name="com.android.launcher2.Launcher" image="nova_launcher_settings" />
   <!--Nova Launcher-->
   <AppIcon name="com.teslacoilsw.launcher.preferences.SettingsActivity" image="nova_launcher_settings" />
+  <!--Nova Launcher-->
+  <AppIcon name="com.teslacoilsw.launcher.NovaShortcutHandler" image="nova_launcher" />
   <!--Nova Launcher Prime-->
   <AppIcon name="com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity" image="nova_launcher_prime" />
   <!--Onix Music-->
@@ -685,6 +707,8 @@
   <AppIcon name="code.name.monkey.retromusic.ui.activities.MainActivity" image="retro_music" />
   <!--Rero Music-->
   <AppIcon name="code.name.monkey.retromusic.activities.MainActivity" image="retro_music" />
+  <!--Session-->
+  <AppIcon name="network.loki.messenger.RoutingActivity" image="session" />
   <!--Settings-->
   <AppIcon name="com.android.settings.HWSettings" image="settings" />
   <!--Settings-->
@@ -753,6 +777,8 @@
   <AppIcon name="com.valvesoftware.android.steam.community.activity.MainActivity" image="steam" />
   <!--Sygic-->
   <AppIcon name="com.sygic.aura.activity.NaviNativeActivity" image="sygic__g__p__s_navigation" />
+  <!--Syncthing-Fork-->
+  <AppIcon name="com.nutomic.syncthingandroid.activities.FirstStartActivity" image="syncthing_fork" />
   <!--Takeaway-->
   <AppIcon name="com.takeaway.android.activity.Splash" image="takeaway" />
   <!--Team Viewer-->
@@ -793,6 +819,34 @@
   <AppIcon name="co.vine.android.MainActivity" image="vine" />
   <!--VLC-->
   <AppIcon name="org.videolan.vlc.StartActivity" image="vlc" />
+  <!--Weather-->
+  <AppIcon name="org.secuso.privacyfriendlyweather.activities.SplashActivity" image="weather" />
+  <!--Weather-->
+  <AppIcon name="com.huawei.android.totemweather.WeatherHome" image="weather" />
+  <!--Weather-->
+  <AppIcon name="com.asus.weathertime.WeatherTimeSettings" image="weather" />
+  <!--Weather-->
+  <AppIcon name="com.coloros.weather.OppoMainActivity" image="weather" />
+  <!--Weather-->
+  <AppIcon name="com.htc.Weather.WeatherEntry" image="weather" />
+  <!--Weather-->
+  <AppIcon name="com.htc.Weather.WeatherEntryAlias" image="weather" />
+  <!--Weather-->
+  <AppIcon name="com.huawei.android.totemweather.WeatherHome" image="weather" />
+  <!--Weather-->
+  <AppIcon name="com.lge.sizechangable.weather.activities.WeatherActivity_Default" image="weather" />
+  <!--Weather-->
+  <AppIcon name="com.ape.weather.DetailActivity" image="weather" />
+  <!--Weather-->
+  <AppIcon name="com.meizu.flyme.weather.WeatherMainActivity" image="weather" />
+  <!--Weather-->
+  <AppIcon name="net.oneplus.weather.app.MainActivity" image="weather" />
+  <!--Weather-->
+  <AppIcon name="com.samsung.android.weather.app.WeatherLauncher" image="weather" />
+  <!--Weather-->
+  <AppIcon name="com.sonymobile.xperiaweather.MainActivity" image="weather" />
+  <!--Weather-->
+  <AppIcon name="com.miui.weather2.ActivityWeatherMain" image="weather" />
   <!--WhatsApp-->
   <AppIcon name="com.whatsapp.Main" image="whats__app" />
   <!--Wikipedia-->

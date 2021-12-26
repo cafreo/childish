@@ -22,6 +22,7 @@
         <item>any_do</item>
         <item>audible</item>
         <item>aurora_store</item>
+        <item>auth__pass</item>
         <item>avast_cleanup</item>
         <item>avast_mobile_security</item>
         <item>avira_antivirus</item>
@@ -109,6 +110,7 @@
         <item>google_street_view</item>
         <item>google_tasks</item>
         <item>google_translate</item>
+        <item>google_tv</item>
         <item>google_wallpapers</item>
         <item>google_wear_o__s</item>
         <item>hangouts</item>
@@ -136,11 +138,13 @@
         <item>marvel_unlimited</item>
         <item>messenger</item>
         <item>messenger_lite</item>
+        <item>metro_music</item>
         <item>microsoft_authenticator</item>
         <item>microsoft_bing</item>
         <item>microsoft_edge</item>
         <item>microsoft_excel</item>
         <item>microsoft_launcher</item>
+        <item>microsoft_maths_solver</item>
         <item>microsoft_news</item>
         <item>microsoft_office</item>
         <item>microsoft_one__drive</item>
@@ -181,6 +185,7 @@
         <item>retro_music</item>
         <item>s__h__a__r__e_it</item>
         <item>s__m__s_m__m__s</item>
+        <item>session</item>
         <item>settings</item>
         <item>shazam</item>
         <item>signal</item>
@@ -194,6 +199,8 @@
         <item>spotify</item>
         <item>steam</item>
         <item>sygic__g__p__s_navigation</item>
+        <item>syncthing</item>
+        <item>syncthing-fork</item>
         <item>takeaway</item>
         <item>team__viewer</item>
         <item>telegram</item>
@@ -214,6 +221,7 @@
         <item>vimeo</item>
         <item>vine</item>
         <item>vlc</item>
+        <item>weather</item>
         <item>whats__app</item>
         <item>wikipedia</item>
         <item>wikipedia_beta</item>
@@ -245,6 +253,14 @@
     </string-array>
 
     <string-array name="New">
+        <item>weather</item>
+        <item>microsoft_maths_solver</item>
+        <item>session</item>
+        <item>google_tv</item>
+        <item>auth__pass</item>
+        <item>syncthing</item>
+        <item>syncthing-fork</item>
+        <item>metro_music</item>
         <item>l__b__r__y</item>
         <item>google_analytics</item>
         <item>f__droid</item>
@@ -287,6 +303,7 @@
         <item>any_do</item>
         <item>audible</item>
         <item>aurora_store</item>
+        <item>auth__pass</item>
         <item>avast_cleanup</item>
         <item>avast_mobile_security</item>
         <item>avira_antivirus</item>
@@ -374,6 +391,7 @@
         <item>google_street_view</item>
         <item>google_tasks</item>
         <item>google_translate</item>
+        <item>google_tv</item>
         <item>google_wallpapers</item>
         <item>google_wear_o__s</item>
         <item>hangouts</item>
@@ -401,11 +419,13 @@
         <item>marvel_unlimited</item>
         <item>messenger</item>
         <item>messenger_lite</item>
+        <item>metro_music</item>
         <item>microsoft_authenticator</item>
         <item>microsoft_bing</item>
         <item>microsoft_edge</item>
         <item>microsoft_excel</item>
         <item>microsoft_launcher</item>
+        <item>microsoft_maths_solver</item>
         <item>microsoft_news</item>
         <item>microsoft_office</item>
         <item>microsoft_one__drive</item>
@@ -446,6 +466,7 @@
         <item>retro_music</item>
         <item>s__h__a__r__e_it</item>
         <item>s__m__s_m__m__s</item>
+        <item>session</item>
         <item>settings</item>
         <item>shazam</item>
         <item>signal</item>
@@ -459,6 +480,8 @@
         <item>spotify</item>
         <item>steam</item>
         <item>sygic__g__p__s_navigation</item>
+        <item>syncthing</item>
+        <item>syncthing-fork</item>
         <item>takeaway</item>
         <item>team__viewer</item>
         <item>telegram</item>
@@ -479,6 +502,7 @@
         <item>vimeo</item>
         <item>vine</item>
         <item>vlc</item>
+        <item>weather</item>
         <item>whats__app</item>
         <item>wikipedia</item>
         <item>wikipedia_beta</item>
@@ -534,6 +558,7 @@
         <item>google_street_view</item>
         <item>google_tasks</item>
         <item>google_translate</item>
+        <item>google_tv</item>
         <item>google_wallpapers</item>
         <item>google_wear_o__s</item>
         <item>hangouts</item>
@@ -554,6 +579,7 @@
         <item>microsoft_edge</item>
         <item>microsoft_excel</item>
         <item>microsoft_launcher</item>
+        <item>microsoft_maths_solver</item>
         <item>microsoft_news</item>
         <item>microsoft_office</item>
         <item>microsoft_one__drive</item>
@@ -584,14 +610,19 @@
 
     <string-array name="FOSS">
         <item>aurora_store</item>
+        <item>auth__pass</item>
         <item>f__droid</item>
         <item>f__o__s__s_browser</item>
         <item>kodi</item>
         <item>kore</item>
         <item>l__b__r__y</item>
+        <item>metro_music</item>
         <item>netguard</item>
         <item>new__pipe</item>
+        <item>session</item>
         <item>signal</item>
+        <item>syncthing</item>
+        <item>syncthing-fork</item>
         <item>tutanota</item>
     </string-array>
 

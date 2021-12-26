@@ -84,6 +84,9 @@ android {
 }
 
 dependencies {
+
+    implementation 'dev.jahir:Blueprint:2.2.3'
+
     implementation(Libs.blueprint) {
         transitive = true
     }
