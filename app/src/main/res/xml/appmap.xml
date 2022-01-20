@@ -45,6 +45,8 @@
     <item class="com.aurora.store.view.ui.onboarding.OnboardingActivity" name="aurora_store" />
     <!--AuthPass-->
     <item class="design.codeux.authpass.MainActivity" name="auth__pass" />
+    <!--AuthPass-->
+    <item class="design.codeux.authpass.MainActivity" name="auth__pass" />
     <!--Avast Cleanup-->
     <item class="com.avast.android.cleaner.activity.StartActivity" name="avast_cleanup" />
     <!--Avast Mobile Security-->
@@ -387,8 +389,6 @@
     <item class="com.facebook.lite.MainActivity" name="facebook_lite" />
     <!--F-Droid-->
     <item class="org.fdroid.fdroid.views.main.MainActivity" name="f__droid" />
-    <!--Files-->
-    <item class="com.huawei.hidisk.filemanager.FileManager" name="files" />
     <!--Files-->
     <item class="com.android.documentsui.LauncherActivity" name="files" />
     <!--Files-->
@@ -799,6 +799,8 @@
     <item class="com.android.mms.ui.VoiceMailTabActivity" name="s__m__s_m__m__s" />
     <!--SMS / MMS-->
     <item class="com.yulong.android.mms.ui.MmsMainListFormActivity" name="s__m__s_m__m__s" />
+    <!--SMS / MMS-->
+    <item class="com.android.messaging.ui.conversationlist.ConversationListActivity" name="s__m__s_m__m__s" />
     <!--Snapchat-->
     <item class="com.snapchat.android.LandingPageActivity" name="snapchat" />
     <!--Snapseed-->

@@ -51,6 +51,8 @@
   <AppIcon name="com.aurora.store.view.ui.onboarding.OnboardingActivity" image="aurora_store" />
   <!--AuthPass-->
   <AppIcon name="design.codeux.authpass.MainActivity" image="auth__pass" />
+  <!--AuthPass-->
+  <AppIcon name="design.codeux.authpass.MainActivity" image="auth__pass" />
   <!--Avast Cleanup-->
   <AppIcon name="com.avast.android.cleaner.activity.StartActivity" image="avast_cleanup" />
   <!--Avast Mobile Security-->
@@ -393,8 +395,6 @@
   <AppIcon name="com.facebook.lite.MainActivity" image="facebook_lite" />
   <!--F-Droid-->
   <AppIcon name="org.fdroid.fdroid.views.main.MainActivity" image="f__droid" />
-  <!--Files-->
-  <AppIcon name="com.huawei.hidisk.filemanager.FileManager" image="files" />
   <!--Files-->
   <AppIcon name="com.android.documentsui.LauncherActivity" image="files" />
   <!--Files-->
@@ -805,6 +805,8 @@
   <AppIcon name="com.android.mms.ui.VoiceMailTabActivity" image="s__m__s_m__m__s" />
   <!--SMS / MMS-->
   <AppIcon name="com.yulong.android.mms.ui.MmsMainListFormActivity" image="s__m__s_m__m__s" />
+  <!--SMS / MMS-->
+  <AppIcon name="com.android.messaging.ui.conversationlist.ConversationListActivity" image="s__m__s_m__m__s" />
   <!--Snapchat-->
   <AppIcon name="com.snapchat.android.LandingPageActivity" image="snapchat" />
   <!--Snapseed-->

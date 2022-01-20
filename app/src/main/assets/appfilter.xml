@@ -44,6 +44,8 @@
   <item component="ComponentInfo{com.aurora.store/com.aurora.store.view.ui.onboarding.OnboardingActivity}" drawable="aurora_store" />
   <!--AuthPass-->
   <item component="ComponentInfo{design.codeux.authpass/design.codeux.authpass.MainActivity}" drawable="auth__pass" />
+  <!--AuthPass-->
+  <item component="ComponentInfo{design.codeux.authpass.fdroid/design.codeux.authpass.MainActivity}" drawable="auth__pass" />
   <!--Avast Cleanup-->
   <item component="ComponentInfo{com.avast.android.cleaner/com.avast.android.cleaner.activity.StartActivity}" drawable="avast_cleanup" />
   <!--Avast Mobile Security-->
@@ -796,6 +798,8 @@
   <item component="ComponentInfo{com.android.mms/com.android.mms.ui.VoiceMailTabActivity}" drawable="s__m__s_m__m__s" />
   <!--SMS / MMS-->
   <item component="ComponentInfo{com.android.mms/com.yulong.android.mms.ui.MmsMainListFormActivity}" drawable="s__m__s_m__m__s" />
+  <!--SMS / MMS-->
+  <item component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="s__m__s_m__m__s" />
   <!--Snapchat-->
   <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}" drawable="snapchat" />
   <!--Snapseed-->
