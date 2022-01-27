@@ -19,6 +19,8 @@
     <item class="com.adobe.echosign.ui.ASLauncherActivity" name="adobe_sign" />
     <!--Adobe XD-->
     <item class="com.adobe.sparklerandroid.activity.XDSplashScreenActivity" name="adobe_x__d" />
+    <!--Aegis-->
+    <item class="com.beemdevelopment.aegis.ui.MainActivity" name="aegis" />
     <!--Ali Express-->
     <item class="com.alibaba.aliexpresshd.home.ui.MainActivity" name="ali__express" />
     <!--All In One Toolbox-->
@@ -43,6 +45,8 @@
     <item class="com.audible.application.SplashScreen" name="audible" />
     <!--Aurora Store-->
     <item class="com.aurora.store.view.ui.onboarding.OnboardingActivity" name="aurora_store" />
+    <!--AuthPass-->
+    <item class="design.codeux.authpass.MainActivity" name="auth__pass" />
     <!--AuthPass-->
     <item class="design.codeux.authpass.MainActivity" name="auth__pass" />
     <!--AuthPass-->
@@ -89,6 +93,8 @@
     <item class="com.sec.android.app.popupcalculator.Calculator" name="calculator" />
     <!--Calculator-->
     <item class="com.android.calculator2.Calculator" name="calculator" />
+    <!--Calendar-->
+    <item class="com.android.calendar.AllInOneActivity" name="etar_calendar" />
     <!--Camera-->
     <item class="com.android.camera.CameraLauncher" name="camera" />
     <!--Camera-->
@@ -133,6 +139,8 @@
     <item class="com.huawei.camera" name="camera_google" />
     <!--Camera Motorola-->
     <item class="com.motorola.camera.Camera" name="camera" />
+    <!--Childish-->
+    <item class="com.puppy.childish.MainActivity" name="childish" />
     <!--Chrome-->
     <item class="com.google.android.apps.chrome.Main" name="google_chrome" />
     <!--Chrome Remote Desktop-->
@@ -147,6 +155,8 @@
     <item class="com.android.deskclock.DeskClock" name="clock_desk" />
     <!--Clock Google-->
     <item class="com.android.deskclock.DeskClock" name="clock_google" />
+    <!--ConnectBot-->
+    <item class="org.connectbot.HostListActivity" name="connect__bot" />
     <!--Contacts-->
     <item class="com.android.contacts.activities.PeopleActivity" name="contacts" />
     <!--Contacts Google-->
@@ -379,6 +389,8 @@
     <item class="com.estrongs.android.pop.view.FileExplorerActivity" name="e__s_file_explorer" />
     <!--ES File Explorer-->
     <item class="com.estrongs.android.pop.resmanager.view.FileExplorerActivity" name="e__s_file_explorer" />
+    <!--Etar Calendar-->
+    <item class="com.android.calendar.AllInOneActivity" name="etar_calendar" />
     <!--Evernote-->
     <item class="com.evernote.ui.HomeActivity" name="evernote" />
     <!--EveryWiki-->
@@ -617,6 +629,8 @@
     <item class="com.instagram.layout.LayoutActivity" name="layout_from_instagram" />
     <!--LBRY-->
     <item class="io.lbry.browser.MainActivity" name="l__b__r__y" />
+    <!--Lemuroid-->
+    <item class="com.swordfish.lemuroid.app.mobile.feature.main.MainActivity" name="lemuroid" />
     <!--Lieferando-->
     <item class="com.takeaway.android.activity.Splash" name="lieferando" />
     <!--LINE-->
@@ -625,6 +639,8 @@
     <item class="com.linecorp.linelite.ui.android.main.IntroActivity" name="l__i__n__e_lite" />
     <!--LinkedIn-->
     <item class="com.linkedin.android.authenticator.LaunchActivity" name="linked__in" />
+    <!--Loop Habits-->
+    <item class="org.isoron.uhabits.MainActivity" name="loop_habtis" />
     <!--LOVOO-->
     <item class="com.lovoo.ui.activities.LovooStartActivity" name="lovoo" />
     <!--Maps-->
@@ -635,6 +651,8 @@
     <item class="com.marvel.unlimited.activities.SplashActivity" name="marvel_unlimited" />
     <!--MEGA-->
     <item class="mega.privacy.android.app.lollipop.ManagerActivityLollipop" name="m__e__g__a" />
+    <!--Messaging-->
+    <item class="com.android.messaging.ui.conversationlist.ConversationListActivity" name="s__m__s_m__m__s" />
     <!--Messenger-->
     <item class="com.facebook.orca.auth.StartScreenActivity" name="messenger" />
     <!--Messenger Lite-->
@@ -675,6 +693,8 @@
     <item class="com.microsoft.todos.ui.LaunchActivity" name="microsoft_to__do" />
     <!--Microsoft Word-->
     <item class="com.microsoft.office.apphost.LaunchActivity" name="microsoft_word" />
+    <!--Mull-->
+    <item class="us.spotco.fennec_dos.App" name="mull" />
     <!--Music-->
     <item class="com.android.mediacenter.PageActivity" name="music" />
     <!--Music-->
@@ -719,6 +739,8 @@
     <item class="com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity" name="nova_launcher_prime" />
     <!--Onix Music-->
     <item class="com.optimus.music.player.onix.SplashScreen.SplashScreenActivity" name="onix_music" />
+    <!--Open Camera-->
+    <item class="net.sourceforge.opencamera.MainActivity" name="open_camera" />
     <!--Opera-->
     <item class="com.opera.Opera" name="opera" />
     <!--Opera-->
@@ -769,6 +791,8 @@
     <item class="com.shazam.android.activities.SplashActivity" name="shazam" />
     <!--Signal-->
     <item class="org.thoughtcrime.securesms.RoutingActivity" name="signal" />
+    <!--SimpleLogin-->
+    <item class="io.simplelogin.android.module.startup.StartupActivity" name="simple__login" />
     <!--Skype-->
     <item class="com.skype.raider.Main" name="skype" />
     <!--Skype-->

@@ -18,6 +18,8 @@
   <item component="ComponentInfo{com.adobe.echosign/com.adobe.echosign.ui.ASLauncherActivity}" drawable="adobe_sign" />
   <!--Adobe XD-->
   <item component="ComponentInfo{com.adobe.sparklerandroid/com.adobe.sparklerandroid.activity.XDSplashScreenActivity}" drawable="adobe_x__d" />
+  <!--Aegis-->
+  <item component="ComponentInfo{com.beemdevelopment.aegis/com.beemdevelopment.aegis.ui.MainActivity}" drawable="aegis" />
   <!--Ali Express-->
   <item component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.home.ui.MainActivity}" drawable="ali__express" />
   <!--All In One Toolbox-->
@@ -44,6 +46,8 @@
   <item component="ComponentInfo{com.aurora.store/com.aurora.store.view.ui.onboarding.OnboardingActivity}" drawable="aurora_store" />
   <!--AuthPass-->
   <item component="ComponentInfo{design.codeux.authpass/design.codeux.authpass.MainActivity}" drawable="auth__pass" />
+  <!--AuthPass-->
+  <item component="ComponentInfo{design.codeux.authpass.fdroid/design.codeux.authpass.MainActivity}" drawable="auth__pass" />
   <!--AuthPass-->
   <item component="ComponentInfo{design.codeux.authpass.fdroid/design.codeux.authpass.MainActivity}" drawable="auth__pass" />
   <!--Avast Cleanup-->
@@ -88,6 +92,8 @@
   <item component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}" drawable="calculator" />
   <!--Calculator-->
   <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="calculator" />
+  <!--Calendar-->
+  <item component="ComponentInfo{org.calyxos.etar/com.android.calendar.AllInOneActivity}" drawable="etar_calendar" />
   <!--Camera-->
   <item component="ComponentInfo{com.tct.tablet.camera/com.android.camera.CameraLauncher}" drawable="camera" />
   <!--Camera-->
@@ -132,6 +138,8 @@
   <item component="ComponentInfo{com.huawei.camera/com.huawei.camera}" drawable="camera_google" />
   <!--Camera Motorola-->
   <item component="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}" drawable="camera" />
+  <!--Childish-->
+  <item component="ComponentInfo{com.puppy.childish/com.puppy.childish.MainActivity}" drawable="childish" />
   <!--Chrome-->
   <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="google_chrome" />
   <!--Chrome Remote Desktop-->
@@ -146,6 +154,8 @@
   <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock_desk" />
   <!--Clock Google-->
   <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock_google" />
+  <!--ConnectBot-->
+  <item component="ComponentInfo{org.connectbot/org.connectbot.HostListActivity}" drawable="connect__bot" />
   <!--Contacts-->
   <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts" />
   <!--Contacts Google-->
@@ -378,6 +388,8 @@
   <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}" drawable="e__s_file_explorer" />
   <!--ES File Explorer-->
   <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.resmanager.view.FileExplorerActivity}" drawable="e__s_file_explorer" />
+  <!--Etar Calendar-->
+  <item component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}" drawable="etar_calendar" />
   <!--Evernote-->
   <item component="ComponentInfo{com.evernote/com.evernote.ui.HomeActivity}" drawable="evernote" />
   <!--EveryWiki-->
@@ -616,6 +628,8 @@
   <item component="ComponentInfo{com.instagram.layout/com.instagram.layout.LayoutActivity}" drawable="layout_from_instagram" />
   <!--LBRY-->
   <item component="ComponentInfo{io.lbry.browser/io.lbry.browser.MainActivity}" drawable="l__b__r__y" />
+  <!--Lemuroid-->
+  <item component="ComponentInfo{com.swordfish.lemuroid/com.swordfish.lemuroid.app.mobile.feature.main.MainActivity}" drawable="lemuroid" />
   <!--Lieferando-->
   <item component="ComponentInfo{com.yopeso.lieferando/com.takeaway.android.activity.Splash}" drawable="lieferando" />
   <!--LINE-->
@@ -624,6 +638,8 @@
   <item component="ComponentInfo{com.linecorp.linelite/com.linecorp.linelite.ui.android.main.IntroActivity}" drawable="l__i__n__e_lite" />
   <!--LinkedIn-->
   <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" drawable="linked__in" />
+  <!--Loop Habits-->
+  <item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="loop_habtis" />
   <!--LOVOO-->
   <item component="ComponentInfo{net.lovoo.android/com.lovoo.ui.activities.LovooStartActivity}" drawable="lovoo" />
   <!--Maps-->
@@ -634,6 +650,8 @@
   <item component="ComponentInfo{com.marvel.unlimited/com.marvel.unlimited.activities.SplashActivity}" drawable="marvel_unlimited" />
   <!--MEGA-->
   <item component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.lollipop.ManagerActivityLollipop}" drawable="m__e__g__a" />
+  <!--Messaging-->
+  <item component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="s__m__s_m__m__s" />
   <!--Messenger-->
   <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="messenger" />
   <!--Messenger Lite-->
@@ -674,6 +692,8 @@
   <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="microsoft_to__do" />
   <!--Microsoft Word-->
   <item component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}" drawable="microsoft_word" />
+  <!--Mull-->
+  <item component="ComponentInfo{us.spotco.fennec_dos/us.spotco.fennec_dos.App}" drawable="mull" />
   <!--Music-->
   <item component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}" drawable="music" />
   <!--Music-->
@@ -718,6 +738,8 @@
   <item component="ComponentInfo{com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity}" drawable="nova_launcher_prime" />
   <!--Onix Music-->
   <item component="ComponentInfo{com.optimus.music.player.onix/com.optimus.music.player.onix.SplashScreen.SplashScreenActivity}" drawable="onix_music" />
+  <!--Open Camera-->
+  <item component="ComponentInfo{net.sourceforge.opencamera/net.sourceforge.opencamera.MainActivity}" drawable="open_camera" />
   <!--Opera-->
   <item component="ComponentInfo{com.opera.browser/com.opera.Opera}" drawable="opera" />
   <!--Opera-->
@@ -768,6 +790,8 @@
   <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="shazam" />
   <!--Signal-->
   <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity}" drawable="signal" />
+  <!--SimpleLogin-->
+  <item component="ComponentInfo{io.simplelogin.android.fdroid/io.simplelogin.android.module.startup.StartupActivity}" drawable="simple__login" />
   <!--Skype-->
   <item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="skype" />
   <!--Skype-->

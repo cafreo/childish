@@ -11,6 +11,7 @@
         <item>adobe_scan</item>
         <item>adobe_sign</item>
         <item>adobe_x__d</item>
+        <item>aegis</item>
         <item>ali__express</item>
         <item>all_in_one_toolbox</item>
         <item>amazon</item>
@@ -45,6 +46,7 @@
         <item>clean_master</item>
         <item>clock</item>
         <item>clock_google</item>
+        <item>connect__bot</item>
         <item>contacts</item>
         <item>contacts_google</item>
         <item>d__b_navigator</item>
@@ -61,6 +63,7 @@
         <item>e__s_file_explorer</item>
         <item>e_mail</item>
         <item>ebay</item>
+        <item>etar_calendar</item>
         <item>evernote</item>
         <item>every__wiki</item>
         <item>f__droid</item>
@@ -110,7 +113,7 @@
         <item>google_street_view</item>
         <item>google_tasks</item>
         <item>google_translate</item>
-        <item>google_tv</item>
+        <item>google_t__v</item>
         <item>google_wallpapers</item>
         <item>google_wear_o__s</item>
         <item>hangouts</item>
@@ -129,8 +132,10 @@
         <item>l__i__n__e_lite</item>
         <item>last__pass</item>
         <item>layout_from_instagram</item>
+        <item>lemuroid</item>
         <item>lieferando</item>
         <item>linked__in</item>
+        <item>loop_habits</item>
         <item>lovoo</item>
         <item>m__e__g__a</item>
         <item>m__x_player</item>
@@ -155,6 +160,7 @@
         <item>microsoft_teams</item>
         <item>microsoft_to__do</item>
         <item>microsoft_word</item>
+        <item>mull</item>
         <item>music</item>
         <item>musixmatch</item>
         <item>my_mixtapez</item>
@@ -169,6 +175,7 @@
         <item>nova_launcher_prime</item>
         <item>nova_launcher_settings</item>
         <item>onix_music</item>
+        <item>open_camera</item>
         <item>opera</item>
         <item>opera_news</item>
         <item>opera_touch</item>
@@ -189,6 +196,7 @@
         <item>settings</item>
         <item>shazam</item>
         <item>signal</item>
+        <item>simple__login</item>
         <item>skype</item>
         <item>skype_business</item>
         <item>skype_lite</item>
@@ -199,8 +207,8 @@
         <item>spotify</item>
         <item>steam</item>
         <item>sygic__g__p__s_navigation</item>
+        <item>syncthing_fork</item>
         <item>syncthing</item>
-        <item>syncthing-fork</item>
         <item>takeaway</item>
         <item>team__viewer</item>
         <item>telegram</item>
@@ -216,6 +224,7 @@
         <item>twitter</item>
         <item>twitter_lite</item>
         <item>u__c_browser</item>
+        <item>u__torrent</item>
         <item>untis_mobile</item>
         <item>viber</item>
         <item>vimeo</item>
@@ -232,7 +241,6 @@
         <item>your_phone_companion</item>
         <item>zalando</item>
         <item>zoom</item>
-        <item>u__torrent</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -253,28 +261,26 @@
     </string-array>
 
     <string-array name="New">
+        <item>mull</item>
+        <item>simple__login</item>
+        <item>aegis</item>
+        <item>connect__bot</item>
+        <item>lemuroid</item>
+        <item>loop_habits</item>
+        <item>open_camera</item>
+        <item>etar_calendar</item>
         <item>weather</item>
         <item>microsoft_maths_solver</item>
         <item>session</item>
-        <item>google_tv</item>
+        <item>google_t__v</item>
         <item>auth__pass</item>
         <item>syncthing</item>
-        <item>syncthing-fork</item>
+        <item>syncthing_fork</item>
         <item>metro_music</item>
         <item>l__b__r__y</item>
         <item>google_analytics</item>
         <item>f__droid</item>
         <item>u__torrent</item>
-        <item>bit__torrent</item>
-        <item>f__o__s__s_browser</item>
-        <item>too_good_to_go</item>
-        <item>google_go</item>
-        <item>aurora_store</item>
-        <item>kore</item>
-        <item>kodi</item>
-        <item>tutanota</item>
-        <item>i__k__e__a</item>
-        <item>deutsche_bank___photo__t__a__n</item>
     </string-array>
 
     <string-array name="All">
@@ -286,6 +292,7 @@
         <item>adobe_scan</item>
         <item>adobe_sign</item>
         <item>adobe_x__d</item>
+        <item>aegis</item>
         <item>ali__express</item>
         <item>all_in_one_toolbox</item>
         <item>amazon</item>
@@ -320,6 +327,7 @@
         <item>clean_master</item>
         <item>clock</item>
         <item>clock_google</item>
+        <item>connect__bot</item>
         <item>contacts</item>
         <item>contacts_google</item>
         <item>d__b_navigator</item>
@@ -336,6 +344,7 @@
         <item>e__s_file_explorer</item>
         <item>e_mail</item>
         <item>ebay</item>
+        <item>etar_calendar</item>
         <item>evernote</item>
         <item>every__wiki</item>
         <item>f__droid</item>
@@ -385,7 +394,7 @@
         <item>google_street_view</item>
         <item>google_tasks</item>
         <item>google_translate</item>
-        <item>google_tv</item>
+        <item>google_t__v</item>
         <item>google_wallpapers</item>
         <item>google_wear_o__s</item>
         <item>hangouts</item>
@@ -404,8 +413,10 @@
         <item>l__i__n__e_lite</item>
         <item>last__pass</item>
         <item>layout_from_instagram</item>
+        <item>lemuroid</item>
         <item>lieferando</item>
         <item>linked__in</item>
+        <item>loop_habits</item>
         <item>lovoo</item>
         <item>m__e__g__a</item>
         <item>m__x_player</item>
@@ -430,6 +441,7 @@
         <item>microsoft_teams</item>
         <item>microsoft_to__do</item>
         <item>microsoft_word</item>
+        <item>mull</item>
         <item>music</item>
         <item>musixmatch</item>
         <item>my_mixtapez</item>
@@ -444,6 +456,7 @@
         <item>nova_launcher_prime</item>
         <item>nova_launcher_settings</item>
         <item>onix_music</item>
+        <item>open_camera</item>
         <item>opera</item>
         <item>opera_news</item>
         <item>opera_touch</item>
@@ -464,6 +477,7 @@
         <item>settings</item>
         <item>shazam</item>
         <item>signal</item>
+        <item>simple__login</item>
         <item>skype</item>
         <item>skype_business</item>
         <item>skype_lite</item>
@@ -474,8 +488,8 @@
         <item>spotify</item>
         <item>steam</item>
         <item>sygic__g__p__s_navigation</item>
+        <item>syncthing_fork</item>
         <item>syncthing</item>
-        <item>syncthing-fork</item>
         <item>takeaway</item>
         <item>team__viewer</item>
         <item>telegram</item>
@@ -491,6 +505,7 @@
         <item>twitter</item>
         <item>twitter_lite</item>
         <item>u__c_browser</item>
+        <item>u__torrent</item>
         <item>untis_mobile</item>
         <item>viber</item>
         <item>vimeo</item>
@@ -507,7 +522,6 @@
         <item>your_phone_companion</item>
         <item>zalando</item>
         <item>zoom</item>
-        <item>u__torrent</item>
     </string-array>
 
     <string-array name="Google">
@@ -552,7 +566,7 @@
         <item>google_street_view</item>
         <item>google_tasks</item>
         <item>google_translate</item>
-        <item>google_tv</item>
+        <item>google_t__v</item>
         <item>google_wallpapers</item>
         <item>google_wear_o__s</item>
         <item>hangouts</item>
@@ -603,20 +617,28 @@
     </string-array>
 
     <string-array name="FOSS">
+        <item>aegis</item>
         <item>aurora_store</item>
         <item>auth__pass</item>
+        <item>connect__bot</item>
+        <item>etar_calendar</item>
         <item>f__droid</item>
         <item>f__o__s__s_browser</item>
         <item>kodi</item>
         <item>kore</item>
         <item>l__b__r__y</item>
+        <item>lemuroid</item>
+        <item>loop_habits</item>
         <item>metro_music</item>
+        <item>mull</item>
         <item>netguard</item>
         <item>new__pipe</item>
+        <item>open_camera</item>
         <item>session</item>
         <item>signal</item>
+        <item>simple__login</item>
+        <item>syncthing_fork</item>
         <item>syncthing</item>
-        <item>syncthing-fork</item>
         <item>tutanota</item>
     </string-array>
 

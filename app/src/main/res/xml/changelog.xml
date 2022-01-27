@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="v. 2.1.2" />
-    <item text="Added 7 new Icons, 4 of them for FOSS apps" />
+    <version title="v. 2.1.3" />
+    <item text="Added 8 new Icons for FOSS apps" />
     <item text="Updated 2 Icons" />
-    <item text="Deactivated the License Checker" />
-    <item text="Updated to Blueprint v. 2.2.3" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>

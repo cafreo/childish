@@ -25,6 +25,8 @@
   <AppIcon name="com.adobe.echosign.ui.ASLauncherActivity" image="adobe_sign" />
   <!--Adobe XD-->
   <AppIcon name="com.adobe.sparklerandroid.activity.XDSplashScreenActivity" image="adobe_x__d" />
+  <!--Aegis-->
+  <AppIcon name="com.beemdevelopment.aegis.ui.MainActivity" image="aegis" />
   <!--Ali Express-->
   <AppIcon name="com.alibaba.aliexpresshd.home.ui.MainActivity" image="ali__express" />
   <!--All In One Toolbox-->
@@ -49,6 +51,8 @@
   <AppIcon name="com.audible.application.SplashScreen" image="audible" />
   <!--Aurora Store-->
   <AppIcon name="com.aurora.store.view.ui.onboarding.OnboardingActivity" image="aurora_store" />
+  <!--AuthPass-->
+  <AppIcon name="design.codeux.authpass.MainActivity" image="auth__pass" />
   <!--AuthPass-->
   <AppIcon name="design.codeux.authpass.MainActivity" image="auth__pass" />
   <!--AuthPass-->
@@ -95,6 +99,8 @@
   <AppIcon name="com.sec.android.app.popupcalculator.Calculator" image="calculator" />
   <!--Calculator-->
   <AppIcon name="com.android.calculator2.Calculator" image="calculator" />
+  <!--Calendar-->
+  <AppIcon name="com.android.calendar.AllInOneActivity" image="etar_calendar" />
   <!--Camera-->
   <AppIcon name="com.android.camera.CameraLauncher" image="camera" />
   <!--Camera-->
@@ -139,6 +145,8 @@
   <AppIcon name="com.huawei.camera" image="camera_google" />
   <!--Camera Motorola-->
   <AppIcon name="com.motorola.camera.Camera" image="camera" />
+  <!--Childish-->
+  <AppIcon name="com.puppy.childish.MainActivity" image="childish" />
   <!--Chrome-->
   <AppIcon name="com.google.android.apps.chrome.Main" image="google_chrome" />
   <!--Chrome Remote Desktop-->
@@ -153,6 +161,8 @@
   <AppIcon name="com.android.deskclock.DeskClock" image="clock_desk" />
   <!--Clock Google-->
   <AppIcon name="com.android.deskclock.DeskClock" image="clock_google" />
+  <!--ConnectBot-->
+  <AppIcon name="org.connectbot.HostListActivity" image="connect__bot" />
   <!--Contacts-->
   <AppIcon name="com.android.contacts.activities.PeopleActivity" image="contacts" />
   <!--Contacts Google-->
@@ -385,6 +395,8 @@
   <AppIcon name="com.estrongs.android.pop.view.FileExplorerActivity" image="e__s_file_explorer" />
   <!--ES File Explorer-->
   <AppIcon name="com.estrongs.android.pop.resmanager.view.FileExplorerActivity" image="e__s_file_explorer" />
+  <!--Etar Calendar-->
+  <AppIcon name="com.android.calendar.AllInOneActivity" image="etar_calendar" />
   <!--Evernote-->
   <AppIcon name="com.evernote.ui.HomeActivity" image="evernote" />
   <!--EveryWiki-->
@@ -623,6 +635,8 @@
   <AppIcon name="com.instagram.layout.LayoutActivity" image="layout_from_instagram" />
   <!--LBRY-->
   <AppIcon name="io.lbry.browser.MainActivity" image="l__b__r__y" />
+  <!--Lemuroid-->
+  <AppIcon name="com.swordfish.lemuroid.app.mobile.feature.main.MainActivity" image="lemuroid" />
   <!--Lieferando-->
   <AppIcon name="com.takeaway.android.activity.Splash" image="lieferando" />
   <!--LINE-->
@@ -631,6 +645,8 @@
   <AppIcon name="com.linecorp.linelite.ui.android.main.IntroActivity" image="l__i__n__e_lite" />
   <!--LinkedIn-->
   <AppIcon name="com.linkedin.android.authenticator.LaunchActivity" image="linked__in" />
+  <!--Loop Habits-->
+  <AppIcon name="org.isoron.uhabits.MainActivity" image="loop_habtis" />
   <!--LOVOO-->
   <AppIcon name="com.lovoo.ui.activities.LovooStartActivity" image="lovoo" />
   <!--Maps-->
@@ -641,6 +657,8 @@
   <AppIcon name="com.marvel.unlimited.activities.SplashActivity" image="marvel_unlimited" />
   <!--MEGA-->
   <AppIcon name="mega.privacy.android.app.lollipop.ManagerActivityLollipop" image="m__e__g__a" />
+  <!--Messaging-->
+  <AppIcon name="com.android.messaging.ui.conversationlist.ConversationListActivity" image="s__m__s_m__m__s" />
   <!--Messenger-->
   <AppIcon name="com.facebook.orca.auth.StartScreenActivity" image="messenger" />
   <!--Messenger Lite-->
@@ -681,6 +699,8 @@
   <AppIcon name="com.microsoft.todos.ui.LaunchActivity" image="microsoft_to__do" />
   <!--Microsoft Word-->
   <AppIcon name="com.microsoft.office.apphost.LaunchActivity" image="microsoft_word" />
+  <!--Mull-->
+  <AppIcon name="us.spotco.fennec_dos.App" image="mull" />
   <!--Music-->
   <AppIcon name="com.android.mediacenter.PageActivity" image="music" />
   <!--Music-->
@@ -725,6 +745,8 @@
   <AppIcon name="com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity" image="nova_launcher_prime" />
   <!--Onix Music-->
   <AppIcon name="com.optimus.music.player.onix.SplashScreen.SplashScreenActivity" image="onix_music" />
+  <!--Open Camera-->
+  <AppIcon name="net.sourceforge.opencamera.MainActivity" image="open_camera" />
   <!--Opera-->
   <AppIcon name="com.opera.Opera" image="opera" />
   <!--Opera-->
@@ -775,6 +797,8 @@
   <AppIcon name="com.shazam.android.activities.SplashActivity" image="shazam" />
   <!--Signal-->
   <AppIcon name="org.thoughtcrime.securesms.RoutingActivity" image="signal" />
+  <!--SimpleLogin-->
+  <AppIcon name="io.simplelogin.android.module.startup.StartupActivity" image="simple__login" />
   <!--Skype-->
   <AppIcon name="com.skype.raider.Main" image="skype" />
   <!--Skype-->
