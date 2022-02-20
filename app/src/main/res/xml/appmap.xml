@@ -165,6 +165,8 @@
     <item class="com.datpiff.mobile.AppEntry" name="dat__piff" />
     <!--DatPiff-->
     <item class="com.datpiff.mobile.view.ui.activity.MainActivity" name="dat__piff" />
+    <!--Datura Firewall-->
+    <item class="org.calyxos.datura.MainActivity" name="datura_firewall" />
     <!--DB Navigator-->
     <item class="de.bahn.dbtickets.ui.DBNavLauncherActivity" name="d__b_navigator" />
     <!--Deutsche Bank-->
@@ -611,8 +613,14 @@
     <item class="com.imo.android.imoim.activities.Home" name="imo" />
     <!--Instagram-->
     <item class="com.instagram.android.activity.MainTabActivity" name="instagram" />
+    <!--K-9 Mail-->
+    <item class="com.fsck.k9.activity.MessageList" name="k9_mail" />
     <!--Keepass2-->
     <item class="crc64ae7e22645ed9821f.KeePass" name="keepass2" />
+    <!--KeePassDX-->
+    <item class="com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" name="kee__pass__d__x" />
+    <!--KeePassDX-->
+    <item class="com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" name="kee__pass__d__x" />
     <!--KeePassDX-->
     <item class="com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" name="kee__pass__d__x" />
     <!--Klarna-->
@@ -640,7 +648,7 @@
     <!--LinkedIn-->
     <item class="com.linkedin.android.authenticator.LaunchActivity" name="linked__in" />
     <!--Loop Habits-->
-    <item class="org.isoron.uhabits.MainActivity" name="loop_habtis" />
+    <item class="org.isoron.uhabits.MainActivity" name="loop_habits" />
     <!--LOVOO-->
     <item class="com.lovoo.ui.activities.LovooStartActivity" name="lovoo" />
     <!--Maps-->
@@ -659,6 +667,8 @@
     <item class="com.facebook.mlite.coreui.view.MainActivity" name="messenger_lite" />
     <!--Metro-->
     <item class="io.github.muntashirakon.music.activities.MainActivity" name="retro_music" />
+    <!--MicroG-->
+    <item class="org.microg.gms.ui.SettingsActivity" name="micro__g" />
     <!--Microsoft Authenticator-->
     <item class="com.azure.authenticator.ui.LaunchActivity" name="microsoft_authenticator" />
     <!--Microsoft Bing-->
@@ -747,6 +757,10 @@
     <item class="com.opera.touch.MainActivity" name="opera_touch" />
     <!--Opera News-->
     <item class="com.opera.android.startup.NewsStartActivity" name="opera_news" />
+    <!--Orbot-->
+    <item class="org.torproject.android.OrbotMainActivity" name="orbot" />
+    <!--Organic Maps-->
+    <item class="com.mapswithme.maps.DownloadResourcesActivity" name="organic_maps" />
     <!--PayPal-->
     <item class="com.paypal.android.p2pmobile.startup.activities.StartupActivity" name="pay__pal" />
     <!--Pinterest-->
@@ -755,6 +769,10 @@
     <item class="com.pinterest.twa.LauncherActivity" name="pinterest_lite" />
     <!--Plex-->
     <item class="com.plexapp.plex.activities.SplashActivity" name="plex" />
+    <!--Pocket Plays-->
+    <item class="com.sebastianrask.bettersubscription.activities.StartUpActivity" name="twire" />
+    <!--Posidon Launcher-->
+    <item class="posidon.launcher.Home" name="posidon_launcher" />
     <!--Reddit-->
     <item class="com.reddit.frontpage.StartActivity" name="reddit" />
     <!--Reddit-->
@@ -765,6 +783,8 @@
     <item class="code.name.monkey.retromusic.ui.activities.MainActivity" name="retro_music" />
     <!--Rero Music-->
     <item class="code.name.monkey.retromusic.activities.MainActivity" name="retro_music" />
+    <!--Seedvault Backup-->
+    <item class="com.stevesoltys.seedvault.settings.SettingsLink" name="seedvault" />
     <!--Session-->
     <item class="network.loki.messenger.RoutingActivity" name="session" />
     <!--Settings-->
@@ -791,8 +811,14 @@
     <item class="com.shazam.android.activities.SplashActivity" name="shazam" />
     <!--Signal-->
     <item class="org.thoughtcrime.securesms.RoutingActivity" name="signal" />
+    <!--Simple Keyboard-->
+    <item class="rkr.simplekeyboard.inputmethod.latin.settings.SettingsActivity" name="simple_keyboard" />
     <!--SimpleLogin-->
     <item class="io.simplelogin.android.module.startup.StartupActivity" name="simple__login" />
+    <!--Simpletask Nextcloud-->
+    <item class="nl.mpcjanssen.simpletask.Simpletask" name="simpletask" />
+    <!--Simpletask WebDAV-->
+    <item class="nl.mpcjanssen.simpletask.Simpletask" name="simpletask" />
     <!--Skype-->
     <item class="com.skype.raider.Main" name="skype" />
     <!--Skype-->
@@ -835,6 +861,8 @@
     <item class="com.soundhound.android.appcommon.activity.SplashScreenActivity" name="sound__hound" />
     <!--Spotify-->
     <item class="com.spotify.music.MainActivity" name="spotify" />
+    <!--Stealth-->
+    <item class="com.cosmos.unreddit.MainActivity" name="stealth" />
     <!--Steam-->
     <item class="com.valvesoftware.android.steam.community.activity.MainActivity" name="steam" />
     <!--Sygic-->
@@ -857,12 +885,18 @@
     <item class="com.tinder.activities.LoginActivity" name="tinder" />
     <!--Too Good To Go-->
     <item class="com.app.tgtg.activities.SplashActivity" name="too_good_to_go" />
+    <!--Tor Browser-->
+    <item class="org.torproject.torbrowser.App" name="tor_browser" />
     <!--Trading 212-->
     <item class="com.avuscapital.trading212lib.modules.prelogin.WelcomeActivity" name="trading_212" />
+    <!--Transportr-->
+    <item class="de.grobox.transportr.map.MapActivity" name="transportr" />
     <!--Tumblr-->
     <item class="com.tumblr.ui.activity.JumpoffActivity" name="tumblr" />
     <!--Tutanota-->
     <item class="de.tutao.tutanota.MainActivity" name="tutanota" />
+    <!--Twire-->
+    <item class="com.perflyst.twire.activities.StartUpActivity" name="twire" />
     <!--Twitch-->
     <item class="tv.twitch.android.app.core.LandingActivity" name="twitch" />
     <!--Twitter-->

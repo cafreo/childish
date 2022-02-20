@@ -164,6 +164,8 @@
   <item component="ComponentInfo{com.datpiff.mobile/com.datpiff.mobile.AppEntry}" drawable="dat__piff" />
   <!--DatPiff-->
   <item component="ComponentInfo{com.datpiff.mobile/com.datpiff.mobile.view.ui.activity.MainActivity}" drawable="dat__piff" />
+  <!--Datura Firewall-->
+  <item component="ComponentInfo{org.calyxos.datura/org.calyxos.datura.MainActivity}" drawable="datura_firewall" />
   <!--DB Navigator-->
   <item component="ComponentInfo{de.hafas.android.db/de.bahn.dbtickets.ui.DBNavLauncherActivity}" drawable="d__b_navigator" />
   <!--Deutsche Bank-->
@@ -610,10 +612,16 @@
   <item component="ComponentInfo{com.imo.android.imoim/com.imo.android.imoim.activities.Home}" drawable="imo" />
   <!--Instagram-->
   <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" />
+  <!--K-9 Mail-->
+  <item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.MessageList}" drawable="k9_mail" />
   <!--Keepass2-->
   <item component="ComponentInfo{keepass2android.keepass2android/crc64ae7e22645ed9821f.KeePass}" drawable="keepass2" />
   <!--KeePassDX-->
   <item component="ComponentInfo{com.kunzisoft.keepass.free/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}" drawable="kee__pass__d__x" />
+  <!--KeePassDX-->
+  <item component="ComponentInfo{com.kunzisoft.keepass.libre/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}" drawable="kee__pass__d__x" />
+  <!--KeePassDX-->
+  <item component="ComponentInfo{com.kunzisoft.keepass.libre/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}" drawable="kee__pass__d__x" />
   <!--Klarna-->
   <item component="ComponentInfo{com.myklarnamobile/com.klarna.SplashActivity}" drawable="klarna" />
   <!--Kodi-->
@@ -639,7 +647,7 @@
   <!--LinkedIn-->
   <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" drawable="linked__in" />
   <!--Loop Habits-->
-  <item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="loop_habtis" />
+  <item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="loop_habits" />
   <!--LOVOO-->
   <item component="ComponentInfo{net.lovoo.android/com.lovoo.ui.activities.LovooStartActivity}" drawable="lovoo" />
   <!--Maps-->
@@ -658,6 +666,8 @@
   <item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity}" drawable="messenger_lite" />
   <!--Metro-->
   <item component="ComponentInfo{io.github.muntashirakon.Music/io.github.muntashirakon.music.activities.MainActivity}" drawable="retro_music" />
+  <!--MicroG-->
+  <item component="ComponentInfo{com.google.android.gms/org.microg.gms.ui.SettingsActivity}" drawable="micro__g" />
   <!--Microsoft Authenticator-->
   <item component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity}" drawable="microsoft_authenticator" />
   <!--Microsoft Bing-->
@@ -746,6 +756,10 @@
   <item component="ComponentInfo{com.opera.touch/com.opera.touch.MainActivity}" drawable="opera_touch" />
   <!--Opera News-->
   <item component="ComponentInfo{com.opera.app.news/com.opera.android.startup.NewsStartActivity}" drawable="opera_news" />
+  <!--Orbot-->
+  <item component="ComponentInfo{org.torproject.android/org.torproject.android.OrbotMainActivity}" drawable="orbot" />
+  <!--Organic Maps-->
+  <item component="ComponentInfo{app.organicmaps/com.mapswithme.maps.DownloadResourcesActivity}" drawable="organic_maps" />
   <!--PayPal-->
   <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="pay__pal" />
   <!--Pinterest-->
@@ -754,6 +768,10 @@
   <item component="ComponentInfo{com.pinterest.twa/com.pinterest.twa.LauncherActivity}" drawable="pinterest_lite" />
   <!--Plex-->
   <item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.SplashActivity}" drawable="plex" />
+  <!--Pocket Plays-->
+  <item component="ComponentInfo{net.nrask.notifyme/com.sebastianrask.bettersubscription.activities.StartUpActivity}" drawable="twire" />
+  <!--Posidon Launcher-->
+  <item component="ComponentInfo{posidon.launcher/posidon.launcher.Home}" drawable="posidon_launcher" />
   <!--Reddit-->
   <item component="ComponentInfo{com.reddit.frontpage/com.reddit.frontpage.StartActivity}" drawable="reddit" />
   <!--Reddit-->
@@ -764,6 +782,8 @@
   <item component="ComponentInfo{code.name.monkey.retromusic/code.name.monkey.retromusic.ui.activities.MainActivity}" drawable="retro_music" />
   <!--Rero Music-->
   <item component="ComponentInfo{code.name.monkey.retromusic/code.name.monkey.retromusic.activities.MainActivity}" drawable="retro_music" />
+  <!--Seedvault Backup-->
+  <item component="ComponentInfo{com.stevesoltys.seedvault/com.stevesoltys.seedvault.settings.SettingsLink}" drawable="seedvault" />
   <!--Session-->
   <item component="ComponentInfo{network.loki.messenger/network.loki.messenger.RoutingActivity}" drawable="session" />
   <!--Settings-->
@@ -790,8 +810,14 @@
   <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="shazam" />
   <!--Signal-->
   <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity}" drawable="signal" />
+  <!--Simple Keyboard-->
+  <item component="ComponentInfo{rkr.simplekeyboard.inputmethod/rkr.simplekeyboard.inputmethod.latin.settings.SettingsActivity}" drawable="simple_keyboard" />
   <!--SimpleLogin-->
   <item component="ComponentInfo{io.simplelogin.android.fdroid/io.simplelogin.android.module.startup.StartupActivity}" drawable="simple__login" />
+  <!--Simpletask Nextcloud-->
+  <item component="ComponentInfo{nl.mpcjanssen.simpletask.nextcloud/nl.mpcjanssen.simpletask.Simpletask}" drawable="simpletask" />
+  <!--Simpletask WebDAV-->
+  <item component="ComponentInfo{nl.mpcjanssen.simpletask.webdav/nl.mpcjanssen.simpletask.Simpletask}" drawable="simpletask" />
   <!--Skype-->
   <item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="skype" />
   <!--Skype-->
@@ -834,6 +860,8 @@
   <item component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="sound__hound" />
   <!--Spotify-->
   <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="spotify" />
+  <!--Stealth-->
+  <item component="ComponentInfo{com.cosmos.unreddit/com.cosmos.unreddit.MainActivity}" drawable="stealth" />
   <!--Steam-->
   <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="steam" />
   <!--Sygic-->
@@ -856,12 +884,18 @@
   <item component="ComponentInfo{com.tinder/com.tinder.activities.LoginActivity}" drawable="tinder" />
   <!--Too Good To Go-->
   <item component="ComponentInfo{com.app.tgtg/com.app.tgtg.activities.SplashActivity}" drawable="too_good_to_go" />
+  <!--Tor Browser-->
+  <item component="ComponentInfo{org.torproject.torbrowser/org.torproject.torbrowser.App}" drawable="tor_browser" />
   <!--Trading 212-->
   <item component="ComponentInfo{com.avuscapital.trading212/com.avuscapital.trading212lib.modules.prelogin.WelcomeActivity}" drawable="trading_212" />
+  <!--Transportr-->
+  <item component="ComponentInfo{de.grobox.liberario/de.grobox.transportr.map.MapActivity}" drawable="transportr" />
   <!--Tumblr-->
   <item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="tumblr" />
   <!--Tutanota-->
   <item component="ComponentInfo{de.tutao.tutanota/de.tutao.tutanota.MainActivity}" drawable="tutanota" />
+  <!--Twire-->
+  <item component="ComponentInfo{com.perflyst.twire/com.perflyst.twire.activities.StartUpActivity}" drawable="twire" />
   <!--Twitch-->
   <item component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity}" drawable="twitch" />
   <!--Twitter-->

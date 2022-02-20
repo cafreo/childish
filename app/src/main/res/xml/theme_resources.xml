@@ -171,6 +171,8 @@
   <AppIcon name="com.datpiff.mobile.AppEntry" image="dat__piff" />
   <!--DatPiff-->
   <AppIcon name="com.datpiff.mobile.view.ui.activity.MainActivity" image="dat__piff" />
+  <!--Datura Firewall-->
+  <AppIcon name="org.calyxos.datura.MainActivity" image="datura_firewall" />
   <!--DB Navigator-->
   <AppIcon name="de.bahn.dbtickets.ui.DBNavLauncherActivity" image="d__b_navigator" />
   <!--Deutsche Bank-->
@@ -617,8 +619,14 @@
   <AppIcon name="com.imo.android.imoim.activities.Home" image="imo" />
   <!--Instagram-->
   <AppIcon name="com.instagram.android.activity.MainTabActivity" image="instagram" />
+  <!--K-9 Mail-->
+  <AppIcon name="com.fsck.k9.activity.MessageList" image="k9_mail" />
   <!--Keepass2-->
   <AppIcon name="crc64ae7e22645ed9821f.KeePass" image="keepass2" />
+  <!--KeePassDX-->
+  <AppIcon name="com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" image="kee__pass__d__x" />
+  <!--KeePassDX-->
+  <AppIcon name="com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" image="kee__pass__d__x" />
   <!--KeePassDX-->
   <AppIcon name="com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" image="kee__pass__d__x" />
   <!--Klarna-->
@@ -646,7 +654,7 @@
   <!--LinkedIn-->
   <AppIcon name="com.linkedin.android.authenticator.LaunchActivity" image="linked__in" />
   <!--Loop Habits-->
-  <AppIcon name="org.isoron.uhabits.MainActivity" image="loop_habtis" />
+  <AppIcon name="org.isoron.uhabits.MainActivity" image="loop_habits" />
   <!--LOVOO-->
   <AppIcon name="com.lovoo.ui.activities.LovooStartActivity" image="lovoo" />
   <!--Maps-->
@@ -665,6 +673,8 @@
   <AppIcon name="com.facebook.mlite.coreui.view.MainActivity" image="messenger_lite" />
   <!--Metro-->
   <AppIcon name="io.github.muntashirakon.music.activities.MainActivity" image="retro_music" />
+  <!--MicroG-->
+  <AppIcon name="org.microg.gms.ui.SettingsActivity" image="micro__g" />
   <!--Microsoft Authenticator-->
   <AppIcon name="com.azure.authenticator.ui.LaunchActivity" image="microsoft_authenticator" />
   <!--Microsoft Bing-->
@@ -753,6 +763,10 @@
   <AppIcon name="com.opera.touch.MainActivity" image="opera_touch" />
   <!--Opera News-->
   <AppIcon name="com.opera.android.startup.NewsStartActivity" image="opera_news" />
+  <!--Orbot-->
+  <AppIcon name="org.torproject.android.OrbotMainActivity" image="orbot" />
+  <!--Organic Maps-->
+  <AppIcon name="com.mapswithme.maps.DownloadResourcesActivity" image="organic_maps" />
   <!--PayPal-->
   <AppIcon name="com.paypal.android.p2pmobile.startup.activities.StartupActivity" image="pay__pal" />
   <!--Pinterest-->
@@ -761,6 +775,10 @@
   <AppIcon name="com.pinterest.twa.LauncherActivity" image="pinterest_lite" />
   <!--Plex-->
   <AppIcon name="com.plexapp.plex.activities.SplashActivity" image="plex" />
+  <!--Pocket Plays-->
+  <AppIcon name="com.sebastianrask.bettersubscription.activities.StartUpActivity" image="twire" />
+  <!--Posidon Launcher-->
+  <AppIcon name="posidon.launcher.Home" image="posidon_launcher" />
   <!--Reddit-->
   <AppIcon name="com.reddit.frontpage.StartActivity" image="reddit" />
   <!--Reddit-->
@@ -771,6 +789,8 @@
   <AppIcon name="code.name.monkey.retromusic.ui.activities.MainActivity" image="retro_music" />
   <!--Rero Music-->
   <AppIcon name="code.name.monkey.retromusic.activities.MainActivity" image="retro_music" />
+  <!--Seedvault Backup-->
+  <AppIcon name="com.stevesoltys.seedvault.settings.SettingsLink" image="seedvault" />
   <!--Session-->
   <AppIcon name="network.loki.messenger.RoutingActivity" image="session" />
   <!--Settings-->
@@ -797,8 +817,14 @@
   <AppIcon name="com.shazam.android.activities.SplashActivity" image="shazam" />
   <!--Signal-->
   <AppIcon name="org.thoughtcrime.securesms.RoutingActivity" image="signal" />
+  <!--Simple Keyboard-->
+  <AppIcon name="rkr.simplekeyboard.inputmethod.latin.settings.SettingsActivity" image="simple_keyboard" />
   <!--SimpleLogin-->
   <AppIcon name="io.simplelogin.android.module.startup.StartupActivity" image="simple__login" />
+  <!--Simpletask Nextcloud-->
+  <AppIcon name="nl.mpcjanssen.simpletask.Simpletask" image="simpletask" />
+  <!--Simpletask WebDAV-->
+  <AppIcon name="nl.mpcjanssen.simpletask.Simpletask" image="simpletask" />
   <!--Skype-->
   <AppIcon name="com.skype.raider.Main" image="skype" />
   <!--Skype-->
@@ -841,6 +867,8 @@
   <AppIcon name="com.soundhound.android.appcommon.activity.SplashScreenActivity" image="sound__hound" />
   <!--Spotify-->
   <AppIcon name="com.spotify.music.MainActivity" image="spotify" />
+  <!--Stealth-->
+  <AppIcon name="com.cosmos.unreddit.MainActivity" image="stealth" />
   <!--Steam-->
   <AppIcon name="com.valvesoftware.android.steam.community.activity.MainActivity" image="steam" />
   <!--Sygic-->
@@ -863,12 +891,18 @@
   <AppIcon name="com.tinder.activities.LoginActivity" image="tinder" />
   <!--Too Good To Go-->
   <AppIcon name="com.app.tgtg.activities.SplashActivity" image="too_good_to_go" />
+  <!--Tor Browser-->
+  <AppIcon name="org.torproject.torbrowser.App" image="tor_browser" />
   <!--Trading 212-->
   <AppIcon name="com.avuscapital.trading212lib.modules.prelogin.WelcomeActivity" image="trading_212" />
+  <!--Transportr-->
+  <AppIcon name="de.grobox.transportr.map.MapActivity" image="transportr" />
   <!--Tumblr-->
   <AppIcon name="com.tumblr.ui.activity.JumpoffActivity" image="tumblr" />
   <!--Tutanota-->
   <AppIcon name="de.tutao.tutanota.MainActivity" image="tutanota" />
+  <!--Twire-->
+  <AppIcon name="com.perflyst.twire.activities.StartUpActivity" image="twire" />
   <!--Twitch-->
   <AppIcon name="tv.twitch.android.app.core.LandingActivity" image="twitch" />
   <!--Twitter-->

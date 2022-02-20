@@ -51,6 +51,7 @@
         <item>contacts_google</item>
         <item>d__b_navigator</item>
         <item>dat__piff</item>
+        <item>datura_firewall</item>
         <item>deutsche_bank</item>
         <item>deutsche_bank___photo__t__a__n</item>
         <item>deviant__art</item>
@@ -111,9 +112,9 @@
         <item>google_sheets</item>
         <item>google_slides</item>
         <item>google_street_view</item>
+        <item>google_t__v</item>
         <item>google_tasks</item>
         <item>google_translate</item>
-        <item>google_t__v</item>
         <item>google_wallpapers</item>
         <item>google_wear_o__s</item>
         <item>hangouts</item>
@@ -121,6 +122,7 @@
         <item>i__k__e__a</item>
         <item>imo</item>
         <item>instagram</item>
+        <item>k9_mail</item>
         <item>kee__pass__d__x</item>
         <item>keepass2</item>
         <item>klarna</item>
@@ -144,6 +146,7 @@
         <item>messenger</item>
         <item>messenger_lite</item>
         <item>metro_music</item>
+        <item>micro__g</item>
         <item>microsoft_authenticator</item>
         <item>microsoft_bing</item>
         <item>microsoft_edge</item>
@@ -179,6 +182,8 @@
         <item>opera</item>
         <item>opera_news</item>
         <item>opera_touch</item>
+        <item>orbot</item>
+        <item>organic_maps</item>
         <item>pay__pal</item>
         <item>pinterest</item>
         <item>pinterest_lite</item>
@@ -188,15 +193,19 @@
         <item>play_movies</item>
         <item>play_music</item>
         <item>plex</item>
+        <item>posidon_launcher</item>
         <item>reddit</item>
         <item>retro_music</item>
         <item>s__h__a__r__e_it</item>
         <item>s__m__s_m__m__s</item>
+        <item>seedvault</item>
         <item>session</item>
         <item>settings</item>
         <item>shazam</item>
         <item>signal</item>
         <item>simple__login</item>
+        <item>simple_keyboard</item>
+        <item>simpletask</item>
         <item>skype</item>
         <item>skype_business</item>
         <item>skype_lite</item>
@@ -205,10 +214,11 @@
         <item>sound__hound</item>
         <item>soundcloud</item>
         <item>spotify</item>
+        <item>stealth</item>
         <item>steam</item>
         <item>sygic__g__p__s_navigation</item>
-        <item>syncthing_fork</item>
         <item>syncthing</item>
+        <item>syncthing_fork</item>
         <item>takeaway</item>
         <item>team__viewer</item>
         <item>telegram</item>
@@ -217,9 +227,12 @@
         <item>tik__tok</item>
         <item>tinder</item>
         <item>too_good_to_go</item>
+        <item>tor_browser</item>
         <item>trading_212</item>
+        <item>transportr</item>
         <item>tumblr</item>
         <item>tutanota</item>
+        <item>twire</item>
         <item>twitch</item>
         <item>twitter</item>
         <item>twitter_lite</item>
@@ -261,6 +274,19 @@
     </string-array>
 
     <string-array name="New">
+        <item>micro__g</item>
+        <item>transportr</item>
+        <item>posidon_launcher</item>
+        <item>k9_mail</item>
+        <item>twire</item>
+        <item>orbot</item>
+        <item>simple_keyboard</item>
+        <item>datura_firewall</item>
+        <item>seedvault</item>
+        <item>organic_maps</item>
+        <item>simpletask</item>
+        <item>stealth</item>
+        <item>tor_browser</item>
         <item>mull</item>
         <item>simple__login</item>
         <item>aegis</item>
@@ -268,19 +294,6 @@
         <item>lemuroid</item>
         <item>loop_habits</item>
         <item>open_camera</item>
-        <item>etar_calendar</item>
-        <item>weather</item>
-        <item>microsoft_maths_solver</item>
-        <item>session</item>
-        <item>google_t__v</item>
-        <item>auth__pass</item>
-        <item>syncthing</item>
-        <item>syncthing_fork</item>
-        <item>metro_music</item>
-        <item>l__b__r__y</item>
-        <item>google_analytics</item>
-        <item>f__droid</item>
-        <item>u__torrent</item>
     </string-array>
 
     <string-array name="All">
@@ -332,6 +345,7 @@
         <item>contacts_google</item>
         <item>d__b_navigator</item>
         <item>dat__piff</item>
+        <item>datura_firewall</item>
         <item>deutsche_bank</item>
         <item>deutsche_bank___photo__t__a__n</item>
         <item>deviant__art</item>
@@ -392,9 +406,9 @@
         <item>google_sheets</item>
         <item>google_slides</item>
         <item>google_street_view</item>
+        <item>google_t__v</item>
         <item>google_tasks</item>
         <item>google_translate</item>
-        <item>google_t__v</item>
         <item>google_wallpapers</item>
         <item>google_wear_o__s</item>
         <item>hangouts</item>
@@ -402,6 +416,7 @@
         <item>i__k__e__a</item>
         <item>imo</item>
         <item>instagram</item>
+        <item>k9_mail</item>
         <item>kee__pass__d__x</item>
         <item>keepass2</item>
         <item>klarna</item>
@@ -425,6 +440,7 @@
         <item>messenger</item>
         <item>messenger_lite</item>
         <item>metro_music</item>
+        <item>micro__g</item>
         <item>microsoft_authenticator</item>
         <item>microsoft_bing</item>
         <item>microsoft_edge</item>
@@ -460,6 +476,8 @@
         <item>opera</item>
         <item>opera_news</item>
         <item>opera_touch</item>
+        <item>orbot</item>
+        <item>organic_maps</item>
         <item>pay__pal</item>
         <item>pinterest</item>
         <item>pinterest_lite</item>
@@ -469,15 +487,19 @@
         <item>play_movies</item>
         <item>play_music</item>
         <item>plex</item>
+        <item>posidon_launcher</item>
         <item>reddit</item>
         <item>retro_music</item>
         <item>s__h__a__r__e_it</item>
         <item>s__m__s_m__m__s</item>
+        <item>seedvault</item>
         <item>session</item>
         <item>settings</item>
         <item>shazam</item>
         <item>signal</item>
         <item>simple__login</item>
+        <item>simple_keyboard</item>
+        <item>simpletask</item>
         <item>skype</item>
         <item>skype_business</item>
         <item>skype_lite</item>
@@ -486,10 +508,11 @@
         <item>sound__hound</item>
         <item>soundcloud</item>
         <item>spotify</item>
+        <item>stealth</item>
         <item>steam</item>
         <item>sygic__g__p__s_navigation</item>
-        <item>syncthing_fork</item>
         <item>syncthing</item>
+        <item>syncthing_fork</item>
         <item>takeaway</item>
         <item>team__viewer</item>
         <item>telegram</item>
@@ -498,9 +521,12 @@
         <item>tik__tok</item>
         <item>tinder</item>
         <item>too_good_to_go</item>
+        <item>tor_browser</item>
         <item>trading_212</item>
+        <item>transportr</item>
         <item>tumblr</item>
         <item>tutanota</item>
+        <item>twire</item>
         <item>twitch</item>
         <item>twitter</item>
         <item>twitter_lite</item>
@@ -621,25 +647,38 @@
         <item>aurora_store</item>
         <item>auth__pass</item>
         <item>connect__bot</item>
+        <item>datura_firewall</item>
         <item>etar_calendar</item>
         <item>f__droid</item>
         <item>f__o__s__s_browser</item>
+        <item>k9_mail</item>
         <item>kodi</item>
         <item>kore</item>
         <item>l__b__r__y</item>
         <item>lemuroid</item>
         <item>loop_habits</item>
         <item>metro_music</item>
+        <item>micro__g</item>
         <item>mull</item>
         <item>netguard</item>
         <item>new__pipe</item>
         <item>open_camera</item>
+        <item>orbot</item>
+        <item>organic_maps</item>
+        <item>posidon_launcher</item>
+        <item>seedvault</item>
         <item>session</item>
         <item>signal</item>
         <item>simple__login</item>
-        <item>syncthing_fork</item>
+        <item>simple_keyboard</item>
+        <item>simpletask</item>
+        <item>stealth</item>
         <item>syncthing</item>
+        <item>syncthing_fork</item>
+        <item>tor_browser</item>
+        <item>transportr</item>
         <item>tutanota</item>
+        <item>twire</item>
     </string-array>
 
     <string-array name="Customs">
