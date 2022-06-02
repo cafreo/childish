@@ -81,6 +81,8 @@
   <AppIcon name="com.instagram.boomerang.BoomerangActivity" image="boomerang_from_instagram" />
   <!--Brave-->
   <AppIcon name="com.google.android.apps.chrome.Main" image="brave" />
+  <!--Bromite-->
+  <AppIcon name="com.google.android.apps.chrome.Main" image="bromite" />
   <!--BuzzFeed-->
   <AppIcon name="com.buzzfeed.android.activity.SplashActivity" image="buzz__feed" />
   <!--BuzzFeed-->
@@ -161,6 +163,8 @@
   <AppIcon name="com.android.deskclock.DeskClock" image="clock_desk" />
   <!--Clock Google-->
   <AppIcon name="com.android.deskclock.DeskClock" image="clock_google" />
+  <!--Collabora Office-->
+  <AppIcon name="org.libreoffice.androidapp.ui.LibreOfficeUIActivity" image="collabora_office" />
   <!--ConnectBot-->
   <AppIcon name="org.connectbot.HostListActivity" image="connect__bot" />
   <!--Contacts-->
@@ -383,10 +387,14 @@
   <AppIcon name="mobi.mgeek.TunnyBrowser.SplashActivity" image="dolphin_browser" />
   <!--Dropbox-->
   <AppIcon name="com.dropbox.android.activity.DropboxBrowser" image="dropbox" />
+  <!--DuckDuckGo-->
+  <AppIcon name="com.duckduckgo.app.launch.Launcher" image="duck__duck__go" />
   <!--Duolingo-->
   <AppIcon name="com.duolingo.app.LoginActivity" image="duolingo" />
   <!--Ebay-->
   <AppIcon name="com.ebay.mobile.activities.MainActivity" image="ebay" />
+  <!--Element-->
+  <AppIcon name="im.vector.app.features.Alias" image="element" />
   <!--EMail-->
   <AppIcon name="com.android.email.activity.Welcome" image="e_mail" />
   <!--EMail-->
@@ -461,6 +469,10 @@
   <AppIcon name="flipboard.activities.LaunchActivityAlias" image="flipboard" />
   <!--Flixbus-->
   <AppIcon name="de.meinfernbus.Main" image="flixbus" />
+  <!--Flym-->
+  <AppIcon name="net.frju.flym.ui.main.MainActivity" image="flym" />
+  <!--Flym DecSync-->
+  <AppIcon name="org.decsync.flym.ui.main.MainActivity" image="flym_dec__sync" />
   <!--FOSS Browser-->
   <AppIcon name="de.baumann.browser.activity.BrowserActivity" image="f__o__s__s_browser" />
   <!--Fotos-->
@@ -657,14 +669,20 @@
   <AppIcon name="org.isoron.uhabits.MainActivity" image="loop_habits" />
   <!--LOVOO-->
   <AppIcon name="com.lovoo.ui.activities.LovooStartActivity" image="lovoo" />
+  <!--Macro Deck-->
+  <AppIcon name="crc64846cc3d20f695961.MainActivity" image="macro_deck" />
   <!--Maps-->
   <AppIcon name="com.google.android.maps.MapsActivity" image="google_maps" />
   <!--Marvel Comics-->
   <AppIcon name="com.iconology.ui.navigation.RouterActivity" image="marvel_comics" />
   <!--Marvel Unlimited-->
   <AppIcon name="com.marvel.unlimited.activities.SplashActivity" image="marvel_unlimited" />
+  <!--Material Files-->
+  <AppIcon name="me.zhanghai.android.files.filelist.FileListActivity" image="material_files" />
   <!--MEGA-->
   <AppIcon name="mega.privacy.android.app.lollipop.ManagerActivityLollipop" image="m__e__g__a" />
+  <!--MEGA-->
+  <AppIcon name="mega.privacy.android.app.main.ManagerActivity" image="m__e__g__a" />
   <!--Messaging-->
   <AppIcon name="com.android.messaging.ui.conversationlist.ConversationListActivity" image="s__m__s_m__m__s" />
   <!--Messenger-->
@@ -709,6 +727,8 @@
   <AppIcon name="com.microsoft.todos.ui.LaunchActivity" image="microsoft_to__do" />
   <!--Microsoft Word-->
   <AppIcon name="com.microsoft.office.apphost.LaunchActivity" image="microsoft_word" />
+  <!--MoneyWallet-->
+  <AppIcon name="com.oriondev.moneywallet.ui.activity.LauncherActivity" image="money__wallet" />
   <!--Mull-->
   <AppIcon name="us.spotco.fennec_dos.App" image="mull" />
   <!--Music-->
@@ -731,6 +751,8 @@
   <AppIcon name="com.neulion.nba.ui.activity.LaunchDispatcherActivity" image="n__b__a" />
   <!--NBA-->
   <AppIcon name="com.neulion.nba.base.LaunchDispatcherActivity" image="n__b__a" />
+  <!--Nekogram X-->
+  <AppIcon name="org.telegram.ui.LaunchActivity" image="nekogram_x" />
   <!--Netflix-->
   <AppIcon name="com.netflix.mediaclient.ui.launch.UIWebViewActivity" image="netflix" />
   <!--Netguard-->
@@ -741,6 +763,10 @@
   <AppIcon name="com.mobilesrepublic.appy.InitActviity" image="news_republic" />
   <!--News Republic-->
   <AppIcon name="com.ss.android.application.app.mainpage.BottomTabMainActivity" image="news_republic" />
+  <!--Nextcloud-->
+  <AppIcon name="com.owncloud.android.ui.activity.FileDisplayActivity" image="nextcloud" />
+  <!--Nextcloud-->
+  <AppIcon name="com.owncloud.android.ui.activity.FileDisplayActivity" image="nextcloud" />
   <!--NordVPN-->
   <AppIcon name="com.nordvpn.android.MainActivity" image="nord__v__p__n" />
   <!--Nova Launcher-->
@@ -757,6 +783,10 @@
   <AppIcon name="com.optimus.music.player.onix.SplashScreen.SplashScreenActivity" image="onix_music" />
   <!--Open Camera-->
   <AppIcon name="net.sourceforge.opencamera.MainActivity" image="open_camera" />
+  <!--Open Workout-->
+  <AppIcon name="com.health.openworkout.MainActivity" image="open_workout" />
+  <!--OpenWorkout-->
+  <AppIcon name="com.health.openworkout.MainActivity" image="open__workout" />
   <!--Opera-->
   <AppIcon name="com.opera.Opera" image="opera" />
   <!--Opera-->
@@ -779,6 +809,14 @@
   <AppIcon name="com.sebastianrask.bettersubscription.activities.StartUpActivity" image="twire" />
   <!--Posidon Launcher-->
   <AppIcon name="posidon.launcher.Home" image="posidon_launcher" />
+  <!--Proton Calendar-->
+  <AppIcon name="me.proton.android.calendar.presentation.main.MainActivity" image="proton_calendar" />
+  <!--Proton Mail-->
+  <AppIcon name="ch.protonmail.android.mailbox.presentation.ui.MailboxActivity" image="proton_mail" />
+  <!--Proton VPN-->
+  <AppIcon name="com.protonvpn.android.ui.onboarding.SplashActivity" image="proton_v__p__n" />
+  <!--Proton VPN-->
+  <AppIcon name="com.protonvpn.android.ui.onboarding.SplashActivity" image="proton_v__p__n" />
   <!--Reddit-->
   <AppIcon name="com.reddit.frontpage.StartActivity" image="reddit" />
   <!--Reddit-->
@@ -815,12 +853,16 @@
   <AppIcon name="com.lenovo.anyshare.ApMainActivity" image="s__h__a__r__e_it" />
   <!--Shazam-->
   <AppIcon name="com.shazam.android.activities.SplashActivity" image="shazam" />
+  <!--Showly-->
+  <AppIcon name="com.michaldrabik.showly2.ui.main.MainActivity" image="showly" />
   <!--Signal-->
   <AppIcon name="org.thoughtcrime.securesms.RoutingActivity" image="signal" />
   <!--Simple Keyboard-->
   <AppIcon name="rkr.simplekeyboard.inputmethod.latin.settings.SettingsActivity" image="simple_keyboard" />
   <!--SimpleLogin-->
   <AppIcon name="io.simplelogin.android.module.startup.StartupActivity" image="simple__login" />
+  <!--Simpletask-->
+  <AppIcon name="nl.mpcjanssen.simpletask.Simpletask" image="simpletask" />
   <!--Simpletask Nextcloud-->
   <AppIcon name="nl.mpcjanssen.simpletask.Simpletask" image="simpletask" />
   <!--Simpletask WebDAV-->
@@ -883,6 +925,8 @@
   <AppIcon name="org.telegram.ui.LaunchActivity" image="telegram" />
   <!--Telegram X-->
   <AppIcon name="org.thunderdog.challegram.MainActivity" image="telegram_x" />
+  <!--Termux-->
+  <AppIcon name="com.termux.app.TermuxActivity" image="termux" />
   <!--Tidal-->
   <AppIcon name="com.aspiro.wamp.LoginFragmentActivity" image="tidal" />
   <!--TikTok-->

@@ -75,6 +75,8 @@
     <item class="com.instagram.boomerang.BoomerangActivity" name="boomerang_from_instagram" />
     <!--Brave-->
     <item class="com.google.android.apps.chrome.Main" name="brave" />
+    <!--Bromite-->
+    <item class="com.google.android.apps.chrome.Main" name="bromite" />
     <!--BuzzFeed-->
     <item class="com.buzzfeed.android.activity.SplashActivity" name="buzz__feed" />
     <!--BuzzFeed-->
@@ -155,6 +157,8 @@
     <item class="com.android.deskclock.DeskClock" name="clock_desk" />
     <!--Clock Google-->
     <item class="com.android.deskclock.DeskClock" name="clock_google" />
+    <!--Collabora Office-->
+    <item class="org.libreoffice.androidapp.ui.LibreOfficeUIActivity" name="collabora_office" />
     <!--ConnectBot-->
     <item class="org.connectbot.HostListActivity" name="connect__bot" />
     <!--Contacts-->
@@ -377,10 +381,14 @@
     <item class="mobi.mgeek.TunnyBrowser.SplashActivity" name="dolphin_browser" />
     <!--Dropbox-->
     <item class="com.dropbox.android.activity.DropboxBrowser" name="dropbox" />
+    <!--DuckDuckGo-->
+    <item class="com.duckduckgo.app.launch.Launcher" name="duck__duck__go" />
     <!--Duolingo-->
     <item class="com.duolingo.app.LoginActivity" name="duolingo" />
     <!--Ebay-->
     <item class="com.ebay.mobile.activities.MainActivity" name="ebay" />
+    <!--Element-->
+    <item class="im.vector.app.features.Alias" name="element" />
     <!--EMail-->
     <item class="com.android.email.activity.Welcome" name="e_mail" />
     <!--EMail-->
@@ -455,6 +463,10 @@
     <item class="flipboard.activities.LaunchActivityAlias" name="flipboard" />
     <!--Flixbus-->
     <item class="de.meinfernbus.Main" name="flixbus" />
+    <!--Flym-->
+    <item class="net.frju.flym.ui.main.MainActivity" name="flym" />
+    <!--Flym DecSync-->
+    <item class="org.decsync.flym.ui.main.MainActivity" name="flym_dec__sync" />
     <!--FOSS Browser-->
     <item class="de.baumann.browser.activity.BrowserActivity" name="f__o__s__s_browser" />
     <!--Fotos-->
@@ -651,14 +663,20 @@
     <item class="org.isoron.uhabits.MainActivity" name="loop_habits" />
     <!--LOVOO-->
     <item class="com.lovoo.ui.activities.LovooStartActivity" name="lovoo" />
+    <!--Macro Deck-->
+    <item class="crc64846cc3d20f695961.MainActivity" name="macro_deck" />
     <!--Maps-->
     <item class="com.google.android.maps.MapsActivity" name="google_maps" />
     <!--Marvel Comics-->
     <item class="com.iconology.ui.navigation.RouterActivity" name="marvel_comics" />
     <!--Marvel Unlimited-->
     <item class="com.marvel.unlimited.activities.SplashActivity" name="marvel_unlimited" />
+    <!--Material Files-->
+    <item class="me.zhanghai.android.files.filelist.FileListActivity" name="material_files" />
     <!--MEGA-->
     <item class="mega.privacy.android.app.lollipop.ManagerActivityLollipop" name="m__e__g__a" />
+    <!--MEGA-->
+    <item class="mega.privacy.android.app.main.ManagerActivity" name="m__e__g__a" />
     <!--Messaging-->
     <item class="com.android.messaging.ui.conversationlist.ConversationListActivity" name="s__m__s_m__m__s" />
     <!--Messenger-->
@@ -703,6 +721,8 @@
     <item class="com.microsoft.todos.ui.LaunchActivity" name="microsoft_to__do" />
     <!--Microsoft Word-->
     <item class="com.microsoft.office.apphost.LaunchActivity" name="microsoft_word" />
+    <!--MoneyWallet-->
+    <item class="com.oriondev.moneywallet.ui.activity.LauncherActivity" name="money__wallet" />
     <!--Mull-->
     <item class="us.spotco.fennec_dos.App" name="mull" />
     <!--Music-->
@@ -725,6 +745,8 @@
     <item class="com.neulion.nba.ui.activity.LaunchDispatcherActivity" name="n__b__a" />
     <!--NBA-->
     <item class="com.neulion.nba.base.LaunchDispatcherActivity" name="n__b__a" />
+    <!--Nekogram X-->
+    <item class="org.telegram.ui.LaunchActivity" name="nekogram_x" />
     <!--Netflix-->
     <item class="com.netflix.mediaclient.ui.launch.UIWebViewActivity" name="netflix" />
     <!--Netguard-->
@@ -735,6 +757,10 @@
     <item class="com.mobilesrepublic.appy.InitActviity" name="news_republic" />
     <!--News Republic-->
     <item class="com.ss.android.application.app.mainpage.BottomTabMainActivity" name="news_republic" />
+    <!--Nextcloud-->
+    <item class="com.owncloud.android.ui.activity.FileDisplayActivity" name="nextcloud" />
+    <!--Nextcloud-->
+    <item class="com.owncloud.android.ui.activity.FileDisplayActivity" name="nextcloud" />
     <!--NordVPN-->
     <item class="com.nordvpn.android.MainActivity" name="nord__v__p__n" />
     <!--Nova Launcher-->
@@ -751,6 +777,10 @@
     <item class="com.optimus.music.player.onix.SplashScreen.SplashScreenActivity" name="onix_music" />
     <!--Open Camera-->
     <item class="net.sourceforge.opencamera.MainActivity" name="open_camera" />
+    <!--Open Workout-->
+    <item class="com.health.openworkout.MainActivity" name="open_workout" />
+    <!--OpenWorkout-->
+    <item class="com.health.openworkout.MainActivity" name="open__workout" />
     <!--Opera-->
     <item class="com.opera.Opera" name="opera" />
     <!--Opera-->
@@ -773,6 +803,14 @@
     <item class="com.sebastianrask.bettersubscription.activities.StartUpActivity" name="twire" />
     <!--Posidon Launcher-->
     <item class="posidon.launcher.Home" name="posidon_launcher" />
+    <!--Proton Calendar-->
+    <item class="me.proton.android.calendar.presentation.main.MainActivity" name="proton_calendar" />
+    <!--Proton Mail-->
+    <item class="ch.protonmail.android.mailbox.presentation.ui.MailboxActivity" name="proton_mail" />
+    <!--Proton VPN-->
+    <item class="com.protonvpn.android.ui.onboarding.SplashActivity" name="proton_v__p__n" />
+    <!--Proton VPN-->
+    <item class="com.protonvpn.android.ui.onboarding.SplashActivity" name="proton_v__p__n" />
     <!--Reddit-->
     <item class="com.reddit.frontpage.StartActivity" name="reddit" />
     <!--Reddit-->
@@ -809,12 +847,16 @@
     <item class="com.lenovo.anyshare.ApMainActivity" name="s__h__a__r__e_it" />
     <!--Shazam-->
     <item class="com.shazam.android.activities.SplashActivity" name="shazam" />
+    <!--Showly-->
+    <item class="com.michaldrabik.showly2.ui.main.MainActivity" name="showly" />
     <!--Signal-->
     <item class="org.thoughtcrime.securesms.RoutingActivity" name="signal" />
     <!--Simple Keyboard-->
     <item class="rkr.simplekeyboard.inputmethod.latin.settings.SettingsActivity" name="simple_keyboard" />
     <!--SimpleLogin-->
     <item class="io.simplelogin.android.module.startup.StartupActivity" name="simple__login" />
+    <!--Simpletask-->
+    <item class="nl.mpcjanssen.simpletask.Simpletask" name="simpletask" />
     <!--Simpletask Nextcloud-->
     <item class="nl.mpcjanssen.simpletask.Simpletask" name="simpletask" />
     <!--Simpletask WebDAV-->
@@ -877,6 +919,8 @@
     <item class="org.telegram.ui.LaunchActivity" name="telegram" />
     <!--Telegram X-->
     <item class="org.thunderdog.challegram.MainActivity" name="telegram_x" />
+    <!--Termux-->
+    <item class="com.termux.app.TermuxActivity" name="termux" />
     <!--Tidal-->
     <item class="com.aspiro.wamp.LoginFragmentActivity" name="tidal" />
     <!--TikTok-->
