@@ -742,6 +742,7 @@
     </string-array>
 
     <string-array name="Alternative">
+        <item>aegis_alt_1</item>
         <item>amazon_alt_1</item>
         <item>avira_antivirus_alt_1</item>
         <item>behance_alt_1</item>
