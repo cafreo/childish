@@ -62,6 +62,7 @@
         <item>disney_plus</item>
         <item>dolphin_browser</item>
         <item>dropbox</item>
+        <item>duck__duck__go</item>
         <item>duolingo</item>
         <item>e__s_file_explorer</item>
         <item>e_mail</item>
@@ -294,6 +295,7 @@
         <item>brave</item>
         <item>bromite</item>
         <item>collabora_office</item>
+        <item>duck__duck__go</item>
         <item>element</item>
         <item>flym</item>
         <item>flym_dec__sync</item>
@@ -309,8 +311,7 @@
         <item>proton_v__p__n</item>
         <item>seedvault</item>
         <item>showly</item>
-        <item>simpletask_nextcloud</item>
-        <item>simpletask_web__d__a__v</item>
+        <item>termux</item>
     </string-array>
 
     <string-array name="All">
@@ -373,6 +374,7 @@
         <item>disney_plus</item>
         <item>dolphin_browser</item>
         <item>dropbox</item>
+        <item>duck__duck__go</item>
         <item>duolingo</item>
         <item>e__s_file_explorer</item>
         <item>e_mail</item>
@@ -684,6 +686,7 @@
         <item>collabora_office</item>
         <item>connect__bot</item>
         <item>datura_firewall</item>
+        <item>duck__duck__go</item>
         <item>element</item>
         <item>etar_calendar</item>
         <item>f__droid</item>

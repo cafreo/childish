@@ -5,6 +5,7 @@
   <item drawable="brave" />
   <item drawable="bromite" />
   <item drawable="collabora_office" />
+  <item drawable="duck__duck__go" />
   <item drawable="element" />
   <item drawable="flym" />
   <item drawable="flym_dec__sync" />
@@ -20,8 +21,7 @@
   <item drawable="proton_v__p__n" />
   <item drawable="seedvault" />
   <item drawable="showly" />
-  <item drawable="simpletask_nextcloud" />
-  <item drawable="simpletask_web__d__a__v" />
+  <item drawable="termux" />
   <category title="All" />
   <item drawable="adobe_acrobat" />
   <item drawable="adobe_creative_cloud" />
@@ -83,6 +83,7 @@
   <item drawable="disney_plus" />
   <item drawable="dolphin_browser" />
   <item drawable="dropbox" />
+  <item drawable="duck__duck__go" />
   <item drawable="duolingo" />
   <item drawable="e__s_file_explorer" />
   <item drawable="e_mail" />
@@ -384,6 +385,7 @@
   <item drawable="collabora_office" />
   <item drawable="connect__bot" />
   <item drawable="datura_firewall" />
+  <item drawable="duck__duck__go" />
   <item drawable="element" />
   <item drawable="etar_calendar" />
   <item drawable="f__droid" />
