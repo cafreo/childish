@@ -35,6 +35,7 @@
         <item>blogger</item>
         <item>boomerang_from_instagram</item>
         <item>brave</item>
+        <item>bromite</item>
         <item>buzz__feed</item>
         <item>calculator</item>
         <item>camera</item>
@@ -46,6 +47,7 @@
         <item>clean_master</item>
         <item>clock</item>
         <item>clock_google</item>
+        <item>collabora_office</item>
         <item>connect__bot</item>
         <item>contacts</item>
         <item>contacts_google</item>
@@ -64,6 +66,7 @@
         <item>e__s_file_explorer</item>
         <item>e_mail</item>
         <item>ebay</item>
+        <item>element</item>
         <item>etar_calendar</item>
         <item>evernote</item>
         <item>every__wiki</item>
@@ -76,6 +79,8 @@
         <item>fiverr</item>
         <item>flipboard</item>
         <item>flixbus</item>
+        <item>flym</item>
+        <item>flym_dec__sync</item>
         <item>gallery</item>
         <item>gboard</item>
         <item>genius</item>
@@ -141,8 +146,10 @@
         <item>lovoo</item>
         <item>m__e__g__a</item>
         <item>m__x_player</item>
+        <item>macro_deck</item>
         <item>marvel_comics</item>
         <item>marvel_unlimited</item>
+        <item>material_files</item>
         <item>messenger</item>
         <item>messenger_lite</item>
         <item>metro_music</item>
@@ -163,21 +170,25 @@
         <item>microsoft_teams</item>
         <item>microsoft_to__do</item>
         <item>microsoft_word</item>
+        <item>money__wallet</item>
         <item>mull</item>
         <item>music</item>
         <item>musixmatch</item>
         <item>my_mixtapez</item>
         <item>n__b__a</item>
+        <item>nekogram_x</item>
         <item>netflix</item>
         <item>netguard</item>
         <item>new__pipe</item>
         <item>news_republic</item>
+        <item>nextcloud</item>
         <item>nine__g__a__g</item>
         <item>nord__v__p__n</item>
         <item>nova_launcher</item>
         <item>nova_launcher_prime</item>
         <item>nova_launcher_settings</item>
         <item>onix_music</item>
+        <item>open__workout</item>
         <item>open_camera</item>
         <item>opera</item>
         <item>opera_news</item>
@@ -194,6 +205,9 @@
         <item>play_music</item>
         <item>plex</item>
         <item>posidon_launcher</item>
+        <item>proton_calendar</item>
+        <item>proton_mail</item>
+        <item>proton_v__p__n</item>
         <item>reddit</item>
         <item>retro_music</item>
         <item>s__h__a__r__e_it</item>
@@ -202,10 +216,13 @@
         <item>session</item>
         <item>settings</item>
         <item>shazam</item>
+        <item>showly</item>
         <item>signal</item>
         <item>simple__login</item>
         <item>simple_keyboard</item>
         <item>simpletask</item>
+        <item>simpletask_nextcloud</item>
+        <item>simpletask_web__d__a__v</item>
         <item>skype</item>
         <item>skype_business</item>
         <item>skype_lite</item>
@@ -274,26 +291,26 @@
     </string-array>
 
     <string-array name="New">
-        <item>micro__g</item>
-        <item>transportr</item>
-        <item>posidon_launcher</item>
-        <item>k9_mail</item>
-        <item>twire</item>
-        <item>orbot</item>
-        <item>simple_keyboard</item>
-        <item>datura_firewall</item>
-        <item>seedvault</item>
+        <item>brave</item>
+        <item>bromite</item>
+        <item>collabora_office</item>
+        <item>element</item>
+        <item>flym</item>
+        <item>flym_dec__sync</item>
+        <item>macro_deck</item>
+        <item>material_files</item>
+        <item>money__wallet</item>
+        <item>nekogram_x</item>
+        <item>nextcloud</item>
+        <item>open__workout</item>
         <item>organic_maps</item>
-        <item>simpletask</item>
-        <item>stealth</item>
-        <item>tor_browser</item>
-        <item>mull</item>
-        <item>simple__login</item>
-        <item>aegis</item>
-        <item>connect__bot</item>
-        <item>lemuroid</item>
-        <item>loop_habits</item>
-        <item>open_camera</item>
+        <item>proton_calendar</item>
+        <item>proton_mail</item>
+        <item>proton_v__p__n</item>
+        <item>seedvault</item>
+        <item>showly</item>
+        <item>simpletask_nextcloud</item>
+        <item>simpletask_web__d__a__v</item>
     </string-array>
 
     <string-array name="All">
@@ -329,6 +346,7 @@
         <item>blogger</item>
         <item>boomerang_from_instagram</item>
         <item>brave</item>
+        <item>bromite</item>
         <item>buzz__feed</item>
         <item>calculator</item>
         <item>camera</item>
@@ -340,6 +358,7 @@
         <item>clean_master</item>
         <item>clock</item>
         <item>clock_google</item>
+        <item>collabora_office</item>
         <item>connect__bot</item>
         <item>contacts</item>
         <item>contacts_google</item>
@@ -358,6 +377,7 @@
         <item>e__s_file_explorer</item>
         <item>e_mail</item>
         <item>ebay</item>
+        <item>element</item>
         <item>etar_calendar</item>
         <item>evernote</item>
         <item>every__wiki</item>
@@ -370,6 +390,8 @@
         <item>fiverr</item>
         <item>flipboard</item>
         <item>flixbus</item>
+        <item>flym</item>
+        <item>flym_dec__sync</item>
         <item>gallery</item>
         <item>gboard</item>
         <item>genius</item>
@@ -435,8 +457,10 @@
         <item>lovoo</item>
         <item>m__e__g__a</item>
         <item>m__x_player</item>
+        <item>macro_deck</item>
         <item>marvel_comics</item>
         <item>marvel_unlimited</item>
+        <item>material_files</item>
         <item>messenger</item>
         <item>messenger_lite</item>
         <item>metro_music</item>
@@ -457,21 +481,25 @@
         <item>microsoft_teams</item>
         <item>microsoft_to__do</item>
         <item>microsoft_word</item>
+        <item>money__wallet</item>
         <item>mull</item>
         <item>music</item>
         <item>musixmatch</item>
         <item>my_mixtapez</item>
         <item>n__b__a</item>
+        <item>nekogram_x</item>
         <item>netflix</item>
         <item>netguard</item>
         <item>new__pipe</item>
         <item>news_republic</item>
+        <item>nextcloud</item>
         <item>nine__g__a__g</item>
         <item>nord__v__p__n</item>
         <item>nova_launcher</item>
         <item>nova_launcher_prime</item>
         <item>nova_launcher_settings</item>
         <item>onix_music</item>
+        <item>open__workout</item>
         <item>open_camera</item>
         <item>opera</item>
         <item>opera_news</item>
@@ -488,6 +516,9 @@
         <item>play_music</item>
         <item>plex</item>
         <item>posidon_launcher</item>
+        <item>proton_calendar</item>
+        <item>proton_mail</item>
+        <item>proton_v__p__n</item>
         <item>reddit</item>
         <item>retro_music</item>
         <item>s__h__a__r__e_it</item>
@@ -496,10 +527,13 @@
         <item>session</item>
         <item>settings</item>
         <item>shazam</item>
+        <item>showly</item>
         <item>signal</item>
         <item>simple__login</item>
         <item>simple_keyboard</item>
         <item>simpletask</item>
+        <item>simpletask_nextcloud</item>
+        <item>simpletask_web__d__a__v</item>
         <item>skype</item>
         <item>skype_business</item>
         <item>skype_lite</item>
@@ -646,32 +680,49 @@
         <item>aegis</item>
         <item>aurora_store</item>
         <item>auth__pass</item>
+        <item>bromite</item>
+        <item>collabora_office</item>
         <item>connect__bot</item>
         <item>datura_firewall</item>
+        <item>element</item>
         <item>etar_calendar</item>
         <item>f__droid</item>
         <item>f__o__s__s_browser</item>
+        <item>flym</item>
+        <item>flym_dec__sync</item>
         <item>k9_mail</item>
         <item>kodi</item>
         <item>kore</item>
         <item>l__b__r__y</item>
         <item>lemuroid</item>
         <item>loop_habits</item>
+        <item>macro_deck</item>
+        <item>material_files</item>
         <item>metro_music</item>
         <item>micro__g</item>
+        <item>money__wallet</item>
         <item>mull</item>
+        <item>nekogram_x</item>
         <item>netguard</item>
         <item>new__pipe</item>
+        <item>nextcloud</item>
+        <item>open__workout</item>
         <item>open_camera</item>
         <item>orbot</item>
         <item>organic_maps</item>
+        <item>organic_maps</item>
         <item>posidon_launcher</item>
+        <item>proton_calendar</item>
+        <item>proton_mail</item>
+        <item>proton_v__p__n</item>
         <item>seedvault</item>
         <item>session</item>
         <item>signal</item>
         <item>simple__login</item>
         <item>simple_keyboard</item>
         <item>simpletask</item>
+        <item>simpletask_nextcloud</item>
+        <item>simpletask_web__d__a__v</item>
         <item>stealth</item>
         <item>syncthing</item>
         <item>syncthing_fork</item>
